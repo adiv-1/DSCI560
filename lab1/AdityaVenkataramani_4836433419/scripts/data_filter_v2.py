@@ -2,7 +2,7 @@ import os
 import csv
 from bs4 import BeautifulSoup
 
-file = open("../data/raw_data/web_data.html", "r", encoding="utf-8")
+file = open("../data/raw_data_v2/web_data.html", "r", encoding="utf-8")
 content = file.read()
 file.close()
 
@@ -38,12 +38,12 @@ for card in cards:
         temp.append(chg_text)
         stocks.append(temp)
 
-file = open("../data/processed_data/market_data.csv", "w", newline="", encoding="utf-8")
+file = open("../data/processed_data_v2/market_data.csv", "w", newline="", encoding="utf-8")
 csv_writer = csv.writer(file)
 csv_writer.writerow(["marketCard_symbol", "marketCard_stockPosition", "marketCard_changePct"])
 file.close()
 
-file = open("../data/processed_data/market_data.csv", "a", newline="", encoding="utf-8")
+file = open("../data/processed_data_v2/market_data.csv", "a", newline="", encoding="utf-8")
 csv_writer = csv.writer(file)
 for temp in stocks:
     csv_writer.writerow(temp)
@@ -81,12 +81,12 @@ for i in items:
         temp.append(url_str)
         articles.append(temp)
 
-file = open("../data/processed_data/news_data.csv", "w", newline="", encoding="utf-8")
+file = open("../data/processed_data_v2/news_data.csv", "w", newline="", encoding="utf-8")
 csv_writer = csv.writer(file)
 csv_writer.writerow(["LatestNews_timestamp", "title", "link"])
 file.close()
 
-file = open("../data/processed_data/news_data.csv", "a", newline="", encoding="utf-8")
+file = open("../data/processed_data_v2/news_data.csv", "a", newline="", encoding="utf-8")
 csv_writer = csv.writer(file)
 for temp in articles:
     csv_writer.writerow(temp)
