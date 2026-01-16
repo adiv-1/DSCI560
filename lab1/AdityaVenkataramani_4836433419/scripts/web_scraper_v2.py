@@ -41,7 +41,6 @@ except:
     pass
 
 html = browser.page_source
-
 browser.quit()
 
 file = open("../data/raw_data/web_data.html", "w", encoding="utf-8")
