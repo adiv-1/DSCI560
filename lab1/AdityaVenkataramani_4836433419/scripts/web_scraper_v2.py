@@ -10,8 +10,8 @@ import time
 
 url = "https://www.cnbc.com/world/?region=world"
 
-os.makedirs("../data/raw_data", exist_ok=True)
-os.makedirs("../data/processed_data", exist_ok=True)
+os.makedirs("../data/raw_data_v2", exist_ok=True)
+os.makedirs("../data/processed_data_v2", exist_ok=True)
 
 options = Options()
 options.add_argument("--headless")
@@ -43,11 +43,11 @@ except:
 html = browser.page_source
 browser.quit()
 
-file = open("../data/raw_data/web_data.html", "w", encoding="utf-8")
+file = open("../data/raw_data_v2/web_data.html", "w", encoding="utf-8")
 file.write(html)
 file.close()
 
-file = open("../data/raw_data/web_data.html", "r", encoding="utf-8")
+file = open("../data/raw_data_v2/web_data.html", "r", encoding="utf-8")
 lines = file.readlines()
 file.close()
 
