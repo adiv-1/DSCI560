@@ -5,8 +5,7 @@ from dotenv import load_dotenv
 import kagglehub
 from kagglehub import KaggleDatasetAdapter
 
-# Load environment variables (adjust path if needed)
-load_dotenv("lab2.env")  # Assuming lab2.env is in the same directory as the script; update path if necessary
+load_dotenv("lab2.env")
 
 # Set Kaggle credentials from .env
 os.environ["KAGGLE_USERNAME"] = os.getenv("KAGGLE_USERNAME")
