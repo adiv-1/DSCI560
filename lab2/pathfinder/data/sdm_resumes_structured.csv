@@ -1,0 +1,1274 @@
+name,full_text,universities,degrees,graduation_dates,companies,job_titles,experience_dates,num_bullet_points
+SHWETA AGARWAL,"SHWETA AGARWAL
+235 Albany Street, Apt # 3069, Cambridge, MA 02139
++1 (917) 435-2825 | shwetaag@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management 08/2016 – 01/2018
+Candidate for M.S., System Design and Management, Jan 2018 | CGPA 4.5/5
+ Active member of Technology, Product Management, FinTech, and Entrepreneurship and Innovation clubs
+ Project: Designed image recognition tool for restaurants to identify customers, their emotion and fetch their food
+preferences from past records, enabling personalized services to the right customer at the right time
+ GMAT: 720
+Indian School of Business (ISB) Hyderabad, India
+Post Graduate Programme in Management (M.B.A.) 2013 - 2014
+ Concentration: Information and Technology Management; Marketing
+ Events Coordinator, Women in Business Club; Lead Coordinator, Business Technology Club
+Galgotias College of Engineering and Technology Greater Noida, India
+Bachelor of Technology, Electronics and Communication Engineering 2005 - 2009
+ Graduated 1st / 125 students in my department & among top 5% of university B.Tech batch of ~26,000 students
+EXPERIENCE
+Axis Bank Mumbai, India
+India’s leading private bank, offering a wide range of consumer and corporate banking services; annual turnover: $6.2B
+Senior Manager, IT - Technology & Digital Innovation Group 05/2014 – 02/2016
+Innovation Management and IT Strategy - CIO Advisory
+ Handpicked by the senior management to devise digital transformation strategy; conducted competitor analysis and
+liaised with industry experts to constitute I.D.E.A. team to make digital innovation a core competency for the bank
+ Analyzed user needs and presented applications of natural language processing, artificial intelligence and blockchain
+technologies in virtual assistance, personalized customer experience and payments innovation at the bank
+ Managed setting up of Innovation Lab with in-house incubation center and accelerator program for new start-ups
+New Product Design/Co-creation and Data Analytics
+ Led team of 12 people to build digital wallet 'LIME' app by evaluating market trends, gathering requirements and
+developing features, resulting in >1M installs and ~$4.6M value of wallet load in 3 months of launch
+ Designed and developed user journey, product features and technical implementation plan for the instant personal
+loan on mobile app, resulting in 11,000 loan accounts creation and disbursal of ~$5.2M
+ Implemented multiple big data initiatives using Hadoop and Google Analytics, enabling location based personalized
+offers to customers, and 90% of time reduction in transactions tagging
+ Conceptualized and launched service package ‘Happy Holidays’ which included forex, travel insurance, trip assist,
+dining delights and international sim to tap Indian globetrotters. It won bronze amongst 469 nominees from 261
+banks in the EFMA International Innovation Awards (marketing & distribution) under customer experience category
+Tata Consultancy Services Gurgaon, India
+Asia’s largest IT Services, Business Solutions and Outsourcing organization; annual turnover - $16.5B
+Systems Engineer, IT Infrastructure Services 01/2010 – 03/2013
+ Chosen ahead of 15 team members to drive due-diligence phase by serving as liaison between business and technical
+teams, enabling ~$5M deal sign-off from the UK based automobile manufacturing client
+ Automated the process of health check and monitoring of environment using Six –Sigma strategy, reducing 25% of
+man-hours and achieving cost saving of $50,000 for the UK Retail client
+ Spearheaded scoping & monitoring of the Service Level Agreement (SLA) by designing a customized IT Solution
+for tracking knowledge transfer from client, ensuring project compliance by meeting both internal & market SLAs
+Rimjhim Ispat Ltd Unnao, India
+India’s leading stainless steel producer, melting capacity 300,000 MT/annum, annual turnover $110M
+Sales Engineer 07/2009 – 12/2009
+ Led the sales function which resulted in building new client base of 5 companies and order book value of $100,000
+ADDITIONAL INFORMATION
+ Technical Skills: JMP13, R, Tableau, Python, HTML and JavaScript
+ Volunteer CRY since Jul’12: organized street play & educated people on zero tolerance towards violation of child
+rights
+ Avid swimmer and dancer","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management 08/2016 – 01/2018, Indian School of Business (ISB) Hyderabad, India, Business Technology Club
+Galgotias College of Engineering and Technology Greater Noida, India","M.S., Bachelor","2013 - 2014, 2005 - 2009","Axis Bank, Senior, Innovation Management and IT, New Product, Tata Consultancy Services, Systems, Rimjhim Ispat Ltd, Sales","Senior Manager, IT - Technology & Digital Innovation Group 05/2014 – 02/2016, Innovation Management and IT Strategy - CIO Advisory, Systems Engineer, IT Infrastructure Services 01/2010 – 03/2013, Sales Engineer 07/2009 – 12/2009",,0
+TAYLOR H. ANDREWS,"TAYLOR H. ANDREWS
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management September 2016 - Present
+M.S., System Design and Management
+Worcester Polytechnic Institute Worcester, MA
+School of Engineering September 2008 – May 2012
+B.S., Computer Science, Minor in Music
+• Graduated with Highest Distinction, Upsilon Pi Epsilon (Computer Science Honor Society) Vice President
+EXPERIENCE
+VMware Cambridge, MA
+Core Hypervisor / Virtual Machine Monitor group May 2012 - Present
+System Software Engineer II
+• Implemented virtual x86 Graphics Address Remapping Table (GART) hardware
+• Lead contributor to virtual x86 performance counter hardware platform
+• Active contributor to hardware virtualization drivers and virtualization hardware virtualization (nested VM support)
+• Led bring your kids to work day’s server disassembly / reassembly event
+Microsoft Cambridge, MA
+App-V (Application Virtualization) group September 2011 – December 2011
+MQP Intern
+• Selected for WPI’s first capstone project collaboration with Microsoft
+• Member of three-person team that created prototype JS/HTML5 webapp (under NDA)
+VMware Palo Alto, CA
+Core Hypervisor / Virtual Machine Monitor group May 2011 – August 2011
+Intern
+• Designed and implemented k-means clustering algorithm based guest operating system performance analysis tool
+Worcester Polytechnic Institute Worcester, MA
+Computer Science Department September 2010 – May 2012
+Undergraduate TA
+• CS lab/conference TA for Operating Systems, Software Engineering, and Scheme classes
+Stratus Technologies Maynard, MA
+Windows ftServer (fault tolerant hardware) group May 2010 – February 2011
+Co-op / Part-time Software Engineer
+• Member of four-person team that successfully designed and prototyped PCI-e non-transparent bridge FPGA
+implementation for tripling memory copy speeds in Stratus ftServer
+• Rewrote some WinDBG extensions for reverse x86 page walks
+NOTABLE PROJECTS AND ACCOMPLISHMENTS
+• Douglas High School Class of 2008 Valedictorian
+• Awards for individual contributions as well as team leadership in undergraduate Software Engineering classes
+• Java-like language undergraduate compiler – member of one of two teams to receive full score
+• Recycled Arcade Machine – full-size, backlit arcade machine with full case art, built from 100% salvaged materials
+• Algorithmic Music Composition and Large-Scale Sound Installation Design – wrote software to compose music
+from real-time data (such as stock market values) and constructed full-scale psychoacoustic art installation (WPI)
+• Douglas High School 3D Walkthrough – High school senior project; a customizable, first person, 3D virtual model
+of the high school http://tinyurl.com/q7xrnxz
+• Franken-VM - A 36-hour VMware hackathon featured project: “Distributed Memory Hypervisor”
+HOBBIES____________________________________________________________________________________
+Technology, home automation, guitar, ukulele, darts, cards, table tennis, fishing, hiking","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management September 2016 - Present, System Design and Management
+Worcester Polytechnic Institute Worcester, MA","M.S., B.S.",2016 - Present,"VMware, Core",,May 2012 - Present,0
+SHRUTI BANDA,"SHRUTI BANDA
+550 Memorial Dr, Cambridge, MA
+shruti.banda@sloan.mit.edu, +1(408)2039493
+EDUCATION
+Massachusetts Institute of Technology, Cambridge Aug’2015-Present
+Master of Science in Management and Engineering, Sloan School of Management & MIT School of Engineering
+ Developed a complete B-plan for a market-place to help restaurants source local farmers’ organic produce.
+ Analyzed Amazon employee data to predict access needs using statistical tools R & python for data mining.
+ Built a web application (Group’em) to help K-12 teachers to effortlessly create and manage classroom groups.
+ Built an auto-cleaning database that predicts missing values in a column using appropriate machine learning
+technique on remaining columns.
+ Teaching Assistant (2015-17): Manage EDX platform by assisting students & creating content for the premier
+MIT SCX online course awarding 1,200 certificates with a total of +20K students enrolled from 185 countries
+Indian Institute of Management, Calcutta June’2012-Apr’2014
+Master of Business Administration (MBA)
+National Institute of Technology, Warangal June’2008-May’2012
+Bachelor of Technology, Computer Science
+EXPERIENCE
+Senior Product Manager Personagraph Apr’2014 – July’2015
+ Responsible for product vision, strategy and roadmap for Personagraph analytics tool and partner portal.
+ Worked with cross-functional teams to gather, plan and implement the product requirements. Used Wireframing
+tools such as Omnigraffle and Balsamiq to design the product for better data representation and Scrum process
+for delivering the product.
+ Led the analytics UX redesign and re-architecture effort & built an advanced heuristic & clustering based model
+named “high value users” for finding most profitable users
+ On-boarded 50+ app developers, resulting in 10M+ users with 50+ million inferences generated about them.
+Product & Research Intern IntellADAPT May’2016 – Aug’2016
+ Designed mobile apps to collect data & analyze the potential of EEG wearables for a brain computer interface (BCI)
+ Built commercialization plan & financial projections for the wearable technology which earned $1.5M in funding
+from the National Science Foundation.
+ Prototyped a low cost wearable device with the potential to reach the billion-dollar education tech market.
+Marketing Intern Mondelez International May’2013 – Jul’2013
+ Was offered Pre-Placement Interview after project review; Developed Integrated marketing communication
+ideas with strong link to consumer insights (33 consumer immersions) to build desire for Cadbury Bournville
+ Effectively used digital media in proposed ideas & analyzed their viability by contacting potential partners.
+Software Developer Intern Microsoft Apr’2011 – June’2011
+ Pre-Placement Offer from Microsoft India; Implemented a Proof of Concept for posting an onsite application
+interface to the Microsoft cloud using Azure Connect that reduced the transfer time of 2GB file by 82%(23 to 4 min)
+ Built UI to automatically generate scripts that saved 7 hours of manual work & got integrated in next product release.
+LEADERSHIP
+MIT Clubs: Women in System Design & Management Chair & VP of education for Sloan Product Mgmt. club,’16
+Intaglio International Business Event, IIM Calcutta
+ Organized Marketplace, a versatile marketing plan building and flagship event of Marketing and Coordinator of
+Arena, a series of five spot events based on Marketing, Strategy and Finance, 2013-14
+Sports Captain, Throw ball & kho-kho
+ Captained the school Throw Ball and Kho-Kho team at Sri Satya Sai Vidya Vihar High School, 2004-06
+ Winner of Intra School Throw ball competition in 2005-06 and Kho-Kho competition for two years
+ADDITIONAL INFORMATION
+ Programming Languages & skills: C, C++, C#, Java, Python, sketch (design tool), R
+ Scholarships: Top scorer in school from among 79 students in class X board exam, 2006. Runner-Up in Young
+Mathematician Contest and among 25 people selected for project Ramanujan, 2001","Massachusetts Institute of Technology, Cambridge Aug’2015-Present, Sloan School of Management & MIT School of Engineering, Indian Institute of Management, Calcutta June’2012-Apr’2014, National Institute of Technology, Warangal June’2008-May’2012","Master, Master, Bachelor",2015-Present,Senior Product Manager Personagraph,Senior Product Manager Personagraph Apr’2014 – July’2015,,0
+MINA N. M. BOTROS,"MINA N. M. BOTROS
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management 2015-2017 (expected)
+M.S., Engineering Management
+University of Calgary Calgary, AB
+Schulich School of Engineering 2005-2009
+B.Sc., Mechanical Engineering
+PROFESSIONAL EXPERIENCE
+TECHNOLOGY STRATEGY PARTNERS Cambridge, MA
+Associate, Consultant 2016
+Strategy
+• Created models to assess the effect of product pricing points on consumer buying habits and forecasted
+sales.
+• Investigated several value creation frameworks to achieve clients’ revenue growth targets.
+• Helped clients apply holistic systems models to make business decisions and to meet their strategic
+visions.
+Operations
+• Conducted diagnostic interviews with key stakeholders within clients’ organizations.
+• Worked with clients to identify and to analyze historical data for model creation, calibration and testing.
+• Conducted analyses to identify potential common product platform parts or new architectures.
+• Conducted financial analyses to assess the profitability of product platforms.
+JACOBS CANADA INC. Calgary, AB
+Project Engineer, Team Lead (P.Eng.) 2011 – 2016
+• Managed several multi-million dollar concurrent oil sands projects including shared scope with Mumbai
+office.
+• Prepared engineering budgets and staffing plans, and compiled monthly-earned value reports.
+• Reviewed, signed, and stamped all construction documents and building permit applications.
+• Analyzed historical labor reports, and presented resource cross utilization plan to management to increase
+productivity. Projected savings to clients ranged from $100k to $250k depending on project scope.
+• Evaluated various contracting strategies to save clients $150k per project by shifting scope of supply with
+a minor increase in schedule risk.
+ACADEMIC EXPERIENCE
+SYSTEM DESIGN AND MANAGEMENT PROGRAM at MIT Cambridge, MA
+Head Teaching Assistant 2016 - Present
+• Lead a team of 5 teaching assistants.
+• Liaise with course instructors to build lecture and recitation schedule.
+• Teach a two-hour class once per week to 107 students.
+• Create grading rubrics; handle teamwork conflicts and moderate online class forum.
+• Collaborate with the program’s staff to promote it across MIT and to industry sponsors.
+• Mentor five industry sponsored term projects in the areas of architecture, technology maturation and
+roadmapping, process implementation and business case evaluation.
+GLOBAL TEAMWORK LAB Cambridge, MA
+Researcher 2016 – Present
+• Design a resource allocation framework to advance project portfolio management practices.
+• Participate in designing experiment to detect correlations between participants’ mental models and project
+performance.
+• Organize research symposia and conferences with colleagues from the University of Tokyo.
+• Advise industry research partner on strategic organizational design and its effect on innovation and
+process implementation.","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management 2015-2017 (expected), Engineering Management
+University of Calgary Calgary, AB, Schulich School of Engineering 2005-2009","M.S., B.Sc.","2015-2017, 2005-2009",TECHNOLOGY STRATEGY PARTNERS,,,0
+AMLAN DAS,"AMLAN DAS
+Apt. #9B, 60 Wadsworth Street,
+Cambridge, MA 02142, United States
+Email: amlandas@mit.edu | Cell: +1 (617) 417 4839
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Sep 2016 - Present
+M.S., System Design and Management
+Visva Bharati University Kolkata, India
+Dept. of Computer Science Jul 2003 – Jun 2007
+Bachelor of Technology (B.Tech), Information Technology
+EXPERIENCE
+GOLDMAN SACHS Bangalore, India
+Associate Jun 2015 – July 2016
+ Led software development modules for cloud platforms team; designed and developed features such as software rate
+limiter, state transition workflow engine, data reconciliation framework.
+ Built a product and services provisioning system having salient characteristics like - policy-based inventory, security
+hardening of the systems, workflow and lifecycle automation, and capacity management. Took proactive leadership
+to define the proposed road map to adopt the new system, which leads to cost savings for the firm up to $1.5M.
+AT&T Bangalore, India
+Technical Specialist Feb 2015 – May 2015
+ Defined design strategy, reviewed and rated engineers working in my team.
+THOMSON REUTERS Bangalore, India
+Lead Engineer Oct 2013 – Jan 2015
+Senior Engineer Jul 2012 – Oct 2013
+Engineer Sep 2010 – Jun 2012
+ Led a global (US & India) development team of five engineers. Established software development standards and
+practices, engaged in requirement and feature discussions with clients, and authored the high-level design document.
+ Worked closely with business stakeholders to evaluate the data in the internal systems and suggest improvements.
+ Reviewed and rated engineers working in the team, identified skill matrix for the team and recommend training
+programs, defined half-yearly common goals and a plan of action to achieve them. Also handled conflict
+management, worked to enable greater synergy between cross-functional teams, and mentored team members.
+ Built an asset management software with features like – monitor complete asset lifecycle, auto discovery of
+endpoints, CMDB functionality like viewing configuration items and their relationships, license management,
+remote control of devices, and granular reporting of the environment.
+ Devised centralized voice and contact center management portal. It provided the business stakeholders a lever to
+their business variables giving them more fine-grained control, automation and efficient utilization of work force.
+ Designed a solution to integrate Salesforce and internal client management system.
+TECH MAHINDRA Bangalore, India
+Technical Associate Feb 2010 – Sep 2010
+ Worked on product enhancements as a member of offshore development team. Developed and supported Computer
+Telephony Integration (CTI) solutions.
+HEWLETT PACKARD Bangalore, India
+Technology Consultant Aug 2007 – Jan 2010
+ Worked on operational support engineer for Cisco Unified Communication and HP products e.g. – Cisco UCCE,
+Cisco UCM, Cisco CVP, HP Service Manager. Was responsible for incident management and change management.
+TECHNICAL SKILLS
+ Programming/Scripting Languages: JavaScript (node.js), Java, J2EE, SQL
+ Databases/Data Sets: RDF, OWL, Graph DB, Microsoft SQL Server, Oracle, MySQL, NoSQL, XML, JSON
+ Concepts: Data Structures & Algorithms, Ontology, Semantic Web, Design Patterns, UML, REST web services
+ Others: Node.js, JBOSS Application Server, Apache Tomcat, Glassfish AS, Subversion (SVN), JIRA, Eclipse IDE,
+Intellij IDEA, VMWare VCloud, Linux Red-Hat, Windows Server, ITIL","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Sep 2016 - Present, System Design and Management
+Visva Bharati University Kolkata, India","M.S., Bachelor",2016 - Present,"GOLDMAN SACHS, Associate, AT&T, Technical Specialist, THOMSON REUTERS, Lead Engineer, Senior Engineer, Engineer, TECH MAHINDRA, Technical Associate, Telephony, HEWLETT PACKARD, Technology Consultant","Technical Specialist Feb 2015 – May 2015, Lead Engineer Oct 2013 – Jan 2015, Senior Engineer Jul 2012 – Oct 2013, Technology Consultant Aug 2007 – Jan 2010",,0
+SUBHANKAR DAS,"SUBHANKAR DAS
+s_das@mit.edu | (617)-909-4828 | #705, Building W85, 540 Memorial Drive, Cambridge, MA-02139
+SUMMARY
+Engineering and management professional with 12 years of experience in the Hi-Tech industry, leading several
+teams in successfully developing and shipping innovative products, both in the corporate and start-up environments.
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management June’17
+Masters - System Design and Management (SDM) GPA: 4.9/5.0
+Visvesvaraya Technological University Bagalkot, KA, India
+Bachelor of Engineering, Electrical and Electronics July’03
+WORK EXPERIENCE
+SENSATA TECHNOLOGIES Jun 2016 – Aug 2016
+Leadership Development Program Attleboro, MA & Aguascalientes, Mexico
+• Designed an analytical tool for evaluating individual parts holistically to make data-driven decisions.
+Successfully deployed the tool for an entire family of products, with estimated profit of $1. 3M over next 5 years
+• Developed framework, discovered systemic process gaps, recommended and implemented long-term mitigation
+plans, for effective management of End-Of-Life and Service parts with long product life cycles of 20+ years
+TEXAS INSTRUMENTS Aug 2011 – Aug 2015
+Team Lead, Microcontroller and Embedded Processing Bangalore, India
+• Led a team of 8 to design and develop both ultra low-power and high speed digital standard cell libraries that
+formed the building blocks of almost all chips, across multiple technology nodes (130nm-28nm)
+• Spearheaded efforts on building a robust QC system with buy-in from several design teams; the system reduced
+bugs reported in field, improved design cycle times by 10% and increased yield by 20%
+• Collaborated with global cross-functional teams across TI sites - Germany, Norway, China and USA to gather
+unique requirements of each team, to build and manage ~15 (6000 cells each) optimal, high-performance libraries
+• Awarded “Team TI-tanium award” thrice, for the most innovative project within a 300-member Business Unit
+• Mentored 9 interns; identified and hired competent candidates to create a very technically competent workforce
+AMD Jan 2011 – Aug 2011
+Team Lead, Technology and Manufacturing Group Bangalore, India
+• Designed and developed High-speed Standard Cell Libraries for 30% area savings on 40nm/28nm nodes
+• Recruited & mentored design team to grow from 3 to 11 members in 6 months to double the productivity
+KARNATAKA MICROELECTRONICS DESIGN CENTRE Aug 2003 – Jan 2011
+Project Manager and Member of Technical Staff Manipal, India
+• Managed several technical teams with sizes ranging from 6 to 40 members. Teams included peers and seniors
+• Hired and provided on-the-job training to 70+ engineers to power growth and competency of the company
+from 28 members to 350 members over 7 years. Awarded 1% shares of the company for my contributions.
+• Core designer of a unique product line of High Definition miniature projectors, at Syndiant Inc. Dallas, TX
+• Headed a 3-member team to decide Compensation and Leave policies for the company
+PATENTS & PAPERS
+• Low Area Enable Flip-Flop, Co-Inventors – Soman P, USPTO – 20160191028, Status-Published
+• A Standard Cell Design with Reduced Cell Delay, Co-Inventors – Ramesh H, USPTO- 20160188758, Status-Published
+• New High Performance and High Density Libraries in 65nm tuned for MCU, TIITC, Dec-14 (Best Paper)
+• Design techniques for PPA improvements in C28.P libraries, Texas Instruments Interconnect symposium, Feb-12
+• On-rail Passenger Information System, VLSI Design and Test Conference, May-04
+ADDITIONAL INFORMATION
+• Teaching Assistant for Global Supply Chain Mgmt, B2B Marketing & Architecture of Complex Systems (MITx)
+• Fellow, MIT Graduate Student Leadership Institute - A selected group of 30, across all schools at MIT
+• Avid food enthusiast and food blogger. Fluent in 5 languages – English, Hindi, Oriya, Bengali & Kannada","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management June’17, Visvesvaraya Technological University Bagalkot, KA, India","Master, Bachelor",,,,,0
+VARAG GHARIBJANIAN,"VARAG GHARIBJANIAN
+1 Devonshire Pl, apt 1606, Boston MA, 02109 | 714.955.1123 | varag@sloan.mit.edu
+EDUCATION
+MIT SLOAN SCHOOL OF MANAGEMENT CAMBRIDGE, MA
+Candidate for M.S., Systems Design and Management, June 2017 2015 – PRESENT
+• Product management intern for Lightwave, a bio-analytics wearable startup in SF
+• System architect of digital platform for Hyperloop Transport Technologies (HTT)
+• Co-President of Product Management Club - Member of Technology and Entrepreneurship & Innovation Clubs
+UNIVERSITY OF CALIFORNIA, IRVINE IRVINE, CA
+Bachelor of Science in Civil Engineering, June 2011
+• Led a four-student team in the design of a multi-story recreational building (senior design project)
+EXPERIENCE
+APPLIED MATERIALS SANTA CLARA, CA
+The largest global provider of semiconductor equipment, software, and services with over $9B in revenue SUMMER 2016
+Summer Associate
+• Researched and developed market entry strategy in Augmented and Virtual Reality (AR/VR) industries, identifying and creating
+partnership and venture opportunities. Worked closely with Advanced Technologies Group to define technology roadmap
+• Researched the key evolutions of hardware technologies in 5G wireless infrastructure and devices, improving product portfolio
+and roadmap of largest Business Unit (BU) by revenue
+• Collaborated with corporate venture team to conduct technical and market due diligence on a leading AR/VR hardware startup
+ENDEAVOUR PARTNERS LLC CAMBRIDGE, MA
+A business strategy and Intellectual Property consulting firm for large technology companies 2013 - 2015
+Senior Consultant
+• Led a team of consultants in defining the partnership strategy between the largest mobile device manufacturer and two largest
+wireless carriers, leading to a joint business venture, new product concept, and clearly defined go to market strategy
+• Advised nine technology startups (in the education, transportation, energy, and healthcare industries) on their business model,
+product, and marketing strategy, increasing valuations for portfolio companies of major Venture Capital client
+• Managed client relationship, project schedules/budgets, and led 10-person team to quantify the commercial value of an Intellectual
+Property (IP) portfolio of 40,000 wireless patents in a licensing deal for an enterprise valued at over $160B)
+• Analyzed and valued IP portfolios of eight technology companies to help second largest wireless carrier identify strategic
+partnerships, supporting launch into wearable technology market
+• Led a two-consultant team to evaluate and assess capabilities of top 10 financial company's software portfolio and architecture,
+quantifying strengths and weaknesses that enabled client to invest in suitable acquisitions
+• Managed research and analysis of the mobile/wireless market with a 10-consultant team in three IP infringement before the
+International Trade Commission (ITC) on behalf of the world’s largest mobile device manufacturer, leading to repeat business
+with a client who became the firm’s largest in terms of revenue
+• Analyzed mobile barcode recognition algorithm for the largest global online retailer in an IP dispute, helping client demonstrate
+key technical differences from competitors’ technology and the claimed patent
+SVS CONCEPTS LLC ANAHEIM, CA
+A mobile technology startup developing solutions for self-storage security systems 2012 - 2013
+Co-Founder
+• Led a team of four developers and designers to develop mobile application that could control storage security systems. Led
+business plan development and product launch strategy, resulting in successful deployment in several facilities
+WADDELL & REED LOS ANGELES, CA
+An asset management and financial services company with over $100B in AUM (Assets Under Management) 2010 - 2012
+Financial Consultant
+• Purchased, sold, and specialized in technology equities and funds on behalf of clients, increasing portfolios’ values by 13%
+• Received numerous performance awards including two-time National Advisor of the Week
+MOBILITIE LLC NEWPORT BEACH, CA
+The largest private wireless infrastructure company servicing the nation's major wireless carriers 2010 - 2011
+Product Management Intern
+• Co-invented and patented wireless communication technology, enabling smartphones to form mesh networks to send and receive
+data at advanced speeds without network infrastructure.
+• Led and collaborated with engineering, design, consulting, patent, and executive teams to develop technology and business model,
+resulting in successful launch in several major venues
+ADDITIONAL
+Tutoring Plus: Tutor and mentor underrepresented Cambridge middle school students in math, reading, and writing
+Venture Café: Track and analyze startup activity and funding data, support innovation events in the greater Boston area
+SeedUP: Inventor of innovative packaging product that will be launching in the market later this year
+Interests: Play and teach students classical piano, compete in table tennis, chess, and basketball",,"M.S., Bachelor",,,,,0
+JOHN Y GILMORE,"JOHN Y GILMORE
+21 Sciarappa St Unit 1
+Cambridge, MA 02141
++1 (646) 745-0167
+jyg@mit.edu
+https://www.linkedin.com/in/gilmorej
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Aug 2016 - May 2018
+M.S. System Design and Management
+Finance Club, Member of Sloan Senate, Cohort Social Officer
+West Point, United States Military Academy West Point, NY
+Systems Engineering Jun 2006 - May 2010
+B.S. Engineering Management
+Regiment Commander for Summer Military Exercises (400 cadets), Alpine Ski Team 4 years
+EXPERIENCE
+U.S. Army Corps of Engineers, Middle East District Winchester, VA/ Riyadh, Saudi Arabia
+Project/Program Manager: Saudi Arabia, Yemen and Oman Jul 2014 - Aug 2016
+ As the youngest Project Manager for the Army in the Middle East, successfully sold the first of construction case in
+32 years, an Apache airbase to the Kingdom of Saudi Arabia, budgeted at $209 million— then sold two more cases
+ Prepared, presented and signed a new advising contract with the Saudi Arabian Interior Ministry, allowing the US
+Government to bid on security contracts contracts valued at over $5 billion
+ Established a new regional office in Saudi Arabia, including establishing business relationships with senior Saudi
+Leaders, creating initial protocols, negotiating for property and renovation of office and living buildings, and selling
+new construction and advisory contracts worth $550 million
+ Successfully managed the budget and schedule for the Military Construction (MILCON) program in Oman, meeting
+contract award timelines and customer requested changes resulting in the completion of a critical portion of a U.S.
+Military air base on time
+ Led a technical team in acquiring funding and in designing a Yemen Coast Guard base project, despite substantial
+security hurdles, and despite limited technical knowledge within the host country
+U.S. Army Corps of Engineers, Transatlantic Division Winchester, VA/ Kabul Afghanistan
+Aide-de-Camp for Division Commander (2-star General) Feb 2013 - Jul 2014
+ Successfully carried out the Commander’s agenda from strategic priorities to daily business, working as a junior
+officer among a high-powered staff, and a diverse group of stakeholders
+ oPflfaincneer dw, ipthri oar hitiigzhed-p aonwde erexde csutateffd, satnradt edgivice rrseeo gccrouurrpi nogf esntagkaegheomldeenrtss. with principle decision throughout the Middle
+East and Central Asia that included visits to 8 countries while engaging with foreign governments, U.S. governmental
+agencies and Allied Militaries
+ Ranked as the #1 Captain of over 100 Company Grade Officers during General’s command
+U.S. Army, 1st Cavalry Division Fort Hood, TX
+Combat Engineer Company Executive Officer May 2010 - Feb 2013
+ Planned and implemented a maintenance plan for over 70 tactical vehicles, leading 180 soldiers in logistics and supply
+chain management with a budget of $7 million annually, achieving the second-best readiness level of 36 companies
+ Equipped, trained and maintained the company’s 17 Bradley fighting vehicles and its crews for the Annual Combat
+Readiness Evaluation (Bradley Gunnery): the most important armored vehicle evaluation
+ Selected over other senior Officers to take company Executive Officer position, and later brigade headquarters
+company Executive Officer position
+Platoon Leader
+ Led a 35-man Combat Engineer Platoon (Sappers) in north and central Iraq on over 125 combat patrols to disrupt
+enemy attacks and movements in the battle space
+Assistant Operations Officer
+ As the Officer in charge of planning operations for a battalion, built the plan used for base defense at Forward
+Operating Base Warhorse resulting in 75% reduction in enemy artillery attacks
+ADDITIONAL____________________________________________________________________________________
+ Captain of West Point Ski Team for two years, current MIT Ski Team Assistant Coach
+ Enlisted Infantryman for 2.5 years prior attending West Point; 82nd Airborne Division, Fort Bragg, NC
+ Interests: Scuba Diving, Hiking, Tennis, Cycling
+BURAK GOZLUKLU, PhD
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management 08/2015 – 06/2017 (expected)
+M.S., System Design and Management
+Middle East Technical University Ankara, Turkey
+Ph.D., Aerospace Engineering 09/2010 – 03/2014
+• Pursued while full-time working; received fellowship due to the collaboration supported by TAI and Turkish Ministry
+of Sci.Tech.
+• Thesis Keywords: Computational solid mechanics, fracture mechanics, composite materials and programming.
+B.S. with Honors, Mechanical Engineering 09/2001 – 06/2006
+• Minor degree on Materials and Metallurgical Engineering.
+EXPERIENCE
+MIT-SLOAN SCHOOL OF MANAGEMENT Cambridge, MA
+Research Assistant 1/2016 –
+• Developing a new playable product development system dynamics game for the executive education at MIT-Sloan.
+TESLA MOTORS Palo Alto, CA
+Program Manager / Summer Intern 5/2016 – 8/2016
+• Successfully delivered an electrical assembly of a Model-3 prototype, on time, as the Program Manager in HV Battery
+Engineering while collaborated with numerous overseas suppliers.
+• Stepped into different roles, such as harnesses design, to support the engineering team when it was necessary.
+TURKISH AEROSPACE INDUSTRIES (TAI) Ankara, Turkey and Toulouse, France
+Established by the Lockheed Martin and Turkish government in 1984 to manufacture F-16’s. Today, TAI reached $1
+billion revenue, 4500 employees and shareholder of Airbus Military and risk sharing partner of Airbus in A350 project.
+Engineering Team Leader - Airbus A350 Ailerons 12/2008 – 06/2015
+• Team leader of 12-20 structural analysis engineers to develop Airbus A350 carbon-fiber reinforced composite ailerons
+(wing flight control systems) from conceptual phase to the first flight.
+• Acted as “Structural Analysis Signatory” who “approves” Airbus A350 ailerons safety under FAA/EASA regulations.
+• Innovatively decreased the design schedule by 6 months and non-recurring costs of the half-billion-dollar Airbus
+A350 ailerons project, some of which methods were employed by other teams in TAI and Airbus.
+• Introduced new methods in structural analysis and design of aero-structures; CAD, CAE, fatigue and damage
+tolerance, crashworthiness, weight optimization, stability, repair and failure analyses.
+Structural Analysis Engineer 06/2006 – 12/2008
+• Involved in the design of Airbus A400M Fuselage, Boeing 787 cargo barrier, and EU 6th framework research project.
+AWARDS
+• Winner of NASA Space-Race Startup Challenge 2016 on Airborne Wind Energy Technology, more than 350
+entrepreneurs participated, received media attention (2016).
+• Nominated to “International Forum for Aviation Research ICAS-IFAR Award 2016” organized by NASA (2015).
+• “The Thesis of the Year Award”, from Prof. M. Parlar Education and Research Foundation in Turkey (2014).
+• “Outstanding Success Award”, from the CEO of Turkish Aerospace Industries (2014).
+• “The Best Paper Award”, from Society of Industrial Applied Mathematics (SIAM) at METU (2012).
+PATENTS
+• An Impact Energy Absorber (2067/TR - 2013/12568), Single inventor, Status: Issued.
+• A Curved Laminated Structure (EP3100852A1), One of the two inventors, Status: Issued.
+• A Three Dimensional Scalable and Modular Air Vehicle (2489/TR - 2016/05215), Single inventor, Status: Pending.
+ACADEMIC ACTIVITIES (list of publications on the next page)
+• Published more than 15 academic papers on engineering design and computational solid mechanics that were received
+23 citations on Web of Science and 55 citations on the Google Scholar as of January, 2017.
+• Reviewer at International Journal of Crashworthiness and International Journal of Mechanical Sciences since 2016.
+• Acted as co-PI for R&D project with a grant of $800k with my Ph.D. advisor and PI, Demir Coker (Caltech PhD’01).
+LEADERSHIP ACTIVITIES
+• Founded the Systems Thinking Club (STC) at MIT-Sloan, currently has more than 160 members in MIT (2016).
+• Volunteer mathematics teacher to visually impaired students in Turkish 6-pt. Blind People Association (2005-2006).
+• Licensed Wing-Tsun Kung Fu self-defense instructor since 2010 and one-brevet scuba diver.","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Aug 2016 - May 2018","M.S., B.S.",,U.S. Army Corps of,"Project/Program Manager: Saudi Arabia, Yemen and Oman Jul 2014 - Aug 2016",,0
+CHAHAT JAIN,"CHAHAT JAIN
+70 Pacific Street, Apt 828 - Cambridge, MA 02139
++1 (617) 386-9369 | chahat@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge (MA), USA
+School of Engineering & Sloan School of Management (GPA – 5.0/5.0) August 2016 - February 2018 (expected)
+M.S., Engg & Management (System Design and Management)
+• Focus – Marketing, Strategy, Data Analytics, Innovation, Technology Management and Systems Thinking
+• VP, Alumni Relations (SDM). Member - Product Management Club, Technology Club, Design Club, Net Impact Club
+• Data Analytics Lab - Built a predictive model using machine learning and data mining to increase user engagement of an
+e-commerce website. Experience working with large data-sets.
+PEC University of Technology Chandigarh, India
+B.E. (Hons.), Information Technology (GPA – 9.37/10) July 2007- May 2011
+• 1 of 395 in the university to be awarded both Gold Medal (highest GPA in my discipline) and Honors degree
+EXPERIENCE
+SAP Labs India Pvt. Ltd. Bangalore, India | Palo Alto, United States
+Product Owner | Sr. Software Engg, B2B/B2C solutions (Retail, Utilities, and Banking industries) July 2011 - June 2016
+Product Management, Cross-functional Leadership, and Project Management
+• Ideated and launched eight features of cloud CRM (SAP Cloud for Customer) add-in solutions (150+ live customers)
+o Prioritized requirements, collaborated with multiple stakeholders, and led development of four solution releases
+• Working with UI/UX designers, conducted product design analysis (using design thinking) and played a key role in the
+ideation to launch process of SAP’s first B2C solution - SAP Utilities Customer Engagement mobile application
+• As scrum-master/development lead, led cross-functional teams of 14, 8 and 6 members (for three project releases) across
+US and India locations for agile development of ~$14M Retail In-Store customer engagement solution
+• Handled project scope, task estimation & scheduling, and quality adherence for timely delivery of three project releases
+• Managed team of four developers to develop a Micro-ATM solution (for rural India) as part of SAP Ganges project (B2B
+Retail Network). The platform was bought by a financial institution in India to strengthen its financial inclusion efforts
+Client Engagement, Product Design & Development, and Process Optimization
+• Managed 25+ clients (across 10 countries) single-handedly to solve critical issues, improving client satisfaction by 15%
+• Reduced average time of fixing a customer issue by 45% using data-driven approach to redesign business process
+• Led full-stack design and development of product features, application modules and m-commerce platform for the
+successful release of six mobile and cloud solutions, generating $9M+ revenue for the company
+• Produced optimal recommendations for four utilities clients to adopt a mobile solution as per their business requirements
+• Developed five internal code generation tools that helped save ~400 man-hours in project deliverables
+Awards and Accomplishments
+• Awarded ‘Move SAP Award’ (Top 2% employees) for successfully managing a solution single-handedly from India
+• Recognized as ‘Global Top Talent’ (Top 5% employees) for extraordinary contribution and leadership
+• Conferred ‘Spot award’ and ‘Recognition award’ for initiatives in enabling project success and customer success
+eVidyaloka Trust (NGO connecting passionate volunteers to teach children of rural India) Bangalore, India
+Program Manager & Curriculum Administrator (Volunteer) May 2014 - Present
+• Increased volunteer participation by 20% by designing a workflow for Content Development Engagement
+• Managed 186 volunteers for development of high quality course material as part of a Corporate Engagement Program
+HeRu Technologies Pvt. Ltd. (Tech Start-up providing low cost enterprise solutions) Bangalore, India
+Co-Founder & Solution Architect March 2015 - July 2016
+• Gathered business requirements from clients (Founders of NGOs), and defined the roadmap of technology solutions
+• Constructed business strategy for the company as well as pricing strategy for the ~$1M product portfolio
+• Worked on-site with senior management of Goonj, amongst top five NGOs in India, to understand business problems
+ADDITIONAL INFORMATION
+• Mentored employees and improved business operations of an early stage tech start-up (cheerzlabs.com, India) that
+provides technology services, resulting in 12% YoY growth of the startup
+• Spearheaded a civil society campaign that lead to participation of 500+ people to increase awareness about ‘Lokpal Bill’
+• Technical Skills: Java, C, C#, JavaScript, Python, Web-Services, Shell Scripting, Algorithms, Data Structures, SQL, R
+• Interests: Cooking, practice mindfulness, and reading books & articles (especially about start-ups and venture capital)","Massachusetts Institute of Technology Cambridge (MA), USA, School of Engineering & Sloan School of Management (GPA – 5.0/5.0) August 2016 - February 2018 (expected), PEC University of Technology Chandigarh, India",M.S.,,PEC University of Technology,,July 2007- May 2011,1
+DAVIDE LASI,"DAVIDE LASI
+davide.lasi@sdm.mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management 08/2016 - present
+M.S., System Design and Management
+University of Milano
+Department of Chemistry Milano, Italy
+M.Sc., Physical-Chemistry, graduated with honors 09/2004 - 07/2006
+• Thesis: developed new methods in the field of the Quantum Theory of Atoms in Molecules.
+B.Sc., Chemistry, graduated with honors 09/2001 - 10/2004
+• Thesis: built and tested a Mössbauer Spectrometer at the National Institute of Nuclear Physics.
+EXPERIENCE
+University of Bern, Space Research & Planetary Sciences (Physics Institute) Bern, Switzerland
+Provider of scientific instrumentation for space exploration missions of ESA, NASA, and Roscosmos.
+Project Manager 05/2011 - present
+• Lead two teams of 8 and 9 engineers (mechanics, electronics, and software), thermal and structural modelers,
+and scientists for the design and development of three leading-edge mass spectrometers for space missions.
+• Negotiate and supervise industry contracts for the development of software and hardware.
+• Chair meetings and design reviews with contractors. Draft and implement new agile-contract models.
+• Represent the projects at the European Space Agency (ESTEC Headquarters) and at the Space Research
+Institute of the Russian Academy of Sciences (IKI) on occasion of major design reviews and project meetings.
+• Plan and execute radiation tests of detectors and materials at electron and proton irradiation facilities.
+Cerbios-Pharma SA Lugano, Switzerland
+Pharmaceutical company manufacturing both chemical and biological APIs and HPAIs.
+Material Manager (50%) & Project Manager (50%) 05/2008 - 04/2011
+• Procured advanced pharmaceutical intermediates from China and India; drafted new model of supply
+agreement; negotiated supply contracts and attended trade fairs and suppliers’ site visits in Europe and China.
+• Collected and analyzed requirements to define optimizations of the company ERP (Oracle E-Business Suite) for
+the optimal and GMP compliant handling of materials and their specifications through their complete lifecycle.
+Dipharma Francis Srl Milano, Italy
+Generic active pharmaceutical ingredients manufacturer with a strong portfolio of more than 150 patents.
+Assistant to the Head of Intellectual Property 04/2007 - 04/2008
+• Drafted, filed, and prosecuted patent applications in Europe, USA, Japan, India, China, Israel, and Canada.
+PROFESSIONAL DEVELOPMENT
+Scrum Alliance® London, United Kingdom
+Certified Scrum Product Owner (with Mike Cohn), employer sponsored. 03/2015
+Stanford Centre for Professional Development Stanford, CA
+Stanford Advanced Project Management Certificate, employer sponsored. 03/2013 - 09/2013
+SELECTED PUBLICATIONS
+• D. Lasi, M. Tulej, S. Meyer, M. Lüthi, A. Galli, D. Piazza, P. Wurz, D. Reggiani, H. Xiao, R. Marcinkowski,
+W. Hajdas, A. Cervelli, S. Karlsson, T. Knight, M. Grande, and S. Barabash, Shielding an MCP detector for a
+space-borne mass spectrometer against the harsh radiation environment in Jupiter's Magnetosphere, IEEE
+Trans. Nucl. Sc. 99 (2016).
+• P. Wurz, D. Lasi, N. Thomas, D. Piazza, A. Galli, M. Jutzi, S. Barabash, M. Wieser, W. Magnes, H. Lammer,
+U. Auster, L. Gurvits, and W. Hajdas, An Impacting Descent Probe for Europa and the other Galilean Moons of
+Jupiter, Earth, Moon, and Planets (2017) submitted.
+• C. Gatti, D. Lasi, Source function description of metal-metal bonding in d-block organometallic compounds;
+Faraday Discussions; 135:55-78; discussion 125-49, 503-6 (2007).
+SPORTS & HOBBIES
+Sailing regattas, surfing, windsurfing, scuba diving, ski, 4x4 road trips, chess, contemporary photography, playing piano.
+Ben Linville-Engler | linkedin.com/in/ben-l-e
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Aug 2016 – Jan 2018 (expected)
+M.S., System Design and Management
+• MIT/The Engine Working Group, Sloan Senate, GEL Program Mentor, BloomerTech Advisor, Hacking Medicine
+University of Colorado Boulder, CO
+School of Engineering Aug 2003 – May 2007
+B.S., Mechanical Engineering, Biomedical Option
+Minor Biochemistry
+EXPERIENCE
+Applied Medical
+A new generation medical device company committed to improving the quality, affordability, and accessibility of healthcare.
+Applied Medical Europe | Amersfoort, Netherlands
+Vice President, Product Development and Engineering - Europe January 2015 – August 2016
+• Enabled the expansion of Applied Medical Europe from a sales and distribution organization to include medical device
+design, equipment service, and manufacturing in coordination with US teams.
+• Supported the European sales teams by working directly with surgeons, nurses, biomedical engineers, and other decision
+makers within hospitals and group purchasing organizations to enable new, and maintain existing, sales.
+• Defined and implemented field data collection process to establish analysis of qualitative usage data and quantitative
+system performance data for the Voyant product line, leading to significant product improvements.
+Applied Medical Resources | Rancho Santa Margarita, CA
+Vice President, Technology and Development – Electrical Systems September 2011
+• Defined, built, and led a new organization focused on the development of medical electrical systems resulting in the
+hiring of 50 new team members in approximately 2 years.
+• Defined and led the expansion effort of the existing quality system (ISO 13485) to include medical electrical equipment
+product development and manufacturing.
+• Maintained the division budget ($15M), resource plans, and organizational plans. Including resource matrix
+assignments, project/product prioritization, product development timelines, cost estimates, facilities planning, and
+product/feature feasibility studies.
+• Coordinated cross-functional product development between Engineering, Clinical Marketing, Regulatory, and Quality
+Systems teams by providing project management, direction, and leadership for product lifecycle.
+• Culminated in launch of the Voyant Electrosurgical System; targeted at a $3B market segment with potential revenue
+gains of up to 5 times company’s annual revenue.
+Director, Technology and Development February 2010
+• Led team design of new products and development of prototype electrosurgical generator with contract developer.
+• Continuously grew and trained team with focus on electrosurgical product development for laparoscopic procedures.
+Manager, Technology and Development August 2008
+• Coordinated the implementation of product development plans, schedules, and designs throughout product lifecycle.
+• Reorganized development team structure to better utilize resources and enable technical development of less experienced
+engineers by redistributing experienced engineers across development teams.
+Product Development Engineer, Technology and Development February 2008
+• Worked within a mechanical engineering team responsible for the design of laparoscopic instruments.
+• Coordinated with material vendors, tooling designers, manufacturing, and planning to bring designs into production.
+MANUFACTURING TRAINING
+• Injection molding, plastic and metal extrusion, sheet metal forming, progressive die stamping, and CNC machining
+• PCB/PCBA processes, electronics product assembly, automated assembly, and cleanroom production.
+• Capital equipment post-production service management and customer preventive maintenance
+REGULATORY TRAINING AND SOFTWARE TOOLS
+• IEC 60601-1 3rd Ed. Family (UL) • Solidworks (MCAD), Altium (ECAD) • Software Development/Build
+• ISO 14971 Risk Management (UL) • SAP (ERP, MRP, PLM) • IAR Workbench
+• IEC 62366 Usability (UL) • PTC Integrity (Client and Admin) • Parasoft, Coverity
+• IEC 62304 Software Development for • Microsoft Office, Projects, and Visio • Jenkins
+Medical Devices","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management 08/2016 - present",M.S.,,"University of, Project, Institute of the Russian Academy of, Pharmaceutical company manufacturing both chemical and biological APIs and HPAIs.
+Material, Dipharma Francis Srl, Assistant to the Head of Intellectual","Project Manager 05/2011 - present, Material Manager (50%) & Project Manager (50%) 05/2008 - 04/2011",,8
+ASWINI NARAYANA PRASAD,"ASWINI NARAYANA PRASAD
+Apt. #14-B2, 550 Memorial Drive, Cambridge • 8579995118 • aswinin@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Sep ’16- (Expected completion: Jan ‘18)
+M.S., Engineering Management
+ Specialization: Manufacturing and Supply chain, systems thinking, technology management
+ Thesis: Risk analysis & Mitigation solutions for Electric vehicle Li-ion batteries
+ Action Projects under progress:
+o Competitive benchmarking & market strategy for ISEE, a Boston startup for Autonomous driving s/w solution
+o Trade space analysis and operational strategy for autonomous charging stations for GM
+Indian Institute of Technology Delhi New Delhi, India
+M.Tech. Design Engineering Jun ’09 – July ’1l
+ Thesis: Computationally Efficient Structural Analysis of Composite Fuselages (Won DAAD scholarship to
+undertake thesis work at RWTH Aachen University, Germany for 9 months)
+ 3 international publications in Computational Design and Analysis
+College of Engineering Guindy, Anna University Chennai, India
+B.E. Manufacturing Jun ’05 – May ‘09
+EXPERIENCE
+Research Assistant | MIT, Cambridge | Aug ’16 – Present
+ Program Manager for Industrial Consortium at MIT for modeling of Electric Vehicle Li-Ion batteries
+Engineering Team Lead, Vehicle Electrical Business | Eaton India Innovation Center | Mar ‘14– July‘16
+ Lead & Program Manager for development of power distribution and power conversion products for heavy duty
+vehicles – demonstrated timely product launches by close collaboration with manufacturing and supply chain
+teams – Toll gate and agile program management
+ Led VAVE projects for cost out & part consolidation across global manufacturing plants - demonstrated cost
+savings over $30K per year per product line
+ Reduced product testing cost >20% by replacing physical tests by FEA and analytical modeling
+Senior Engineer, Vehicle Powertrain Business | Eaton India Innovation Center | Aug’13-Feb’14
+ Designed the exhaust energy recovery system for heavy duty diesel vehicles – demonstrated nearly 8%
+reduction in fuel consumption
+ Design and optimization of conventional and electric boosting solutions (superchargers) for light duty engines
+using GT-Suite software
+Engineer, Technology Advancement Team | Eaton India Innovation Center | Aug ’11-Aug ’13
+ Part of Eaton’s Engineering Technology Leadership Program (ETLP) - 2 years rotational program – recognized
+as one among top 5% candidates at Eaton India.
+ Established in-house computational modeling and testing capabilities for composite materials by working
+closely with supply chain and purchase teams to establish vendors and external test lab partnership.
+ Pioneered Fuel Economy simulation for light duty and heavy duty vehicles using GT-Suite software
+OTHER ORGANISATIONAL INVOLVEMENTS
+ Co-led strategic initiative at Eaton “Building an Integrated Innovation Framework” – Won Eaton APAC award
+(2012) for Continuous Improvement
+ Core organizer of annual global technical event of Eaton India with 200+ global participants – first of its kind to
+bring engineering, manufacturing and marketing leaders and experts together to focus on regional innovation (2013)
+ Green Belt certified in Design for Six Sigma – Also organization wide mentor, reviewer and trainer for Design for
+Six Sigma
+Adrien MOREAU
++1 781 547 1484
+amoreau@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management 2016- expected 2018
+M.S., System Design and Management
+Delft University of Technology Delft, The Netherlands
+Civil Engineering Department
+PhD., Water Management and Sanitary Engineering 2006-2010
+• Conducted research within the framework of the European Union Marie Curie program focusing on the membrane
+bioreactor (MBR) process.
+• Thesis: MBR Filterability Assessment at European Scale
+• Full publication list available on request
+National Institute of Applied Science (INSA) Toulouse, France
+Chemical & Process Engineering Department
+M.S., Process Engineering 2003-2006
+• Specialization in water treatment
+EXPERIENCE
+Veolia Water Technologies Boston, MA
+Global Support Engineer - Technology 2016 - Present
+• Develop, lead and coordinate technical risk management and support through hydraulics and modeling for Veolia
+activities (model difficult cases & different options with regards to tank geometry, mixing capacity and water
+distribution, validate final designs)
+• Develop and lead piloting coordination and strategy at corporate level with a specific focus on branding and safety
+• Lead and promote Research & Innovation projects with external partners (Department of Energy funded projects)
+• Produce strategy notes and roadmaps on behalf of Executive Management (Digitalization, Internet of Things)
+Hydraulics Expert 2013-2016
+• Develop, lead and coordinate technical risk management and support through Hydraulics and CFD modeling for
+Veolia activities (modeled difficult cases & different options with regards to tank geometry, mixing capacity and
+water distribution, validated final designs)
+• Lead product development (early phase & industrialization of a grit removal process and a pretreatment for
+industrial water treatment plants)
+• 30+ projects assessed and validated (150M$+ worth value)
+Veolia Environnement Research & Innovation Paris, France
+Project leader – membrane bioreactor (MBR) portfolio 2010-2013
+• Provide project leadership and operational management on projects related to the integration of membrane processes
+in wastewater treatment line (4 technicians, 2 engineers, 3.4M€ over 3 years)
+• Successfully developed an MBR package plant for the Middle-East Market
+• Successfully brought an airless MBR concept to industrialization
+ADDITIONAL SKILLS & INTERESTS
+• Fluent in French & English
+• Key areas of expertise: membrane processes, biological treatment, operational management
+• Water & Sanitation Engineer for the Non-Governmental Organization “Premières Urgences”
+• Active member of the Veolia Force (missions for the UNHCR in Ethiopia, 2012)
+• Rock climbing, mountaineering","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Sep ’16- (Expected completion: Jan ‘18)",M.S.,,"Research, Engineering Team, Senior","Senior Engineer, Vehicle Powertrain Business | Eaton India Innovation Center | Aug’13-Feb’14",,0
+LORENA PELEGRIN,"LORENA PELEGRIN
+Lorena.Pelegrin@gmail.com
+www.linkedin.com/in/lorena-pelegrín-01b64b2
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Sep 2016-2018 (expected)
+M.S., System Design and Management
+University of York York, UK
+Pg.Cert., Safety-Critical Systems Engineering 2009-2014
+Part time Continuing Professional Development
+Heriot-Watt University Edinburgh, UK
+M.S., Safety, Risk and Reliability Engineering 2007-2012
+Part time distance learning program
+Massachusetts Institute of Technology
+Master Thesis, System Engineering and Safety Management 2012
+Graduate work completed in the frame of the Safety, Risk and Reliability Engineering degree
+Universitat Politecnica de Catalunya Barcelona, Spain
+M.S., Industrial Engineering 1997-2002
+California State University, Fresno Fresno, CA
+Master Thesis, Structures and Industrial Management 2002
+Graduate work completed in the frame of the Industrial Engineering degree
+EXPERIENCE
+Restrata Abu Dhabi, United Arab Emirates
+Consulting company in HSE and technology enabled solutions. Jul 2015-Jul 2016
+Principal Consultant
+Coordinating a 6 people team providing services in Technical Safety, Risk Management, and Health Safety Security
+and Environmental Management in Oil & Gas and Energy projects, incl.:
+• Managing consulting projects;
+• Chairing workshops and carrying out studies;
+• Mentoring junior and senior staff;
+• Developing business in the Middle East and Asia Pacific regions;
+• Preparing proposals for consulting projects;
+• Supporting regional management in the development of Middle East and Asia Pacific strategies;
+• Supporting regional management with reporting and forecasting.
+ILF Consulting Engineers based in Munich, Germany
+Engineering and consulting company in Oil & Gas and Energy.
+Competence Manager Technical Safety Nov 2009-Jul 2015
+Being the focal point for all questions in regards of Technical Safety and Risk Management within the ILF Group of
+companies worldwide, incl.:
+• Coordinating a dedicated virtual team of approx. 10 people based at different locations worldwide in order to align
+practice within the ILF Group of companies;
+• Developing recommended practices for different elements of Technical Safety and Risk Management to be
+implemented within the ILF Group of companies;
+• Administering and disseminating knowledge in terms of regulatory requirements, standards, recommended practices
+and literature;
+• Organizing participation in events and webinars hosted by interest groups;
+• Delivering in-company training within the ILF Academy program;
+• Interfacing with other competences (e.g., security engineering) as to identify and manage overlaps and potential
+synergies in project work;
+• Organizing review and discussion of industry accidents and lessons learned.
+Team Lead Technical Safety and Risk Management Jul 2012-Jul 2015
+Leading a 5-8 people team providing the ILF Group of companies worldwide with services in Technical Safety and
+Risk Management in Oil & Gas and Energy projects, incl.:
+• Managing consulting projects;
+• Leading the Technical Safety and Risk Management scope of engineering projects;
+• Mentoring junior and senior staff;
+• Establishing and supporting professional development plans for junior staff;
+• Supporting business development with pre-qualifications, proposals and technical negotiations for consulting and
+engineering projects.
+Consultant Loss Prevention and Risk Management Apr 2008-Jul 2012
+• Performing Safety and Risk Management consulting for a variety of projects;
+• Carrying-out optimization studies for oil and gas transportation systems;
+• Supporting business development with pre-qualifications, proposals and technical negotiations for consulting and
+engineering projects.
+• Lorena built a team of 3-5 people providing Technical Safety and Risk Management services and established the
+discipline as such in the company.
+Project Management Specialist Jan 2005-Apr 2008
+• Developing and implementing Project specific HSEQ Management Systems, Scheduling and Project Control in a
+variety of projects.
+• Lorena was Head of Project Controls for the Engineering, Procurement and Construction Management (EPCM) of
+the SNOx (combined SOx - NOx reduction) Plant in the OMV Refinery Schwechat in Austria.
+Expediting and Inspection Specialist Nov 2003-Jan 2005
+• Managing and performing expediting and inspection of equipment manufactured and/ or provided by suppliers.
+Meritor Frankfurt am Main, Germany
+Requirements Engineer Apr 2003-Nov 2003
+• Developing a PDM (Product Data Management) based application for incorporation of production planning
+elements of an electric sunroof manufacturing plant.
+SKILLS AND ADDITIONAL INFORMATION
+• Native or bilingual proficiency in Spanish and Catalan. Full professional proficiency in English and German.
+Limited working proficiency in Italian and French. Elementary proficiency in Japanese.
+• Work experience in Spain, UK, USA, Germany, Austria, Netherlands, Italy, Hungary, Finland, Kazakhstan,
+Romania, Bulgaria, Switzerland, China, Pakistan, Poland, Qatar, Russia, UAE, Ukraine and Turkey.
+• Certified ISO 9001 Internal Auditor.
+• PHA Pro, Bow-Tie XP, DNV PHAST and PHAST Risk, Witness Process Simulation, GRIF (GRaphical Interface
+for reliability Forecasting), @RISK for MS Excel, @RISK for MS Project, Primavera, Primavera Risk Analysis
+(previously named Pertmaster), Smartplant Enterprise Information Management, MatrixOne, TiCon, VBA, ANSYS,
+AutoCAD, MicroStation, C.
+• Multiple publications on Safety and Risk Management. Citations available on request.
+• Program Committee Member of the European STAMP (Systems-Theoretic Accident Model and Processes)
+Conference.","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Sep 2016-2018 (expected), System Design and Management
+University of York York, UK",M.S.,"2016-2018, 2009-2014","Restrata Abu, Consulting company in HSE and technology enabled solutions.",,,0
+JOLLY PRADHAN,"JOLLY PRADHAN
+391 Broadway, Apt 504
+Somerville, MA, 02145
+603-682-3851
+jpradhan@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Sept 2015-Present
+M.S., System Design and Management
+Rensselaer Polytechnic Institute Troy, NY
+Bachelor of Science in Mechanical Engineering Dec 2009
+EXPERIENCE
+Varian Semiconductor Equipment Associates Gloucester, MA
+Systems Engineer Sept 2010-July 2015
+Crion Cold Implant
+• Crion is a cold system that enables customer to implant wafers at -100˚C. The system consists of cryo-chillers, a
+vacuum-sealed valve system, and cooling ring to cool the implant mechanism.
+• Conducted and documented characterization tests for Crion by validating cool down rate, throughput, wafer
+temperature uniformity and overall functionality of the system.
+• Operated the tool during 40 continuous hours of reliability growth testing and helped release the product from R&D
+to Production.
+• Supported customer escalations by analyzing archives from the field and determining root cause of the customer
+problems.
+26-Wafer Implementation
+• Led the project with a team of mechanical engineers, an electrical engineer and software engineers to create new
+hardware as well as software controls to implement the platen warm-up process. Released the hardware through
+ECO process to Production and conducted tests to help with software release.
+Center for Earthquake Engineering Simulation Troy, NY
+Research Engineer Jan 10-Sept 2010
+• Operated and troubleshot earthquake simulation machinery (centrifuge) while conducting experiments.
+• Gained hands-on experience by preparing and sealing centrifuge laminar container with Ph.D. students while using
+strain gauges, accelerometer, and pressure sensors.
+LEADERSHIP POSITIONS
+Fusion Engineering Development Program Sept 2010-Sept 2012
+Graduate
+• This is a program for new graduates at Varian to expose them to various engineering departments within the
+company and to experience presenting to upper management.
+• Rotated through End Station (Robotics), Continuous Improvement and Physics Department (R&D).
+Women’s Mentoring Program at RPI Sept 2006-Sept 2008
+Co-Chair
+§ Developed a new program providing opportunity for mentors and mentees to meet prior to the start of the school
+year. As a result of its success, this is now an annual program. Organized formal and informal events including:
+Chat with Shirley Ann Jackson (President of RPI) and Design Your Future Day to encourage women in science and
+engineering.
+TECHNICAL SKILLS
+• Expert in Signal Analysis and Archive Analysis
+• Proficient in Microsoft Excel, Microsoft PowerPoint, MINITAB Statistics, Adobe Illustrator, and Adobe Photoshop.
+Basic knowledge 3D CAD Modeling (SolidWorks and ProE), LabVIEW, and MATLAB.","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Sept 2015-Present, System Design and Management
+Rensselaer Polytechnic Institute Troy, NY","M.S., Bachelor",2015-Present,"Varian Semiconductor Equipment Associates, Systems Engineer",Systems Engineer Sept 2010-July 2015,,0
+ATIKHA RIZWAN,"ATIKHA RIZWAN
+5F-2, Tang Residence Hall, 550 Memorial Dr
+Cambridge, MA 02139
+Mobile: +1 (857) 253-9356
+Email: atikha@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Sep 2016- May 2018(expected)
+M.S., System Design and Management CGPA 4.6/5.0 (current)
+Andhra University Visakhapatnam, India
+College of Engineering Aug 2010 – Sep 2015
+B.Sc.Eng. & M.Sc.Eng. Electronics & Communication Engineering CGPA 8.0/10.0
+EXPERIENCE
+Massachusetts Institute of Technology Cambridge, MA
+Teaching Assistant 16th Jan – 31st May 2017 (spring term)
+ Introduction to CS and programming in Python; Computational thinking and data science
+Infosys Limited (Post graduation) Mysore, India
+Systems Engineer December 2015 - June 2016
+ Ranked among top 5% in rigorous training in python programming language, database management systems and
+specialized in SAP (Systems, Applications, Products) with focus on ABAP (Advanced Business Application
+programming).
+ Developed a game using SQL server, and also a college and course bidding platform in SAP.
+Grameena Vidya (Full-Time before graduation) Visakhapatnam, India
+Director February 2012 – November 2015
+ Managing a non-profit NGO which provides digital education to rural schools to bridge the digital divide, led teams to
+install 1400 smart classrooms in village schools, providing digital education to over 600k of India’s most challenged
+students and training over 7000 teachers.
+ Powered through huge resistance from teachers by conducting diagnostic tests and surveys. Won the Best Mentor
+award and Employee of the Year award in 2013.
+ Led the organization towards better funds management by cutting costs per classroom through organizational strategy
+and logistics operations. Replaced CPUs with digi box with an android app to load and play the class specific content.
+Cost of digi box being 10% of the cost of a CPU, the savings were $1.8m.
+ Took the initiative to develop a mini bio-gas power plant using animal and farm waste involving local rural population
+in its operation. This provided a reliable, sustainable and environment-friendly source of energy for the schools and
+villages. Won the Best innovator award, 2014 for this achievement.
+Consolidated Education Technologies (I) Pvt. Ltd. (Part-Time before graduation) Visakhapatnam, India
+(Provides online and offline digital teaching and learning resource for K-12) January 2011 – January 2012
+Content and Portal developer
+ With a well planned manoeuvre, developed portal www.teachlearnweb.com and smart classroom content. Coordinated
+between subject experts’ team and multimedia developers’ team. The portal has over 200K subscribers.
+ADDITIONAL
+ BMW supply chain resilience improvement - Currently working on this real-time project at MIT.
+ Internship at Defence Research and Development Organization (DRDO), Govt. of India – worked on a project titled
+“Design of degaussing electronics for ring laser gyro.” Summer 2013
+ Internship at State Bank of India (SBI) – in retail loan processing cell. Summer 2014
+ Started a non-profit NGO – “Hum Aapko”- in college, to raise funds, collect used books and equipment for lesser
+privileged students in rural areas. In addition, before the general elections 2014, ran a campaign to spread awareness
+about the democratic electoral process among inner city and rural uneducated people. Got them registered as voters.
+ Volunteered as a weekend mentor (2011-12) at SOS (Save Our Souls) - an International organization for orphans.
+ Won Gold and Silver medals in Lawn Tennis and Table Tennis at college for all five years.
+Karan Sachan
+Tang Hall # 06B3, 550 Memorial Dr, Cambridge, MA - 02139
++1 617.401.5822 | ksachan@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management August 2016 - Present
+M.S., Engineering and Management
+• VP of Marketing, Product Management Club; VP of Alumni relations, MIT-SDM
+• Core Member of Digital Currency Initiative, a group focusing on Blockchain and AR/VR at MIT Media Lab
+JSS Academy of Technical Education Noida, India
+B.Tech (with Honors), Information Technology July 2005- May 2009
+ Graduated 1st /117 students in my department & among top 5% of university B.Tech batch of ~23,000 students
+EXPERIENCE
+Wishing Well Technologies Pvt. Ltd. Bangalore, India
+Co-founder & Head – Product & Engineering October 2014 – August 2016
+ Successfully led fundraising efforts to build MVP, raising $500K from investors including ex-Fortune100 CEO
+ Led the design and development of platform (Web & Mobile) through new data-driven approach, resulting in a 97%
+increase in signups, doubling of mobile traffic time-on-site, and growing visitor traffic at non-peak times by 20%
+ Finalist of India’s most premier start-up challenge – ‘10000 start-ups’ by NASSCOM; over 9000 start-ups applied
+Reliance Industries Ltd. Bangalore | Mumbai, India
+Product Manager - Smartphone | Cloud Solutions – Saas & IaaS July 2013 – August 2016
+ Selected among 30 candidates out of 30,000+ for the most renowned Leadership Development Program in India
+ Product/Program Manager for $120M product portfolio; Responsible for delivering product from ideation to launch
+ Successfully built the world’s most economical 4G smartphone by focusing on 80:20 rule for feature-usage metrics
+driven by usability studies and eliminating less valuable components, improving Bill of Material (BOM) by 37%
+ Managed strategic vendor worldwide and grew partner ecosystem by 300% (incl. Fortune 500 companies), reducing
+the time to market by 23% and cutting down run-rate expenses and budgeted capital expenditures by 17%
+ Led Open Mobile Project from Reliance in collaboration with Govt. of India, Facebook’s Internet.org, and Google’s
+Project Loon to provide Internet connectivity to 500+ millions Indians in rural and remote areas
+ Filed 4 key patents around security architecture of smart devices, strengthening intellectual property of our product
+ Spearheaded product awareness and partnership by showcasing product at Mobile World Congress - Barcelona,
+attended by nearly 100,000+ participants from 190 countries and 3,600+ members of the international media
+Qyuki Digital Media Pvt. Ltd. Bangalore, India
+Product Manager & Data Scientist August 2012 – July 2013
+ Led the development of data science competencies for the platform, driving traffic up by 43% and increasing avg.
+time spent per user per month by 33 mins; Increased EBIT by 37% by pushing personalized ads to customers
+ Increased viral invites by 27% by implementing a social graph to connect through Facebook and Google+
+ Drove strategic product development by facilitating a feedback loop among engineering, sales, and marketing/PR
+Motorola Mobility Inc. Bangalore, India | Chicago, USA
+Senior Engineer, Motorola Innovations Lab July 2011 – August 2012
+ Awarded ‘Innovator of the Year’ in 2011 across all Motorola facilities for ideating the initial modular phone concept
+in a hack-a-thon, which later matured and pursued by Google as ‘Project ARA’
+ Outlined and designed welcome experience for new and returning users of Motorola devices, introducing them to a
+completely re-imagined product experience including landing screen layout and guided tour for feature walkthrough
+ Managed UserVoice account that aggregates user feedback to make data-driven decisions and prioritize product
+ideas. Determined top addressable issues by churning and analyzing data and led teams to resolve these issues
+ADDITIONAL INFORMATION
+ Technical Skills: Java, Cloud, Hadoop, Machine Learning, Python, R, NoSQL, JIRA, Google Analytics, Tableau
+ Certifications: Harvard’s HBX CORe; Scrum Alliance’s Agile ScrumMaster; Design Thinking from Lynda.com
+ Awarded Global Leaders scholarship by Fujitsu-JAIMS and Young Leader Program scholarship by Govt of Japan
+ Invited as Delegate in 12th World Business Dialogue at Berlin and in Preparing Global Leaders Academy at Jordan","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Sep 2016- May 2018(expected), Andhra University Visakhapatnam, India","M.S., B.Sc.",,"Massachusetts Institute of Technology, Teaching, Infosys, Systems Engineer, Grameena, Director, Consolidated Education",Systems Engineer December 2015 - June 2016,"December 2015 - June 2016, February 2012 – November 2015, January 2011 – January 2012",0
+SWATI SHAH,"SWATI SHAH
+Tang Hall Apt #5F-1, 550 Memorial Dr,
+Cambridge, MA 02139, United States
++1(858)-265-8603
+swatis@mit.edu
+PROFILE
+• Extensive product management experience both in data warehousing and business intelligence applications in a
+variety of industries including telecommunications and healthcare.
+• Passionate about building stuff from scratch and managing them through data driven decisions.
+• Proven track record in execution, working well with engineering, operations, support and other cross-functional &
+executive teams.
+• Managed several projects from end to end starting from conceptualization till production go-live and business to
+operations handover.
+• Proficient in Agile Methodology (Scrum, Kanban, User Story Writing, Sprint Management, Backlog Prioritization)
+• Strong expertise in Data analysis, Business Analytics, Data mining, Business Intelligence Tools and managing ETL
+applications in client/server architecture and Data warehouse environments.
+• Experienced in using SQL Clients for Relational Databases like Analytical Query Tool, DB2 Client, PL/SQL
+Developer and Squirrel, Unix Shell Scripting, DB2, C++, AIX, SQL
+• Excellent communication skills, interpersonal and leadership skills. Self-motivated, quick learner and a team player.
+EDUCATION
+MIT School of Engineering & Sloan School of Management Cambridge, MA
+M.S., System Design and Management, CGPA: 4.8/5 08/2016 – 01/2018
+• Subjects: Product Management; Marketing Management; Risk And Decision Analysis; Architecting and
+Engineering Software Systems, B2B Marketing, Data Mining, User Interface Design and Implementation
+• Chair, WiSDM: Organized events to build strong community for Women for personal and professional support.
+University of Rajasthan Jaipur, India
+Bachelor of Engineering in Electronics & Telecommunication 05/2002 - 05/2006
+EXPERIENCE
+Strado Jaipur, India
+Product Strategist 02/2016-05/2016
+• Designed a Hyperlocal Business Aggregator to invigorate the despondent scene of nightlife, clubbing and respites in
+India by using systemic product offerings to eliminate inhibitions in youngsters and reduce the price barriers.
+• Developed product positioning, competitive analysis and go-to market strategy to guide creative digital marketing
+and PR campaigns.
+• Created all User experience artifacts including user flows, user story mapping and wireframes for managing the
+product features and roadmap.
+Deloitte US India Technology Consulting Bangalore, India
+Project: State Govt. Health and Human Services, USA
+Senior Consultant 07/2015 - 01/2016
+• Led end-to-end product development activities for initial release of BI Reporting and data warehouse pertaining to
+HHS’s core business as well as new revenue streams.
+• Collaborated and aligned with technical and non-technical stakeholders to translate customer needs into technical
+product requirements.
+• Held end-to-end ownership conceptualizing product flow/features, writing feature specs, wire-framing UI design,
+prioritizing work items with engineering team, helping team develop use cases, and product releases.
+IBM India Inc. Bangalore, India
+Project: Bharti Airtel, India
+Senior System Analyst 05/2012 – 07/2015
+• Managed the product features and roadmap of IBM’s Infosphere Stream as per the Telecom Industry in India.
+• Responsible for marketing the Streams Product in other telecom accounts of IBM across the globe.
+• Led and implemented inter operator billing product which generated $3M revenue monthly.
+• Coordinated with stakeholders (including CIO) across multiple Line of Business at Onsite to manage BI product
+features and to develop product prototype and roadmap.
+• Directed a 7-member team from across India for development of Enterprise Management Information; first initiative
+to involve centralized and standardized reports in Data Warehouse.
+Business Analyst & Technical Leader 11/2009 – 04/2012
+• Led the migration of Business Intelligence Platform for newly acquired telecom company, leading to increase in
+marketing performance by 20%.
+• Launched IBM Infosphere Stream (Big Data) Product in India in partnership with the Watson Research Lab, US for
+the use in Telecom Industry for the first time; reduced ETL processing time by 60%.
+• Managed the development of all KPIs within budget and time. Consistently achieved 95% plus on-time delivery.
+• Designed and launched a first of its kind near real time campaign system for the telecom industry, which increased
+sales by 10% and reduced processing time by 60%.
+Associate System Engineer 07/2006 – 10/2009
+• Member of project that replaced an expensive third party tool Teradata with IBM’s in-house ETL Tool and
+Database; generated $5M in revenue for IBM.
+• Contributions to the project have been highlighted twice in GBS GD Newsletter published quarterly.
+SKILLS AND ABILITIES
+Product Management | Business Intelligence | Data Warehousing | Big Data | ETL Tools | Reporting
+• Product Tools: Balsamiq, UXPin, Optimizely
+• ETL Tools: IBM Datastage 9.1, Infosphere Streams (Big Data Tool)
+• Primary Skill Set: HTML, JavaScript, Unix, C++, SQL, awk & sed utility, Shell & Perl Scripting
+• Databases: DB2 9.1, Oracle 10g
+• Data Analysis Tools: Google Analytics, SAS JMP Pro 13, R Studio, AQT (Advanced query tool), Squirrel, Tableau
+• Version Control: GitHub, Jira, Rational Clear Case, Rational Clear Quest, Star Team
+PATENT AND AWARDS
+• Received patent on ‘Best Match Technique’ inspired from challenge of processing enormous data in minimum time.
+• Recognized as one of the future potential Women Leaders and nominated for 1 year elevate leadership program.
+• Earned ‘Manager’s Choice’ award for gaining swift comprehension and acumen at ETL technology.
+• Received Orion Award for demonstrating IBM values and exhibiting high value addition to client's business.
+• Awarded “Bravo Award” for excellence in technical field.","MIT School of Engineering & Sloan School of Management Cambridge, MA","M.S., Bachelor",,Developer and,,,7
+AMARDEEP SIDHU,"AMARDEEP SIDHU
+https://www.linkedin.com/in/ad7pm2
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Fall 2016 - Current
+M.S., System Design and Management
+Purdue University Indianapolis, IN
+School of Engineering July 2011 – Dec 2013
+M. S., Mechanical Engineering (Mechatronics)
+Pune University Pune, INDIA
+Post Graduate Certification Oct 2008– July 2009
+CAD CAM & CAE
+Pune University Pune, INDIA
+AISSMS College of Engineering July 2004– July 2007
+B. S., Mechanical Engineering
+RELEVANTSKILLS
+Software: SolidWorks, Simulink, LabVIEW, Python, ANSYS, PTC Creo, SysML, Vensim, JMP Pro
+Courses: Project Management, System Architecture, Systems Engineering, Data Mining, Product Design and Development
+EXPERIENCE
+APTIMA INC. Woburn, MA
+Capability Management Extern Jan 2017-Jan 2017
+• Gained gain better understanding of project management, business development, research, and division leadership
+• Leveraged data mining to analyze and provide feedback on real world multi-class classification opportunity
+SERVO TECH INC. ON-SITE AT CATERPILLAR INC. Peoria, IL
+Test Engineer Dec 2013-July 2016
+• Supported system level machine software testing with focus on powertrain, implements, engine, display, and telematics
+subsystems
+• Developed plant and I/O models to support real time testing of Electronic Control Modules (ECMs)
+• Designed, developed, and maintained machine software test procedures for existing and future requirements
+• Developed expertise in vehicle communication system – Controller Area Network (CAN) - J1939 data transfer protocols
+and Caterpillar proprietary Cat Data Link
+SORTIMAT TECHNOLOGIES INDIA LTD. Pune, INDIA
+Assembly Engineer July 2010 – June 2011
+• Led a team of 9 for engineering, assembly and installation of industrial automation machinery
+• Conducted feasibility analysis of machinery specifications and assisted sales team in setting client expectations
+• Leveraged and enhanced industry standard German designs for developing assembly line feeding solutions, oversaw
+manufacturing of individual parts, assembled, installed and troubleshot machinery
+• Delivered high quality solutions for over 7 major machine orders along with multiple minor products to the diverse
+clients in FMCG, automotive, and medical industry
+REL-METH ENGINEERS & CONSULTANTS Pune, INDIA
+Design Engineer Aug 2009 – June 2010
+• Designing, component sizing and assembly of industrial automation machinery based on customer requirements
+• Sourced standard parts and raw materials to ensure cost effective design, manufacturing, and assembly
+• Leveraged in house expertise to design and support custom linkages and actuators
+• Supported 4 tailor made machines from design to installation and operator training for a major international consumer
+product manufacturer
+CADBURY INDIA LTD Pune, INDIA
+Trainee Engineer - Plant Maintenance Aug 2007 – Sep 2008
+• Scheduled preventive maintenance and promptly addressed and resolved machine breakdowns
+• Implemented safety measures including machine guards, lock and tag to enforce accident prevention
+• Applied lean methodology for eliminating resource wastage and continuous improvement in the factory
+• Participated in major production enhancement initiatives by setting up cutting edge machinery in the factory
+PUBLICATIONS
+• 5 first author, 1 poster","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Fall 2016 - Current, System Design and Management
+Purdue University Indianapolis, IN, Pune University Pune, INDIA, CAD CAM & CAE
+Pune University Pune, INDIA, AISSMS College of Engineering July 2004– July 2007",M.S.,,"APTIMA INC., Capability Management Extern, Test Engineer",Test Engineer Dec 2013-July 2016,,3
+ASHLEY WHITNEY,"ASHLEY WHITNEY
+ashwhit@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management 9/2015 – 6/2017 (anticipated)
+M.S., System Design and Management
+University of Illinois Urbana-Champaign, IL
+School of Engineering 9/2004-5/2009
+B.S., Mechanical Engineering (with honors)
+EXPERIENCE
+Cambridge Consultants Boston, MA
+Cambridge Consultants is a global product development and technology consultancy providing outsourced research and
+development services to start-ups and blue-chip companies.
+Principal Mechanical Engineer – Medical Technologies 1/2016 – 9/2016
+• Led technical design efforts in development of a portable, reliable, low-cost laparoscopic surgical platform
+prototype targeted to address unique needs of surgery in emerging markets.
+• Managed program to explore feasibility of integrating energy harvesting technology into a drug delivery device for
+dose compliance tracking.
+• Actively contributed to helping build the company’s drug delivery service offering in the US office through
+recruitment, employee mentoring, and demonstrated thought leadership.
+• Designed and implemented design verification training curriculum within organization.
+Senior Mechanical Engineer – Medical Technologies 1/2012 – 1/2016
+• Managed program to support first combination product launch for pharmaceutical company.
+• Led mechanical engineering efforts on a multi-disciplinary team redesigning a complex fluidic management system
+used in surgical procedures from concept generation to product launch.
+• Led mechanical engineering efforts on a multi-disciplinary team to design a home healthcare monitor device
+currently on the market in the US.
+Baxter Healthcare Round Lake, IL
+Baxter Healthcare is a globally diversified healthcare company providing products and expertise in medical devices,
+pharmaceuticals, and biotechnologies that save and sustain lives.
+Senior Mechanical Engineer – Electromechanical Devices 7/2011-1/2012
+• Created a simulation model to quantify the effects of critical environmental and usage factors on infusion pump flow
+rate accuracy. Earned DFSS green belt certification in conjunction with project.
+• Supported requirement generation and concept generation activities for a next generation infusion pump.
+Mechanical Engineer - Engineering Development Program 7/2009-7/2011
+• Developed and evaluated multiple iterations of prototypes for anesthetic container closure project.
+• Led product verification efforts including test planning and management of test team for multiple products.
+• Managed implementation of infusion pump rework related to remediation efforts, including component redesign,
+procedure creation, personnel training, and troubleshooting.
+Ethicon Endo-Surgery Cincinnati, OH
+Ethicon Endo-Surgery is a Johnson & Johnson family company that develops medical devices for minimally invasive
+and open surgical procedures.
+Research & Development Co-op 8/2006-6/2008
+• Managed concept development and selection process for key component of medical device prototype.
+• Performed tolerance stack-up analysis on multiple surgical device components.
+• Performed finite element analysis to optimize design of vibration simulation test fixture.
+OTHER QUALIFICATIONS_______________________________________________________________________
+Medical device regulations (ISO 13485), deign controls, requirement management, risk management, system
+architecture, system design, program management, program design, design for six sigma, mechanical design, CAD
+modeling (Solidworks), design for manufacture and assembly, tolerance analysis, statistical analysis (Minitab), test
+design, product verification, root cause analysis.
+Xiaoliang (Jack) Yao
+262C Winn ST.
+Burlington MA, 01803
+5089040998
+JACKYAO@MIT.EDU
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management May, 2017
+M.S., Engineering and Management
+• 4.53/5.00 GPA
+Columbia University New York, NY
+Fu Foundation School of Engineering and Applied Sciences May, 2013
+M.S., Operations Research
+• 3.63/4.00 GPA
+University of Massachusetts Amherst Amherst, MA
+B.S., Industrial Engineering 3.5/4.00 GPA May, 2011
+B.S., Applied Mathematics 3.9/4.00 GPA
+B.B.A., Operations Management 3.9/4.00 GPA
+B.A., Economics 3.8/4.00 GPA
+B.A., Chinese Language and Linguistics 3.2/4.00 GPA
+• Cumulative 3.68/4.00 GPA
+EXPERIENCE
+Amazon.com Seattle, WA
+Pathways Operations Internship May 2016 – August 2016
+• Reduced labor cost by $150k annually by leveling loading daily inbound volume
+• Increased inbound productivity by 40% by designing and implementing new inbound process
+• Decreased inventory shrinkage due to expiration by 4.3% by introducing new promotion strategy
+General Electric Aviation Lynn, MA
+Business Leader January 2015 – December 2015
+• Drove cost out from 1.2 MM to 5.4MM in 2014
+• Eliminated customer impact by decreasing work stoppages from 34 in 2013 to 0 YTD
+• Decreased average inventory balance from 4.7MM/Wk to 3.2 MM/Wk by implementing lean manufacturing
+methods.
+General Electric Aviation Lynn, MA
+1st Shift Production Supervisor July – December 2014
+• Decreased aged WIP from $1.7MM to under $1MM
+• Decreased backlog from over $2.2MM to under $1.5MM
+• Increased shop productivity from 3% to over 8%.
+General Electric Aviation Class of 2013
+Operations Management Leadership Program Associate
+• 4th Assignment – FINS/Frames Production Supervisor Cincinnati, OH
+o Decreased backlog from $1.1MM to $0
+o Decreased overtime labor by 20% from 25% to 20%
+o Decreased aged WIP from $900K to under $500K
+• 3rd Assignment – Shipping Dock Supervisor Lynn, MA
+o Increased On Time Delivery of all shipments from 76% to 92%
+o Decreased overtime labor and decreased foam use by 50% through new package design
+• 2nd Assignment – Manufacturing Quality Engineer Lynn, MA
+o Reduced open non-conformances by 60% through process changes
+o Increased Florissant Penetrant Inspection yield from 7% to 92% by leading weekly teaming sessions
+o Decreased instances of physical damage to hardware from 10% to 0%
+• 1st Assignment – Lean Manufacturing Engineer Rutland, MA
+o Increased the output of the Process Village Cell by over 100% by implementing lean process changes
+o Supported lean manufacturing by designing equipment and facilities layouts that induce part flow
+o Reduced the cycle time of process village by 25% from over 12 min to under the TAKT time of 10 min
+Languages____________________________________________________________________________________
+Spoken and Written Mandarin Chinese
+Chen Ye
+70 Pacific Street
+Cambridge, MA 02139
++1 (617) 583-0581
+chenye16@mit.edu
+EDUCATION
+Massachusetts Institute of Technology Cambridge, MA
+School of Engineering & Sloan School of Management Aug 2016 - June 2018
+M.S., System Design and Management
+Harbin University of Science and Technology Harbin, China
+B.E., Measurement-Control Technology and Instrumentation Sept 2003 - July 2007
+EXPERIENCE
+China ENFI Engineering Corporation (ENFI) Beijing, China
+The leading engineering firm in China’s nonferrous metal and mining industry; subsidiary of China Metallurgical Group
+Corp., a Fortune Global 500 company merging into China Minmetals Corp.
+Head of African Marketing Department, International Business Division Jan - Aug 2016
+• Started a subsidiary at Lubumbashi, D.R. Congo as an intrapreneur in the company
+• Managed market development, project tracking, and bidding for projects in Africa; won project bids of $5 million
+• Promoted rapidly from an engineering position to the head of a distinct department
+• Obtained certification as a senior engineer
+Engineer, Automation Department, Electrical & Automation Division Dec 2011 - Jan 2016
+• Innovated almost 30 industrial automation techniques and obtained 24 national patents; established the standard of
+control system in copper smelting
+• Managed and coordinated solution design, development, implementation, data analytics and product delivery of
+plant automation projects, frequently served in the field, and acquired extensive client service management skills
+• Provided engineering consulting service: requirement analysis, feasibility & risk study, preliminary plan and
+optimum solution of plant automation in China and Africa, and helped clients maximize efficiency and profit
+• Led the Distributed Control System (DCS) design of the acid plant in Husab Uranium Mine in Namibia – the 4th
+largest uranium mine in the world, which is expected to reshape the supply pattern of nuclear material in the world
+• Managed DCS implementation projects in China and Zambia simultaneously
+• Headed a team of 20 design experts of various fields to serve in the field, and handled internal and external
+relationships in Yunnan Tin Copper Branch - the company’s largest EPC project with investment of $300+ million
+• Awarded the company’s highest individual prize in 2012, top 1%
+• Rated as the company’s Top 10 Field Engineer in 2012
+Assistant Engineer, Automation Department, Design & Management Division July 2007 - Nov 2011
+• Initiated the automation of the CCS plant in Zambia - China’s largest overseas investment in a copper smelter (over
+$300 million), creating 1000+ jobs and reshaping the supply pattern of copper in Africa
+• Accomplished the leading smelt furnace control system (first achieved by Chinese), which broke the technology
+monopoly and price-fixing of an Australian company and save $2+ million in costs
+• Transformed the technical result into the product, guided a team to achieve better application effect, and promoted
+adoption of innovative solutions in the Kunpeng Copper Smelter in Sichuan, after the 2008 Wenchuan Earthquake
+• Awarded the 1st Prize of Science and Technology Award in 2010 and the 1st Prize of Engineering Design Award by
+China Nonferrous Metallurgical Industry Association in 2009
+ADDITIONAL____________________________________________________________________________________
+• Published papers (indexed by EI) in journals of manufacturing, such as International Journal of Manufacturing Tech
+and Mgmt; reviewed papers for conferences on system and control, such as American Control Conference
+• Organized donation of food and clothes to Zambian employees in the CCS plant, trained them in engineering;
+improved the friendship between Zambian residents and Chinese employees
+• Enthusiastic about astronomy for 19 years; built the College Amateur Astronomer Club as the 1st President;
+organized events: outdoor observation, planetarium visits, tutoring school children in astronomy as volunteers, etc;
+granted Distinguished Amateur Astronomer Award by Harbin Amateur Astronomer Society in 2006
+• Led the China Red Arrows Rescue; took training: running, climbing, and diving; fulfilled emergency rescue tasks
+• Took leadership role in the Haiyan English Salon; volunteered to be an English tutor in the Do-See Language Camp
+• Lived in Africa for over a year, and backpacked in 17 countries in Europe, Africa, Asia and North America","Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management 9/2015 – 6/2017 (anticipated), System Design and Management
+University of Illinois Urbana-Champaign, IL","M.S., B.S.",,Cambridge Consultants,"Cambridge Consultants Boston, MA",,0
+ERDEM YILMAZ,,"Massachusetts Institute of Technology Cambridge, MA, School of Engineering & Sloan School of Management Expected Graduation June 2017",,,Cheryish,,November 2016-Present,0
