@@ -1,0 +1,998 @@
+career_cluster,sub_cluster,code,occupation,url
+Advanced Manufacturing,Engineering,17-2011.00,Aerospace Engineers,https://www.onetonline.org/link/summary/17-2011.00
+Advanced Manufacturing,Engineering,19-1021.00,Biochemists and Biophysicists,https://www.onetonline.org/link/summary/19-1021.00
+Advanced Manufacturing,Engineering,17-2031.00,Bioengineers and Biomedical Engineers,https://www.onetonline.org/link/summary/17-2031.00
+Advanced Manufacturing,Engineering,19-2031.00,Chemists,https://www.onetonline.org/link/summary/19-2031.00
+Advanced Manufacturing,Engineering,17-2112.01,Human Factors Engineers and Ergonomists,https://www.onetonline.org/link/summary/17-2112.01
+Advanced Manufacturing,Engineering,17-2112.00,Industrial Engineers,https://www.onetonline.org/link/summary/17-2112.00
+Advanced Manufacturing,Engineering,17-2112.03,Manufacturing Engineers,https://www.onetonline.org/link/summary/17-2112.03
+Advanced Manufacturing,Engineering,19-2032.00,Materials Scientists,https://www.onetonline.org/link/summary/19-2032.00
+Advanced Manufacturing,Engineering,49-9063.00,Musical Instrument Repairers and Tuners,https://www.onetonline.org/link/summary/49-9063.00
+Advanced Manufacturing,Engineering,19-4051.02,Nuclear Monitoring Technicians,https://www.onetonline.org/link/summary/19-4051.02
+Advanced Manufacturing,Engineering,51-2061.00,Timing Device Assemblers and Adjusters,https://www.onetonline.org/link/summary/51-2061.00
+Advanced Manufacturing,Engineering,17-2112.02,Validation Engineers,https://www.onetonline.org/link/summary/17-2112.02
+Advanced Manufacturing,Engineering,49-9064.00,Watch and Clock Repairers,https://www.onetonline.org/link/summary/49-9064.00
+Advanced Manufacturing,Engineering; Production & Automation,17-2141.02,Automotive Engineers,https://www.onetonline.org/link/summary/17-2141.02
+Advanced Manufacturing,Engineering; Production & Automation,51-8091.00,Chemical Plant and System Operators,https://www.onetonline.org/link/summary/51-8091.00
+Advanced Manufacturing,Engineering; Production & Automation,19-4031.00,Chemical Technicians,https://www.onetonline.org/link/summary/19-4031.00
+Advanced Manufacturing,Engineering; Production & Automation,17-3019.00,"Drafters, All Other",https://www.onetonline.org/link/summary/17-3019.00
+Advanced Manufacturing,Engineering; Production & Automation,17-2071.00,Electrical Engineers,https://www.onetonline.org/link/summary/17-2071.00
+Advanced Manufacturing,Engineering; Production & Automation,17-2141.01,Fuel Cell Engineers,https://www.onetonline.org/link/summary/17-2141.01
+Advanced Manufacturing,Engineering; Production & Automation,51-9071.00,Jewelers and Precious Stone and Metal Workers,https://www.onetonline.org/link/summary/51-9071.00
+Advanced Manufacturing,Engineering; Production & Automation,17-3013.00,Mechanical Drafters,https://www.onetonline.org/link/summary/17-3013.00
+Advanced Manufacturing,Engineering; Production & Automation,17-2141.00,Mechanical Engineers,https://www.onetonline.org/link/summary/17-2141.00
+Advanced Manufacturing,Engineering; Production & Automation,17-2199.05,Mechatronics Engineers,https://www.onetonline.org/link/summary/17-2199.05
+Advanced Manufacturing,Engineering; Production & Automation,17-2199.06,Microsystems Engineers,https://www.onetonline.org/link/summary/17-2199.06
+Advanced Manufacturing,Engineering; Production & Automation,17-2199.09,Nanosystems Engineers,https://www.onetonline.org/link/summary/17-2199.09
+Advanced Manufacturing,Engineering; Production & Automation,17-3026.01,Nanotechnology Engineering Technologists and Technicians,https://www.onetonline.org/link/summary/17-3026.01
+Advanced Manufacturing,Engineering; Production & Automation,17-2199.07,Photonics Engineers,https://www.onetonline.org/link/summary/17-2199.07
+Advanced Manufacturing,Engineering; Production & Automation,49-9069.00,"Precision Instrument and Equipment Repairers, All Other",https://www.onetonline.org/link/summary/49-9069.00
+Advanced Manufacturing,Engineering; Production & Automation,17-2199.08,Robotics Engineers,https://www.onetonline.org/link/summary/17-2199.08
+Advanced Manufacturing,Engineering; Production & Automation,51-2041.00,Structural Metal Fabricators and Fitters,https://www.onetonline.org/link/summary/51-2041.00
+Advanced Manufacturing,Industrial Machinery,53-7011.00,Conveyor Operators and Tenders,https://www.onetonline.org/link/summary/53-7011.00
+Advanced Manufacturing,Industrial Machinery,51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4031.00
+Advanced Manufacturing,Industrial Machinery,51-4032.00,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4032.00
+Advanced Manufacturing,Industrial Machinery,51-2031.00,Engine and Other Machine Assemblers,https://www.onetonline.org/link/summary/51-2031.00
+Advanced Manufacturing,Industrial Machinery,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4021.00
+Advanced Manufacturing,Industrial Machinery,51-4022.00,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4022.00
+Advanced Manufacturing,Industrial Machinery,51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4033.00
+Advanced Manufacturing,Industrial Machinery,51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4034.00
+Advanced Manufacturing,Industrial Machinery,53-7063.00,Machine Feeders and Offbearers,https://www.onetonline.org/link/summary/53-7063.00
+Advanced Manufacturing,Industrial Machinery,49-9062.00,Medical Equipment Repairers,https://www.onetonline.org/link/summary/49-9062.00
+Advanced Manufacturing,Industrial Machinery,51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4035.00
+Advanced Manufacturing,Industrial Machinery,51-9151.00,Photographic Process Workers and Processing Machine Operators,https://www.onetonline.org/link/summary/51-9151.00
+Advanced Manufacturing,Industrial Machinery,51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4023.00
+Advanced Manufacturing,Industrial Machinery,51-8021.00,Stationary Engineers and Boiler Operators,https://www.onetonline.org/link/summary/51-8021.00
+Advanced Manufacturing,Industrial Machinery; Production & Automation,51-4041.00,Machinists,https://www.onetonline.org/link/summary/51-4041.00
+Advanced Manufacturing,Industrial Machinery; Production & Automation; Robotics,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,https://www.onetonline.org/link/summary/17-3024.00
+Advanced Manufacturing,Industrial Machinery; Production & Automation; Robotics,17-3024.01,Robotics Technicians,https://www.onetonline.org/link/summary/17-3024.01
+Advanced Manufacturing,Production & Automation,51-9191.00,Adhesive Bonding Machine Operators and Tenders,https://www.onetonline.org/link/summary/51-9191.00
+Advanced Manufacturing,Production & Automation,51-2099.00,"Assemblers and Fabricators, All Other",https://www.onetonline.org/link/summary/51-2099.00
+Advanced Manufacturing,Production & Automation,51-9011.00,Chemical Equipment Operators and Tenders,https://www.onetonline.org/link/summary/51-9011.00
+Advanced Manufacturing,Production & Automation,51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",https://www.onetonline.org/link/summary/51-9192.00
+Advanced Manufacturing,Production & Automation,51-9161.00,Computer Numerically Controlled Tool Operators,https://www.onetonline.org/link/summary/51-9161.00
+Advanced Manufacturing,Production & Automation,51-9162.00,Computer Numerically Controlled Tool Programmers,https://www.onetonline.org/link/summary/51-9162.00
+Advanced Manufacturing,Production & Automation,51-9193.00,Cooling and Freezing Equipment Operators and Tenders,https://www.onetonline.org/link/summary/51-9193.00
+Advanced Manufacturing,Production & Automation,51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-9021.00
+Advanced Manufacturing,Production & Automation,51-9031.00,"Cutters and Trimmers, Hand",https://www.onetonline.org/link/summary/51-9031.00
+Advanced Manufacturing,Production & Automation,51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-9032.00
+Advanced Manufacturing,Production & Automation,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",https://www.onetonline.org/link/summary/51-6091.00
+Advanced Manufacturing,Production & Automation,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-9041.00
+Advanced Manufacturing,Production & Automation,51-2051.00,Fiberglass Laminators and Fabricators,https://www.onetonline.org/link/summary/51-2051.00
+Advanced Manufacturing,Production & Automation,51-1011.00,First-Line Supervisors of Production and Operating Workers,https://www.onetonline.org/link/summary/51-1011.00
+Advanced Manufacturing,Production & Automation,51-3091.00,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",https://www.onetonline.org/link/summary/51-3091.00
+Advanced Manufacturing,Production & Automation,51-3092.00,Food Batchmakers,https://www.onetonline.org/link/summary/51-3092.00
+Advanced Manufacturing,Production & Automation,51-3093.00,Food Cooking Machine Operators and Tenders,https://www.onetonline.org/link/summary/51-3093.00
+Advanced Manufacturing,Production & Automation,51-4071.00,Foundry Mold and Coremakers,https://www.onetonline.org/link/summary/51-4071.00
+Advanced Manufacturing,Production & Automation,51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",https://www.onetonline.org/link/summary/51-9051.00
+Advanced Manufacturing,Production & Automation,51-9071.06,Gem and Diamond Workers,https://www.onetonline.org/link/summary/51-9071.06
+Advanced Manufacturing,Production & Automation,51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",https://www.onetonline.org/link/summary/51-9195.04
+Advanced Manufacturing,Production & Automation,51-9022.00,"Grinding and Polishing Workers, Hand",https://www.onetonline.org/link/summary/51-9022.00
+Advanced Manufacturing,Production & Automation,51-4191.00,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4191.00
+Advanced Manufacturing,Production & Automation,51-9198.00,Helpers--Production Workers,https://www.onetonline.org/link/summary/51-9198.00
+Advanced Manufacturing,Production & Automation,51-6011.00,Laundry and Dry-Cleaning Workers,https://www.onetonline.org/link/summary/51-6011.00
+Advanced Manufacturing,Production & Automation,51-4192.00,"Layout Workers, Metal and Plastic",https://www.onetonline.org/link/summary/51-4192.00
+Advanced Manufacturing,Production & Automation,49-9095.00,Manufactured Building and Mobile Home Installers,https://www.onetonline.org/link/summary/49-9095.00
+Advanced Manufacturing,Production & Automation,51-4199.00,"Metal Workers and Plastic Workers, All Other",https://www.onetonline.org/link/summary/51-4199.00
+Advanced Manufacturing,Production & Automation,51-4051.00,Metal-Refining Furnace Operators and Tenders,https://www.onetonline.org/link/summary/51-4051.00
+Advanced Manufacturing,Production & Automation,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-9023.00
+Advanced Manufacturing,Production & Automation,51-4061.00,"Model Makers, Metal and Plastic",https://www.onetonline.org/link/summary/51-4061.00
+Advanced Manufacturing,Production & Automation,51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic",https://www.onetonline.org/link/summary/51-9195.00
+Advanced Manufacturing,Production & Automation,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4072.00
+Advanced Manufacturing,Production & Automation,51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4081.00
+Advanced Manufacturing,Production & Automation,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-9196.00
+Advanced Manufacturing,Production & Automation,51-4062.00,"Patternmakers, Metal and Plastic",https://www.onetonline.org/link/summary/51-4062.00
+Advanced Manufacturing,Production & Automation,51-4193.00,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",https://www.onetonline.org/link/summary/51-4193.00
+Advanced Manufacturing,Production & Automation,51-9195.05,"Potters, Manufacturing",https://www.onetonline.org/link/summary/51-9195.05
+Advanced Manufacturing,Production & Automation,51-4052.00,"Pourers and Casters, Metal",https://www.onetonline.org/link/summary/51-4052.00
+Advanced Manufacturing,Production & Automation,51-6021.00,"Pressers, Textile, Garment, and Related Materials",https://www.onetonline.org/link/summary/51-6021.00
+Advanced Manufacturing,Production & Automation,51-5113.00,Print Binding and Finishing Workers,https://www.onetonline.org/link/summary/51-5113.00
+Advanced Manufacturing,Production & Automation,51-9199.00,"Production Workers, All Other",https://www.onetonline.org/link/summary/51-9199.00
+Advanced Manufacturing,Production & Automation,51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood",https://www.onetonline.org/link/summary/51-7041.00
+Advanced Manufacturing,Production & Automation,51-9141.00,Semiconductor Processing Technicians,https://www.onetonline.org/link/summary/51-9141.00
+Advanced Manufacturing,Production & Automation,51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-9012.00
+Advanced Manufacturing,Production & Automation,51-6031.00,Sewing Machine Operators,https://www.onetonline.org/link/summary/51-6031.00
+Advanced Manufacturing,Production & Automation,51-6041.00,Shoe and Leather Workers and Repairers,https://www.onetonline.org/link/summary/51-6041.00
+Advanced Manufacturing,Production & Automation,51-6042.00,Shoe Machine Operators and Tenders,https://www.onetonline.org/link/summary/51-6042.00
+Advanced Manufacturing,Production & Automation,51-9195.03,"Stone Cutters and Carvers, Manufacturing",https://www.onetonline.org/link/summary/51-9195.03
+Advanced Manufacturing,Production & Automation,51-2092.00,Team Assemblers,https://www.onetonline.org/link/summary/51-2092.00
+Advanced Manufacturing,Production & Automation,51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,https://www.onetonline.org/link/summary/51-6061.00
+Advanced Manufacturing,Production & Automation,51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-6062.00
+Advanced Manufacturing,Production & Automation,51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-6063.00
+Advanced Manufacturing,Production & Automation,51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-6064.00
+Advanced Manufacturing,Production & Automation,51-6099.00,"Textile, Apparel, and Furnishings Workers, All Other",https://www.onetonline.org/link/summary/51-6099.00
+Advanced Manufacturing,Production & Automation,51-9197.00,Tire Builders,https://www.onetonline.org/link/summary/51-9197.00
+Advanced Manufacturing,Production & Automation,51-4194.00,"Tool Grinders, Filers, and Sharpeners",https://www.onetonline.org/link/summary/51-4194.00
+Advanced Manufacturing,Production & Automation,51-6093.00,Upholsterers,https://www.onetonline.org/link/summary/51-6093.00
+Advanced Manufacturing,Production & Automation,51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",https://www.onetonline.org/link/summary/51-7042.00
+Advanced Manufacturing,Production & Automation; Safety & Quality Assurance,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",https://www.onetonline.org/link/summary/51-9061.00
+Advanced Manufacturing,Production & Automation; Safety & Quality Assurance,19-4099.01,Quality Control Analysts,https://www.onetonline.org/link/summary/19-4099.01
+Advanced Manufacturing,Safety & Quality Assurance,43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",https://www.onetonline.org/link/summary/43-5111.00
+Advanced Manufacturing; Construction,Engineering; Industrial Machinery; Equipment Operation & Maintenance; Skilled Trades,49-9099.01,Geothermal Technicians,https://www.onetonline.org/link/summary/49-9099.01
+Advanced Manufacturing; Construction,Engineering; Industrial Machinery; Equipment Operation & Maintenance; Skilled Trades,49-9099.00,"Installation, Maintenance, and Repair Workers, All Other",https://www.onetonline.org/link/summary/49-9099.00
+Advanced Manufacturing; Construction,Engineering; Robotics; Architecture & Civil Engineering,17-3012.00,Electrical and Electronics Drafters,https://www.onetonline.org/link/summary/17-3012.00
+Advanced Manufacturing; Construction,Industrial Machinery; Equipment Operation & Maintenance,53-7021.00,Crane and Tower Operators,https://www.onetonline.org/link/summary/53-7021.00
+Advanced Manufacturing; Construction,Industrial Machinery; Equipment Operation & Maintenance,53-7031.00,Dredge Operators,https://www.onetonline.org/link/summary/53-7031.00
+Advanced Manufacturing; Construction,Industrial Machinery; Equipment Operation & Maintenance,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",https://www.onetonline.org/link/summary/49-2094.00
+Advanced Manufacturing; Construction,Industrial Machinery; Equipment Operation & Maintenance,53-7041.00,Hoist and Winch Operators,https://www.onetonline.org/link/summary/53-7041.00
+Advanced Manufacturing; Construction,Industrial Machinery; Equipment Operation & Maintenance,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines",https://www.onetonline.org/link/summary/49-3042.00
+Advanced Manufacturing; Construction,Production & Automation; Skilled Trades,51-7011.00,Cabinetmakers and Bench Carpenters,https://www.onetonline.org/link/summary/51-7011.00
+Advanced Manufacturing; Construction,Production & Automation; Skilled Trades,51-7021.00,Furniture Finishers,https://www.onetonline.org/link/summary/51-7021.00
+Advanced Manufacturing; Construction,Production & Automation; Skilled Trades,51-7031.00,"Model Makers, Wood",https://www.onetonline.org/link/summary/51-7031.00
+Advanced Manufacturing; Construction,Production & Automation; Skilled Trades,51-7032.00,"Patternmakers, Wood",https://www.onetonline.org/link/summary/51-7032.00
+Advanced Manufacturing; Construction,Production & Automation; Skilled Trades,51-4121.00,"Welders, Cutters, Solderers, and Brazers",https://www.onetonline.org/link/summary/51-4121.00
+Advanced Manufacturing; Construction,Production & Automation; Skilled Trades,51-7099.00,"Woodworkers, All Other",https://www.onetonline.org/link/summary/51-7099.00
+"Advanced Manufacturing; Construction; Supply Chain & Transportation; Arts, Entertainment, & Design",Engineering; Production & Automation; Architecture & Civil Engineering; Skilled Trades; Maintenance & Repair; Lighting & Sound Technology,17-3029.01,Non-Destructive Testing Specialists,https://www.onetonline.org/link/summary/17-3029.01
+"Advanced Manufacturing; Construction; Supply Chain & Transportation; Arts, Entertainment, & Design",Engineering; Production & Automation; Skilled Trades; Maintenance & Repair; Lighting & Sound Technology,17-3029.08,Photonics Technicians,https://www.onetonline.org/link/summary/17-3029.08
+"Advanced Manufacturing; Construction; Supply Chain & Transportation; Arts, Entertainment, & Design; Public Service & Safety; Energy & Natural Resources",Engineering; Production & Automation; Architecture & Civil Engineering; Skilled Trades; Maintenance & Repair; Lighting & Sound Technology; Military & National Security; Clean & Alternative Energy; Resource Extraction; Utilities,17-3029.00,"Engineering Technologists and Technicians, Except Drafters, All Other",https://www.onetonline.org/link/summary/17-3029.00
+Advanced Manufacturing; Construction; Supply Chain & Transportation; Energy & Natural Resources,Industrial Machinery; Construction Planning & Development; Equipment Operation & Maintenance; Maintenance & Repair; Clean & Alternative Energy; Resource Extraction; Utilities,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",https://www.onetonline.org/link/summary/49-1011.00
+"Advanced Manufacturing; Construction; Arts, Entertainment, & Design",Engineering; Architecture & Civil Engineering; Design & Digital Arts,27-1029.00,"Designers, All Other",https://www.onetonline.org/link/summary/27-1029.00
+"Advanced Manufacturing; Construction; Arts, Entertainment, & Design; Agriculture; Energy & Natural Resources",Engineering; Production & Automation; Architecture & Civil Engineering; Fashion & Interiors; Plant Systems; Clean & Alternative Energy; Ecological Research & Development; Environmental Protection; Resource Extraction; Utilities,11-9041.00,Architectural and Engineering Managers,https://www.onetonline.org/link/summary/11-9041.00
+Advanced Manufacturing; Construction; Agriculture; Energy & Natural Resources,Engineering; Production & Automation; Architecture & Civil Engineering; Plant Systems; Clean & Alternative Energy; Ecological Research & Development; Environmental Protection; Resource Extraction; Utilities,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,https://www.onetonline.org/link/summary/11-9041.01
+Advanced Manufacturing; Construction; Agriculture; Energy & Natural Resources,Engineering; Production & Automation; Architecture & Civil Engineering; Plant Systems; Clean & Alternative Energy; Environmental Protection; Resource Extraction; Utilities,17-2199.00,"Engineers, All Other",https://www.onetonline.org/link/summary/17-2199.00
+Advanced Manufacturing; Construction; Energy & Natural Resources,Engineering; Production & Automation; Architecture & Civil Engineering; Clean & Alternative Energy; Environmental Protection; Resource Extraction; Utilities,17-2199.03,"Energy Engineers, Except Wind and Solar",https://www.onetonline.org/link/summary/17-2199.03
+Advanced Manufacturing; Construction; Energy & Natural Resources,Engineering; Production & Automation; Architecture & Civil Engineering; Clean & Alternative Energy; Environmental Protection; Resource Extraction; Utilities,17-2199.11,Solar Energy Systems Engineers,https://www.onetonline.org/link/summary/17-2199.11
+Advanced Manufacturing; Construction; Energy & Natural Resources,Engineering; Production & Automation; Architecture & Civil Engineering; Clean & Alternative Energy; Environmental Protection; Resource Extraction; Utilities,17-2199.10,Wind Energy Engineers,https://www.onetonline.org/link/summary/17-2199.10
+Advanced Manufacturing; Supply Chain & Transportation,Engineering; Production & Automation; Robotics; Air & Space Transportation,17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,https://www.onetonline.org/link/summary/17-3021.00
+Advanced Manufacturing; Supply Chain & Transportation,Engineering; Planning & Logistics,17-2072.01,Radio Frequency Identification Device Specialists,https://www.onetonline.org/link/summary/17-2072.01
+Advanced Manufacturing; Supply Chain & Transportation,Industrial Machinery; Production & Automation; Maintenance & Repair,17-3027.01,Automotive Engineering Technicians,https://www.onetonline.org/link/summary/17-3027.01
+Advanced Manufacturing; Supply Chain & Transportation,Industrial Machinery; Production & Automation; Maintenance & Repair,17-3027.00,Mechanical Engineering Technologists and Technicians,https://www.onetonline.org/link/summary/17-3027.00
+Advanced Manufacturing; Supply Chain & Transportation,Industrial Machinery; Ground & Rail Transportation; Maintenance & Repair,49-2092.00,"Electric Motor, Power Tool, and Related Repairers",https://www.onetonline.org/link/summary/49-2092.00
+Advanced Manufacturing; Supply Chain & Transportation; Healthcare & Human Services; Energy & Natural Resources,Engineering; Safety & Quality Assurance; Air & Space Transportation; Biotechnology Research & Development; Physical Health; Conservation & Land Management; Ecological Research & Development,11-9121.00,Natural Sciences Managers,https://www.onetonline.org/link/summary/11-9121.00
+Advanced Manufacturing; Supply Chain & Transportation; Management & Entrepreneurship,Production & Automation; Safety & Quality Assurance; Planning & Logistics; Leadership & Operations,11-3051.01,Quality Control Systems Managers,https://www.onetonline.org/link/summary/11-3051.01
+Advanced Manufacturing; Supply Chain & Transportation; Management & Entrepreneurship,Production & Automation; Planning & Logistics; Leadership & Operations,11-3051.03,Biofuels Production Managers,https://www.onetonline.org/link/summary/11-3051.03
+Advanced Manufacturing; Supply Chain & Transportation; Management & Entrepreneurship,Production & Automation; Planning & Logistics; Leadership & Operations,11-3051.04,Biomass Power Plant Managers,https://www.onetonline.org/link/summary/11-3051.04
+Advanced Manufacturing; Supply Chain & Transportation; Management & Entrepreneurship,Production & Automation; Planning & Logistics; Leadership & Operations,11-3051.02,Geothermal Production Managers,https://www.onetonline.org/link/summary/11-3051.02
+Advanced Manufacturing; Supply Chain & Transportation; Management & Entrepreneurship,Production & Automation; Planning & Logistics; Leadership & Operations,11-3051.06,Hydroelectric Production Managers,https://www.onetonline.org/link/summary/11-3051.06
+Advanced Manufacturing; Supply Chain & Transportation; Management & Entrepreneurship,Production & Automation; Planning & Logistics; Leadership & Operations,11-3051.00,Industrial Production Managers,https://www.onetonline.org/link/summary/11-3051.00
+"Advanced Manufacturing; Arts, Entertainment, & Design",Production & Automation; Fashion & Interiors,51-6092.00,Fabric and Apparel Patternmakers,https://www.onetonline.org/link/summary/51-6092.00
+"Advanced Manufacturing; Arts, Entertainment, & Design",Production & Automation; Media Production & Broadcasting,51-9194.00,Etchers and Engravers,https://www.onetonline.org/link/summary/51-9194.00
+"Advanced Manufacturing; Arts, Entertainment, & Design",Production & Automation; Media Production & Broadcasting,51-5111.00,Prepress Technicians and Workers,https://www.onetonline.org/link/summary/51-5111.00
+"Advanced Manufacturing; Arts, Entertainment, & Design",Production & Automation; Media Production & Broadcasting,51-5112.00,Printing Press Operators,https://www.onetonline.org/link/summary/51-5112.00
+"Advanced Manufacturing; Arts, Entertainment, & Design; Energy & Natural Resources",Production & Automation; Fashion & Interiors; Resource Extraction,17-2131.00,Materials Engineers,https://www.onetonline.org/link/summary/17-2131.00
+Advanced Manufacturing; Financial Services; Education; Healthcare & Human Services; Public Service & Safety; Digital Technology; Management & Entrepreneurship; Marketing & Sales,"Engineering; Financial Strategy & Investments; Education Administration & Leadership; Behavioral & Mental Health; Biotechnology Research & Development; Local, State, & Federal Services; Data Science & AI; Business Information Management; Market Research, Analytics, & Ethics",15-2041.00,Statisticians,https://www.onetonline.org/link/summary/15-2041.00
+Advanced Manufacturing; Financial Services; Healthcare & Human Services; Public Service & Safety; Energy & Natural Resources; Digital Technology; Management & Entrepreneurship; Marketing & Sales,"Engineering; Financial Strategy & Investments; Insurance; Biotechnology Research & Development; Local, State, & Federal Services; Ecological Research & Development; Data Science & AI; Network Systems & Cybersecurity; Business Information Management; Market Research, Analytics, & Ethics",15-2021.00,Mathematicians,https://www.onetonline.org/link/summary/15-2021.00
+Advanced Manufacturing; Healthcare & Human Services,Engineering; Safety & Quality Assurance; Biotechnology Research & Development; Physical Health,11-9121.01,Clinical Research Coordinators,https://www.onetonline.org/link/summary/11-9121.01
+Advanced Manufacturing; Healthcare & Human Services; Public Service & Safety; Energy & Natural Resources,"Engineering; Biotechnology Research & Development; Local, State, & Federal Services; Military & National Security; Clean & Alternative Energy",19-2012.00,Physicists,https://www.onetonline.org/link/summary/19-2012.00
+Advanced Manufacturing; Healthcare & Human Services; Public Service & Safety; Energy & Natural Resources,"Safety & Quality Assurance; Biotechnology Research & Development; Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development",19-2041.00,"Environmental Scientists and Specialists, Including Health",https://www.onetonline.org/link/summary/19-2041.00
+Advanced Manufacturing; Public Service & Safety; Energy & Natural Resources,Engineering; Military & National Security; Clean & Alternative Energy; Utilities,19-4051.00,Nuclear Technicians,https://www.onetonline.org/link/summary/19-4051.00
+Advanced Manufacturing; Agriculture,Engineering; Plant Systems,17-2041.00,Chemical Engineers,https://www.onetonline.org/link/summary/17-2041.00
+Advanced Manufacturing; Agriculture,Production & Automation; Food Science & Processing,51-3099.00,"Food Processing Workers, All Other",https://www.onetonline.org/link/summary/51-3099.00
+Advanced Manufacturing; Agriculture; Energy & Natural Resources,Production & Automation; Plant Systems; Conservation & Land Management; Ecological Research & Development,19-1032.00,Foresters,https://www.onetonline.org/link/summary/19-1032.00
+Advanced Manufacturing; Agriculture; Energy & Natural Resources,Safety & Quality Assurance; Water Systems; Ecological Research & Development,17-3025.00,Environmental Engineering Technologists and Technicians,https://www.onetonline.org/link/summary/17-3025.00
+Advanced Manufacturing; Energy & Natural Resources,Engineering; Production & Automation; Resource Extraction,17-3026.00,Industrial Engineering Technologists and Technicians,https://www.onetonline.org/link/summary/17-3026.00
+Advanced Manufacturing; Energy & Natural Resources,Engineering; Safety & Quality Assurance; Conservation & Land Management; Ecological Research & Development,11-9121.02,Water Resource Specialists,https://www.onetonline.org/link/summary/11-9121.02
+Advanced Manufacturing; Energy & Natural Resources,Engineering; Clean & Alternative Energy,27-1021.00,Commercial and Industrial Designers,https://www.onetonline.org/link/summary/27-1021.00
+Advanced Manufacturing; Energy & Natural Resources,Industrial Machinery; Production & Automation; Robotics; Safety & Quality Assurance; Utilities,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians,https://www.onetonline.org/link/summary/17-3023.00
+Advanced Manufacturing; Energy & Natural Resources,Industrial Machinery; Resource Extraction,49-9041.00,Industrial Machinery Mechanics,https://www.onetonline.org/link/summary/49-9041.00
+Advanced Manufacturing; Energy & Natural Resources,Production & Automation; Safety & Quality Assurance; Resource Extraction,17-3028.00,Calibration Technologists and Technicians,https://www.onetonline.org/link/summary/17-3028.00
+Advanced Manufacturing; Energy & Natural Resources,Robotics; Utilities,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",https://www.onetonline.org/link/summary/49-2095.00
+Advanced Manufacturing; Energy & Natural Resources,Safety & Quality Assurance; Utilities,47-4041.00,Hazardous Materials Removal Workers,https://www.onetonline.org/link/summary/47-4041.00
+Advanced Manufacturing; Management & Entrepreneurship,Safety & Quality Assurance; Regulation,19-5011.00,Occupational Health and Safety Specialists,https://www.onetonline.org/link/summary/19-5011.00
+Advanced Manufacturing; Management & Entrepreneurship,Safety & Quality Assurance; Regulation,19-5012.00,Occupational Health and Safety Technicians,https://www.onetonline.org/link/summary/19-5012.00
+Advanced Manufacturing; Marketing & Sales,Industrial Machinery; Retail & Customer Experience,49-2011.00,"Computer, Automated Teller, and Office Machine Repairers",https://www.onetonline.org/link/summary/49-2011.00
+Construction,Architecture & Civil Engineering,17-1011.00,"Architects, Except Landscape and Naval",https://www.onetonline.org/link/summary/17-1011.00
+Construction,Architecture & Civil Engineering,17-3011.00,Architectural and Civil Drafters,https://www.onetonline.org/link/summary/17-3011.00
+Construction,Architecture & Civil Engineering,17-1012.00,Landscape Architects,https://www.onetonline.org/link/summary/17-1012.00
+Construction,Construction Planning & Development,13-1051.00,Cost Estimators,https://www.onetonline.org/link/summary/13-1051.00
+Construction,Equipment Operation & Maintenance,49-9043.00,"Maintenance Workers, Machinery",https://www.onetonline.org/link/summary/49-9043.00
+Construction,Equipment Operation & Maintenance,47-2073.00,Operating Engineers and Other Construction Equipment Operators,https://www.onetonline.org/link/summary/47-2073.00
+Construction,Equipment Operation & Maintenance,47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",https://www.onetonline.org/link/summary/47-2071.00
+Construction,Equipment Operation & Maintenance,47-2072.00,Pile Driver Operators,https://www.onetonline.org/link/summary/47-2072.00
+Construction,Skilled Trades,47-2011.00,Boilermakers,https://www.onetonline.org/link/summary/47-2011.00
+Construction,Skilled Trades,47-2021.00,Brickmasons and Blockmasons,https://www.onetonline.org/link/summary/47-2021.00
+Construction,Skilled Trades,47-2031.00,Carpenters,https://www.onetonline.org/link/summary/47-2031.00
+Construction,Skilled Trades,47-2041.00,Carpet Installers,https://www.onetonline.org/link/summary/47-2041.00
+Construction,Skilled Trades,47-2051.00,Cement Masons and Concrete Finishers,https://www.onetonline.org/link/summary/47-2051.00
+Construction,Skilled Trades,47-4099.00,"Construction and Related Workers, All Other",https://www.onetonline.org/link/summary/47-4099.00
+Construction,Skilled Trades,47-2061.00,Construction Laborers,https://www.onetonline.org/link/summary/47-2061.00
+Construction,Skilled Trades,49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door",https://www.onetonline.org/link/summary/49-9012.00
+Construction,Skilled Trades,47-2081.00,Drywall and Ceiling Tile Installers,https://www.onetonline.org/link/summary/47-2081.00
+Construction,Skilled Trades,51-2022.00,Electrical and Electronic Equipment Assemblers,https://www.onetonline.org/link/summary/51-2022.00
+Construction,Skilled Trades,47-2111.00,Electricians,https://www.onetonline.org/link/summary/47-2111.00
+Construction,Skilled Trades,51-2023.00,Electromechanical Equipment Assemblers,https://www.onetonline.org/link/summary/51-2023.00
+Construction,Skilled Trades,47-4021.00,Elevator and Escalator Installers and Repairers,https://www.onetonline.org/link/summary/47-4021.00
+Construction,Skilled Trades,47-4031.00,Fence Erectors,https://www.onetonline.org/link/summary/47-4031.00
+Construction,Skilled Trades,47-2042.00,"Floor Layers, Except Carpet, Wood, and Hard Tiles",https://www.onetonline.org/link/summary/47-2042.00
+Construction,Skilled Trades,47-2043.00,Floor Sanders and Finishers,https://www.onetonline.org/link/summary/47-2043.00
+Construction,Skilled Trades,47-2121.00,Glaziers,https://www.onetonline.org/link/summary/47-2121.00
+Construction,Skilled Trades,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",https://www.onetonline.org/link/summary/49-9021.00
+Construction,Skilled Trades,47-3019.00,"Helpers, Construction Trades, All Other",https://www.onetonline.org/link/summary/47-3019.00
+Construction,Skilled Trades,47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",https://www.onetonline.org/link/summary/47-3011.00
+Construction,Skilled Trades,47-3012.00,Helpers--Carpenters,https://www.onetonline.org/link/summary/47-3012.00
+Construction,Skilled Trades,47-3013.00,Helpers--Electricians,https://www.onetonline.org/link/summary/47-3013.00
+Construction,Skilled Trades,49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers",https://www.onetonline.org/link/summary/49-9098.00
+Construction,Skilled Trades,47-3014.00,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",https://www.onetonline.org/link/summary/47-3014.00
+Construction,Skilled Trades,47-3015.00,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",https://www.onetonline.org/link/summary/47-3015.00
+Construction,Skilled Trades,47-3016.00,Helpers--Roofers,https://www.onetonline.org/link/summary/47-3016.00
+Construction,Skilled Trades,49-9031.00,Home Appliance Repairers,https://www.onetonline.org/link/summary/49-9031.00
+Construction,Skilled Trades,47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall",https://www.onetonline.org/link/summary/47-2131.00
+Construction,Skilled Trades,47-2132.00,"Insulation Workers, Mechanical",https://www.onetonline.org/link/summary/47-2132.00
+Construction,Skilled Trades,49-9094.00,Locksmiths and Safe Repairers,https://www.onetonline.org/link/summary/49-9094.00
+Construction,Skilled Trades,49-9071.00,"Maintenance and Repair Workers, General",https://www.onetonline.org/link/summary/49-9071.00
+Construction,Skilled Trades,49-9011.00,Mechanical Door Repairers,https://www.onetonline.org/link/summary/49-9011.00
+Construction,Skilled Trades,49-9044.00,Millwrights,https://www.onetonline.org/link/summary/49-9044.00
+Construction,Skilled Trades,47-2141.00,"Painters, Construction and Maintenance",https://www.onetonline.org/link/summary/47-2141.00
+Construction,Skilled Trades,51-9123.00,"Painting, Coating, and Decorating Workers",https://www.onetonline.org/link/summary/51-9123.00
+Construction,Skilled Trades,47-2142.00,Paperhangers,https://www.onetonline.org/link/summary/47-2142.00
+Construction,Skilled Trades,47-2151.00,Pipelayers,https://www.onetonline.org/link/summary/47-2151.00
+Construction,Skilled Trades,47-2161.00,Plasterers and Stucco Masons,https://www.onetonline.org/link/summary/47-2161.00
+Construction,Skilled Trades,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",https://www.onetonline.org/link/summary/47-2152.00
+Construction,Skilled Trades,49-9045.00,"Refractory Materials Repairers, Except Brickmasons",https://www.onetonline.org/link/summary/49-9045.00
+Construction,Skilled Trades,47-2171.00,Reinforcing Iron and Rebar Workers,https://www.onetonline.org/link/summary/47-2171.00
+Construction,Skilled Trades,47-2181.00,Roofers,https://www.onetonline.org/link/summary/47-2181.00
+Construction,Skilled Trades,49-2098.00,Security and Fire Alarm Systems Installers,https://www.onetonline.org/link/summary/49-2098.00
+Construction,Skilled Trades,47-4091.00,Segmental Pavers,https://www.onetonline.org/link/summary/47-4091.00
+Construction,Skilled Trades,47-2211.00,Sheet Metal Workers,https://www.onetonline.org/link/summary/47-2211.00
+Construction,Skilled Trades,47-2152.04,Solar Thermal Installers and Technicians,https://www.onetonline.org/link/summary/47-2152.04
+Construction,Skilled Trades,47-2022.00,Stonemasons,https://www.onetonline.org/link/summary/47-2022.00
+Construction,Skilled Trades,47-2221.00,Structural Iron and Steel Workers,https://www.onetonline.org/link/summary/47-2221.00
+Construction,Skilled Trades,47-2082.00,Tapers,https://www.onetonline.org/link/summary/47-2082.00
+Construction,Skilled Trades,47-2053.00,Terrazzo Workers and Finishers,https://www.onetonline.org/link/summary/47-2053.00
+Construction,Skilled Trades,47-2044.00,Tile and Stone Setters,https://www.onetonline.org/link/summary/47-2044.00
+Construction,Skilled Trades,51-4111.00,Tool and Die Makers,https://www.onetonline.org/link/summary/51-4111.00
+Construction,Skilled Trades,47-4099.03,Weatherization Installers and Technicians,https://www.onetonline.org/link/summary/47-4099.03
+Construction,Skilled Trades,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-4122.00
+Construction; Supply Chain & Transportation,Equipment Operation & Maintenance; Maintenance & Repair,47-4051.00,Highway Maintenance Workers,https://www.onetonline.org/link/summary/47-4051.00
+Construction; Supply Chain & Transportation; Public Service & Safety,"Construction Planning & Development; Planning & Logistics; Local, State, & Federal Services",19-3051.00,Urban and Regional Planners,https://www.onetonline.org/link/summary/19-3051.00
+Construction; Supply Chain & Transportation; Energy & Natural Resources,Architecture & Civil Engineering; Planning & Logistics; Resource Extraction,17-3022.00,Civil Engineering Technologists and Technicians,https://www.onetonline.org/link/summary/17-3022.00
+Construction; Public Service & Safety,"Architecture & Civil Engineering; Local, State, & Federal Services",17-2051.00,Civil Engineers,https://www.onetonline.org/link/summary/17-2051.00
+Construction; Public Service & Safety,"Architecture & Civil Engineering; Local, State, & Federal Services",17-2051.01,Transportation Engineers,https://www.onetonline.org/link/summary/17-2051.01
+Construction; Public Service & Safety,"Architecture & Civil Engineering; Local, State, & Federal Services",17-2051.02,Water/Wastewater Engineers,https://www.onetonline.org/link/summary/17-2051.02
+Construction; Public Service & Safety,"Construction Planning & Development; Local, State, & Federal Services",47-4011.00,Construction and Building Inspectors,https://www.onetonline.org/link/summary/47-4011.00
+Construction; Public Service & Safety,"Construction Planning & Development; Local, State, & Federal Services",47-4011.01,Energy Auditors,https://www.onetonline.org/link/summary/47-4011.01
+Construction; Public Service & Safety; Energy & Natural Resources,Architecture & Civil Engineering; Military & National Security; Conservation & Land Management; Resource Extraction,17-1021.00,Cartographers and Photogrammetrists,https://www.onetonline.org/link/summary/17-1021.00
+Construction; Agriculture,Equipment Operation & Maintenance; Plant Systems,45-4022.00,Logging Equipment Operators,https://www.onetonline.org/link/summary/45-4022.00
+Construction; Energy & Natural Resources,Architecture & Civil Engineering; Conservation & Land Management,17-1022.01,Geodetic Surveyors,https://www.onetonline.org/link/summary/17-1022.01
+Construction; Energy & Natural Resources,Architecture & Civil Engineering; Conservation & Land Management; Resource Extraction,17-1022.00,Surveyors,https://www.onetonline.org/link/summary/17-1022.00
+Construction; Energy & Natural Resources,Construction Planning & Development; Skilled Trades; Resource Extraction; Utilities,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,https://www.onetonline.org/link/summary/47-1011.00
+Construction; Energy & Natural Resources,Construction Planning & Development; Skilled Trades; Resource Extraction; Utilities,47-1011.03,Solar Energy Installation Managers,https://www.onetonline.org/link/summary/47-1011.03
+Construction; Energy & Natural Resources,Equipment Operation & Maintenance; Resource Extraction,47-5041.00,Continuous Mining Machine Operators,https://www.onetonline.org/link/summary/47-5041.00
+Construction; Energy & Natural Resources,Equipment Operation & Maintenance; Resource Extraction,47-5023.00,"Earth Drillers, Except Oil and Gas",https://www.onetonline.org/link/summary/47-5023.00
+Construction; Energy & Natural Resources,Equipment Operation & Maintenance; Resource Extraction,47-5022.00,"Excavating and Loading Machine and Dragline Operators, Surface Mining",https://www.onetonline.org/link/summary/47-5022.00
+Construction; Energy & Natural Resources,Equipment Operation & Maintenance; Resource Extraction,47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",https://www.onetonline.org/link/summary/47-5032.00
+Construction; Energy & Natural Resources,Equipment Operation & Maintenance; Resource Extraction,47-5099.00,"Extraction Workers, All Other",https://www.onetonline.org/link/summary/47-5099.00
+Construction; Energy & Natural Resources,Equipment Operation & Maintenance; Resource Extraction,47-5049.00,"Underground Mining Machine Operators, All Other",https://www.onetonline.org/link/summary/47-5049.00
+Construction; Energy & Natural Resources,Skilled Trades; Clean & Alternative Energy; Utilities,47-2231.00,Solar Photovoltaic Installers,https://www.onetonline.org/link/summary/47-2231.00
+Construction; Management & Entrepreneurship,Construction Planning & Development; Entrepreneurship & Small Business,11-9021.00,Construction Managers,https://www.onetonline.org/link/summary/11-9021.00
+Supply Chain & Transportation,Air & Space Transportation,53-2021.00,Air Traffic Controllers,https://www.onetonline.org/link/summary/53-2021.00
+Supply Chain & Transportation,Air & Space Transportation,53-1041.00,Aircraft Cargo Handling Supervisors,https://www.onetonline.org/link/summary/53-1041.00
+Supply Chain & Transportation,Air & Space Transportation,53-6032.00,Aircraft Service Attendants,https://www.onetonline.org/link/summary/53-6032.00
+Supply Chain & Transportation,Air & Space Transportation,53-2022.00,Airfield Operations Specialists,https://www.onetonline.org/link/summary/53-2022.00
+Supply Chain & Transportation,Air & Space Transportation,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",https://www.onetonline.org/link/summary/53-2011.00
+Supply Chain & Transportation,Air & Space Transportation,49-2091.00,Avionics Technicians,https://www.onetonline.org/link/summary/49-2091.00
+Supply Chain & Transportation,Air & Space Transportation,53-2012.00,Commercial Pilots,https://www.onetonline.org/link/summary/53-2012.00
+Supply Chain & Transportation,Air & Space Transportation,53-2031.00,Flight Attendants,https://www.onetonline.org/link/summary/53-2031.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",https://www.onetonline.org/link/summary/53-3011.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3051.00,"Bus Drivers, School",https://www.onetonline.org/link/summary/53-3051.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3052.00,"Bus Drivers, Transit and Intercity",https://www.onetonline.org/link/summary/53-3052.00
+Supply Chain & Transportation,Ground & Rail Transportation,49-9092.00,Commercial Divers,https://www.onetonline.org/link/summary/49-9092.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3031.00,Driver/Sales Workers,https://www.onetonline.org/link/summary/53-3031.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3032.00,Heavy and Tractor-Trailer Truck Drivers,https://www.onetonline.org/link/summary/53-3032.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-7051.00,Industrial Truck and Tractor Operators,https://www.onetonline.org/link/summary/53-7051.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3033.00,Light Truck Drivers,https://www.onetonline.org/link/summary/53-3033.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-4011.00,Locomotive Engineers,https://www.onetonline.org/link/summary/53-4011.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3099.00,"Motor Vehicle Operators, All Other",https://www.onetonline.org/link/summary/53-3099.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-6021.00,Parking Attendants,https://www.onetonline.org/link/summary/53-6021.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-4099.00,"Rail Transportation Workers, All Other",https://www.onetonline.org/link/summary/53-4099.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers",https://www.onetonline.org/link/summary/53-4013.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-4022.00,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",https://www.onetonline.org/link/summary/53-4022.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-4031.00,Railroad Conductors and Yardmasters,https://www.onetonline.org/link/summary/53-4031.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3053.00,Shuttle Drivers and Chauffeurs,https://www.onetonline.org/link/summary/53-3053.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-4041.00,Subway and Streetcar Operators,https://www.onetonline.org/link/summary/53-4041.00
+Supply Chain & Transportation,Ground & Rail Transportation,53-3054.00,Taxi Drivers,https://www.onetonline.org/link/summary/53-3054.00
+Supply Chain & Transportation,Ground & Rail Transportation; Maintenance & Repair,53-6099.00,"Transportation Workers, All Other",https://www.onetonline.org/link/summary/53-6099.00
+Supply Chain & Transportation,Ground & Rail Transportation; Marine Transportation,43-5011.00,Cargo and Freight Agents,https://www.onetonline.org/link/summary/43-5011.00
+Supply Chain & Transportation,Ground & Rail Transportation; Marine Transportation,43-5011.01,Freight Forwarders,https://www.onetonline.org/link/summary/43-5011.01
+Supply Chain & Transportation,Maintenance & Repair,49-3011.00,Aircraft Mechanics and Service Technicians,https://www.onetonline.org/link/summary/49-3011.00
+Supply Chain & Transportation,Maintenance & Repair,51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",https://www.onetonline.org/link/summary/51-2011.00
+Supply Chain & Transportation,Maintenance & Repair,49-3021.00,Automotive Body and Related Repairers,https://www.onetonline.org/link/summary/49-3021.00
+Supply Chain & Transportation,Maintenance & Repair,49-3022.00,Automotive Glass Installers and Repairers,https://www.onetonline.org/link/summary/49-3022.00
+Supply Chain & Transportation,Maintenance & Repair,49-3023.00,Automotive Service Technicians and Mechanics,https://www.onetonline.org/link/summary/49-3023.00
+Supply Chain & Transportation,Maintenance & Repair,53-6051.01,Aviation Inspectors,https://www.onetonline.org/link/summary/53-6051.01
+Supply Chain & Transportation,Maintenance & Repair,49-3091.00,Bicycle Repairers,https://www.onetonline.org/link/summary/49-3091.00
+Supply Chain & Transportation,Maintenance & Repair,49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists,https://www.onetonline.org/link/summary/49-3031.00
+Supply Chain & Transportation,Maintenance & Repair,53-7061.00,Cleaners of Vehicles and Equipment,https://www.onetonline.org/link/summary/53-7061.00
+Supply Chain & Transportation,Maintenance & Repair,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",https://www.onetonline.org/link/summary/51-9124.00
+Supply Chain & Transportation,Maintenance & Repair,49-2093.00,"Electrical and Electronics Installers and Repairers, Transportation Equipment",https://www.onetonline.org/link/summary/49-2093.00
+Supply Chain & Transportation,Maintenance & Repair,49-2096.00,"Electronic Equipment Installers and Repairers, Motor Vehicles",https://www.onetonline.org/link/summary/49-2096.00
+Supply Chain & Transportation,Maintenance & Repair,53-7071.00,Gas Compressor and Gas Pumping Station Operators,https://www.onetonline.org/link/summary/53-7071.00
+Supply Chain & Transportation,Maintenance & Repair,49-3051.00,Motorboat Mechanics and Service Technicians,https://www.onetonline.org/link/summary/49-3051.00
+Supply Chain & Transportation,Maintenance & Repair,49-3052.00,Motorcycle Mechanics,https://www.onetonline.org/link/summary/49-3052.00
+Supply Chain & Transportation,Maintenance & Repair,53-7072.00,"Pump Operators, Except Wellhead Pumpers",https://www.onetonline.org/link/summary/53-7072.00
+Supply Chain & Transportation,Maintenance & Repair,49-3043.00,Rail Car Repairers,https://www.onetonline.org/link/summary/49-3043.00
+Supply Chain & Transportation,Maintenance & Repair,47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,https://www.onetonline.org/link/summary/47-4061.00
+Supply Chain & Transportation,Maintenance & Repair,49-3092.00,Recreational Vehicle Service Technicians,https://www.onetonline.org/link/summary/49-3092.00
+Supply Chain & Transportation,Maintenance & Repair,49-9097.00,Signal and Track Switch Repairers,https://www.onetonline.org/link/summary/49-9097.00
+Supply Chain & Transportation,Maintenance & Repair,49-3093.00,Tire Repairers and Changers,https://www.onetonline.org/link/summary/49-3093.00
+Supply Chain & Transportation,Maintenance & Repair,53-6041.00,Traffic Technicians,https://www.onetonline.org/link/summary/53-6041.00
+Supply Chain & Transportation,Maintenance & Repair,53-6051.00,Transportation Inspectors,https://www.onetonline.org/link/summary/53-6051.00
+Supply Chain & Transportation,Maintenance & Repair,53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",https://www.onetonline.org/link/summary/53-6051.07
+Supply Chain & Transportation,Marine Transportation,53-6031.00,Automotive and Watercraft Service Attendants,https://www.onetonline.org/link/summary/53-6031.00
+Supply Chain & Transportation,Marine Transportation,53-6011.00,Bridge and Lock Tenders,https://www.onetonline.org/link/summary/53-6011.00
+Supply Chain & Transportation,Marine Transportation,53-5021.00,"Captains, Mates, and Pilots of Water Vessels",https://www.onetonline.org/link/summary/53-5021.00
+Supply Chain & Transportation,Marine Transportation,17-2121.00,Marine Engineers and Naval Architects,https://www.onetonline.org/link/summary/17-2121.00
+Supply Chain & Transportation,Marine Transportation,53-5022.00,Motorboat Operators,https://www.onetonline.org/link/summary/53-5022.00
+Supply Chain & Transportation,Marine Transportation,53-5011.00,Sailors and Marine Oilers,https://www.onetonline.org/link/summary/53-5011.00
+Supply Chain & Transportation,Marine Transportation,53-5031.00,Ship Engineers,https://www.onetonline.org/link/summary/53-5031.00
+Supply Chain & Transportation,Planning & Logistics,43-5021.00,Couriers and Messengers,https://www.onetonline.org/link/summary/43-5021.00
+Supply Chain & Transportation,Planning & Logistics,53-1042.00,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",https://www.onetonline.org/link/summary/53-1042.00
+Supply Chain & Transportation,Planning & Logistics,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,https://www.onetonline.org/link/summary/53-1043.00
+Supply Chain & Transportation,Planning & Logistics,53-1044.00,First-Line Supervisors of Passenger Attendants,https://www.onetonline.org/link/summary/53-1044.00
+Supply Chain & Transportation,Planning & Logistics,53-1049.00,"First-Line Supervisors of Transportation Workers, All Other",https://www.onetonline.org/link/summary/53-1049.00
+Supply Chain & Transportation,Planning & Logistics,13-1081.00,Logisticians,https://www.onetonline.org/link/summary/13-1081.00
+Supply Chain & Transportation,Planning & Logistics,13-1081.02,Logistics Analysts,https://www.onetonline.org/link/summary/13-1081.02
+Supply Chain & Transportation,Planning & Logistics,13-1081.01,Logistics Engineers,https://www.onetonline.org/link/summary/13-1081.01
+Supply Chain & Transportation,Planning & Logistics,53-7121.00,"Tank Car, Truck, and Ship Loaders",https://www.onetonline.org/link/summary/53-7121.00
+Supply Chain & Transportation,Planning & Logistics; Purchasing & Warehousing,11-3071.04,Supply Chain Managers,https://www.onetonline.org/link/summary/11-3071.04
+Supply Chain & Transportation,Planning & Logistics; Purchasing & Warehousing,11-3071.00,"Transportation, Storage, and Distribution Managers",https://www.onetonline.org/link/summary/11-3071.00
+Supply Chain & Transportation,Purchasing & Warehousing,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",https://www.onetonline.org/link/summary/53-7062.00
+Supply Chain & Transportation,Purchasing & Warehousing,53-7199.00,"Material Moving Workers, All Other",https://www.onetonline.org/link/summary/53-7199.00
+Supply Chain & Transportation,Purchasing & Warehousing,51-9111.00,Packaging and Filling Machine Operators and Tenders,https://www.onetonline.org/link/summary/51-9111.00
+Supply Chain & Transportation,Purchasing & Warehousing,53-7064.00,"Packers and Packagers, Hand",https://www.onetonline.org/link/summary/53-7064.00
+Supply Chain & Transportation,Purchasing & Warehousing,43-3061.00,Procurement Clerks,https://www.onetonline.org/link/summary/43-3061.00
+Supply Chain & Transportation,Purchasing & Warehousing,43-5061.00,"Production, Planning, and Expediting Clerks",https://www.onetonline.org/link/summary/43-5061.00
+Supply Chain & Transportation,Purchasing & Warehousing,43-5071.00,"Shipping, Receiving, and Inventory Clerks",https://www.onetonline.org/link/summary/43-5071.00
+Supply Chain & Transportation,Purchasing & Warehousing,53-7065.00,Stockers and Order Fillers,https://www.onetonline.org/link/summary/53-7065.00
+Supply Chain & Transportation; Energy & Natural Resources,Planning & Logistics; Utilities,53-1042.01,Recycling Coordinators,https://www.onetonline.org/link/summary/53-1042.01
+Supply Chain & Transportation; Management & Entrepreneurship,Purchasing & Warehousing; Leadership & Operations,11-3061.00,Purchasing Managers,https://www.onetonline.org/link/summary/11-3061.00
+Supply Chain & Transportation; Marketing & Sales,Purchasing & Warehousing; Strategic Sales,13-1021.00,"Buyers and Purchasing Agents, Farm Products",https://www.onetonline.org/link/summary/13-1021.00
+Supply Chain & Transportation; Marketing & Sales,Purchasing & Warehousing; Strategic Sales,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",https://www.onetonline.org/link/summary/13-1023.00
+Supply Chain & Transportation; Marketing & Sales,Purchasing & Warehousing; Strategic Sales,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",https://www.onetonline.org/link/summary/13-1022.00
+"Arts, Entertainment, & Design",Design & Digital Arts,27-1024.00,Graphic Designers,https://www.onetonline.org/link/summary/27-1024.00
+"Arts, Entertainment, & Design",Design & Digital Arts,39-3021.00,Motion Picture Projectionists,https://www.onetonline.org/link/summary/39-3021.00
+"Arts, Entertainment, & Design",Design & Digital Arts,27-1014.00,Special Effects Artists and Animators,https://www.onetonline.org/link/summary/27-1014.00
+"Arts, Entertainment, & Design",Design & Digital Arts; Media Production & Broadcasting,27-4032.00,Film and Video Editors,https://www.onetonline.org/link/summary/27-4032.00
+"Arts, Entertainment, & Design",Fashion & Interiors,27-1022.00,Fashion Designers,https://www.onetonline.org/link/summary/27-1022.00
+"Arts, Entertainment, & Design",Fashion & Interiors,27-1025.00,Interior Designers,https://www.onetonline.org/link/summary/27-1025.00
+"Arts, Entertainment, & Design",Fashion & Interiors,27-1026.00,Merchandise Displayers and Window Trimmers,https://www.onetonline.org/link/summary/27-1026.00
+"Arts, Entertainment, & Design",Fashion & Interiors,51-6051.00,"Sewers, Hand",https://www.onetonline.org/link/summary/51-6051.00
+"Arts, Entertainment, & Design",Fashion & Interiors,51-6052.00,"Tailors, Dressmakers, and Custom Sewers",https://www.onetonline.org/link/summary/51-6052.00
+"Arts, Entertainment, & Design",Fine Arts,27-1011.00,Art Directors,https://www.onetonline.org/link/summary/27-1011.00
+"Arts, Entertainment, & Design",Fine Arts,27-1012.00,Craft Artists,https://www.onetonline.org/link/summary/27-1012.00
+"Arts, Entertainment, & Design",Fine Arts,25-4012.00,Curators,https://www.onetonline.org/link/summary/25-4012.00
+"Arts, Entertainment, & Design",Fine Arts,27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators",https://www.onetonline.org/link/summary/27-1013.00
+"Arts, Entertainment, & Design",Lighting & Sound Technology,27-4011.00,Audio and Video Technicians,https://www.onetonline.org/link/summary/27-4011.00
+"Arts, Entertainment, & Design",Lighting & Sound Technology,49-2097.00,Audiovisual Equipment Installers and Repairers,https://www.onetonline.org/link/summary/49-2097.00
+"Arts, Entertainment, & Design",Lighting & Sound Technology,27-4015.00,Lighting Technicians,https://www.onetonline.org/link/summary/27-4015.00
+"Arts, Entertainment, & Design",Lighting & Sound Technology,27-4099.00,"Media and Communication Equipment Workers, All Other",https://www.onetonline.org/link/summary/27-4099.00
+"Arts, Entertainment, & Design",Lighting & Sound Technology,27-4014.00,Sound Engineering Technicians,https://www.onetonline.org/link/summary/27-4014.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-3011.00,Broadcast Announcers and Radio Disc Jockeys,https://www.onetonline.org/link/summary/27-3011.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-4012.00,Broadcast Technicians,https://www.onetonline.org/link/summary/27-4012.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,49-9061.00,Camera and Photographic Equipment Repairers,https://www.onetonline.org/link/summary/49-9061.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-4031.00,"Camera Operators, Television, Video, and Film",https://www.onetonline.org/link/summary/27-4031.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-2091.00,"Disc Jockeys, Except Radio",https://www.onetonline.org/link/summary/27-2091.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-3041.00,Editors,https://www.onetonline.org/link/summary/27-3041.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-3099.00,"Media and Communication Workers, All Other",https://www.onetonline.org/link/summary/27-3099.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-2012.03,Media Programming Directors,https://www.onetonline.org/link/summary/27-2012.03
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-2012.05,Media Technical Directors/Managers,https://www.onetonline.org/link/summary/27-2012.05
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-2041.00,Music Directors and Composers,https://www.onetonline.org/link/summary/27-2041.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-3023.00,"News Analysts, Reporters, and Journalists",https://www.onetonline.org/link/summary/27-3023.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-3043.05,"Poets, Lyricists and Creative Writers",https://www.onetonline.org/link/summary/27-3043.05
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-2012.00,Producers and Directors,https://www.onetonline.org/link/summary/27-2012.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,43-9081.00,Proofreaders and Copy Markers,https://www.onetonline.org/link/summary/43-9081.00
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-2012.04,Talent Directors,https://www.onetonline.org/link/summary/27-2012.04
+"Arts, Entertainment, & Design",Media Production & Broadcasting,27-3043.00,Writers and Authors,https://www.onetonline.org/link/summary/27-3043.00
+"Arts, Entertainment, & Design",Performing Arts,27-2011.00,Actors,https://www.onetonline.org/link/summary/27-2011.00
+"Arts, Entertainment, & Design",Performing Arts,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",https://www.onetonline.org/link/summary/13-1011.00
+"Arts, Entertainment, & Design",Performing Arts,27-1019.00,"Artists and Related Workers, All Other",https://www.onetonline.org/link/summary/27-1019.00
+"Arts, Entertainment, & Design",Performing Arts,27-2021.00,Athletes and Sports Competitors,https://www.onetonline.org/link/summary/27-2021.00
+"Arts, Entertainment, & Design",Performing Arts,29-9091.00,Athletic Trainers,https://www.onetonline.org/link/summary/29-9091.00
+"Arts, Entertainment, & Design",Performing Arts,27-2032.00,Choreographers,https://www.onetonline.org/link/summary/27-2032.00
+"Arts, Entertainment, & Design",Performing Arts,27-2022.00,Coaches and Scouts,https://www.onetonline.org/link/summary/27-2022.00
+"Arts, Entertainment, & Design",Performing Arts,39-3092.00,Costume Attendants,https://www.onetonline.org/link/summary/39-3092.00
+"Arts, Entertainment, & Design",Performing Arts,27-2031.00,Dancers,https://www.onetonline.org/link/summary/27-2031.00
+"Arts, Entertainment, & Design",Performing Arts,27-2099.00,"Entertainers and Performers, Sports and Related Workers, All Other",https://www.onetonline.org/link/summary/27-2099.00
+"Arts, Entertainment, & Design",Performing Arts,39-3099.00,"Entertainment Attendants and Related Workers, All Other",https://www.onetonline.org/link/summary/39-3099.00
+"Arts, Entertainment, & Design",Performing Arts,39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants",https://www.onetonline.org/link/summary/39-3093.00
+"Arts, Entertainment, & Design",Performing Arts,41-9012.00,Models,https://www.onetonline.org/link/summary/41-9012.00
+"Arts, Entertainment, & Design",Performing Arts,27-2042.00,Musicians and Singers,https://www.onetonline.org/link/summary/27-2042.00
+"Arts, Entertainment, & Design",Performing Arts,27-1027.00,Set and Exhibit Designers,https://www.onetonline.org/link/summary/27-1027.00
+"Arts, Entertainment, & Design",Performing Arts,27-2023.00,"Umpires, Referees, and Other Sports Officials",https://www.onetonline.org/link/summary/27-2023.00
+"Arts, Entertainment, & Design; Hospitality, Events, & Tourism",Performing Arts; Travel & Leisure,39-1014.00,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",https://www.onetonline.org/link/summary/39-1014.00
+"Arts, Entertainment, & Design; Hospitality, Events, & Tourism; Financial Services",Media Production & Broadcasting; Conferences & Events; Financial Strategy & Investments,11-2033.00,Fundraising Managers,https://www.onetonline.org/link/summary/11-2033.00
+"Arts, Entertainment, & Design; Public Service & Safety; Management & Entrepreneurship","Design & Digital Arts; Local, State, & Federal Services; Military & National Security; Entrepreneurship & Small Business; Leadership & Operations",11-9199.00,"Managers, All Other",https://www.onetonline.org/link/summary/11-9199.00
+"Arts, Entertainment, & Design; Energy & Natural Resources",Media Production & Broadcasting; Ecological Research & Development,27-3042.00,Technical Writers,https://www.onetonline.org/link/summary/27-3042.00
+"Arts, Entertainment, & Design; Digital Technology",Design & Digital Arts; Software Solutions; Web & Cloud,15-1252.00,Software Developers,https://www.onetonline.org/link/summary/15-1252.00
+"Arts, Entertainment, & Design; Digital Technology",Design & Digital Arts; Web & Cloud,15-1255.01,Video Game Designers,https://www.onetonline.org/link/summary/15-1255.01
+"Arts, Entertainment, & Design; Digital Technology",Design & Digital Arts; Web & Cloud,15-1255.00,Web and Digital Interface Designers,https://www.onetonline.org/link/summary/15-1255.00
+"Arts, Entertainment, & Design; Digital Technology",Design & Digital Arts; Web & Cloud,15-1254.00,Web Developers,https://www.onetonline.org/link/summary/15-1254.00
+"Arts, Entertainment, & Design; Management & Entrepreneurship",Media Production & Broadcasting; Leadership & Operations,43-9021.00,Data Entry Keyers,https://www.onetonline.org/link/summary/43-9021.00
+"Arts, Entertainment, & Design; Management & Entrepreneurship",Performing Arts; Entrepreneurship & Small Business,11-9179.00,"Personal Service Managers, All Other",https://www.onetonline.org/link/summary/11-9179.00
+"Arts, Entertainment, & Design; Marketing & Sales",Design & Digital Arts; Fine Arts; Marketing & Advertising,27-4021.00,Photographers,https://www.onetonline.org/link/summary/27-4021.00
+"Hospitality, Events, & Tourism",Accommodations,39-6011.00,Baggage Porters and Bellhops,https://www.onetonline.org/link/summary/39-6011.00
+"Hospitality, Events, & Tourism",Accommodations,39-6012.00,Concierges,https://www.onetonline.org/link/summary/39-6012.00
+"Hospitality, Events, & Tourism",Accommodations,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,https://www.onetonline.org/link/summary/37-1011.00
+"Hospitality, Events, & Tourism",Accommodations,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",https://www.onetonline.org/link/summary/43-4081.00
+"Hospitality, Events, & Tourism",Accommodations,11-9081.00,Lodging Managers,https://www.onetonline.org/link/summary/11-9081.00
+"Hospitality, Events, & Tourism",Accommodations,37-2012.00,Maids and Housekeeping Cleaners,https://www.onetonline.org/link/summary/37-2012.00
+"Hospitality, Events, & Tourism",Accommodations,43-4171.00,Receptionists and Information Clerks,https://www.onetonline.org/link/summary/43-4171.00
+"Hospitality, Events, & Tourism",Conferences & Events,13-1131.00,Fundraisers,https://www.onetonline.org/link/summary/13-1131.00
+"Hospitality, Events, & Tourism",Conferences & Events,13-1121.00,"Meeting, Convention, and Event Planners",https://www.onetonline.org/link/summary/13-1121.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,51-3011.00,Bakers,https://www.onetonline.org/link/summary/51-3011.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-3023.01,Baristas,https://www.onetonline.org/link/summary/35-3023.01
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-3011.00,Bartenders,https://www.onetonline.org/link/summary/35-3011.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-2019.00,"Cooks, All Other",https://www.onetonline.org/link/summary/35-2019.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-2011.00,"Cooks, Fast Food",https://www.onetonline.org/link/summary/35-2011.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-2014.00,"Cooks, Restaurant",https://www.onetonline.org/link/summary/35-2014.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-2015.00,"Cooks, Short Order",https://www.onetonline.org/link/summary/35-2015.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,https://www.onetonline.org/link/summary/35-9011.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-9021.00,Dishwashers,https://www.onetonline.org/link/summary/35-9021.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-3023.00,Fast Food and Counter Workers,https://www.onetonline.org/link/summary/35-3023.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,https://www.onetonline.org/link/summary/35-1012.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-9099.00,"Food Preparation and Serving Related Workers, All Other",https://www.onetonline.org/link/summary/35-9099.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-2021.00,Food Preparation Workers,https://www.onetonline.org/link/summary/35-2021.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,11-9051.00,Food Service Managers,https://www.onetonline.org/link/summary/11-9051.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",https://www.onetonline.org/link/summary/35-9031.00
+"Hospitality, Events, & Tourism",Culinary & Food Services,35-3031.00,Waiters and Waitresses,https://www.onetonline.org/link/summary/35-3031.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-3091.00,Amusement and Recreation Attendants,https://www.onetonline.org/link/summary/39-3091.00
+"Hospitality, Events, & Tourism",Travel & Leisure,49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers",https://www.onetonline.org/link/summary/49-9091.00
+"Hospitality, Events, & Tourism",Travel & Leisure,41-2021.00,Counter and Rental Clerks,https://www.onetonline.org/link/summary/41-2021.00
+"Hospitality, Events, & Tourism",Travel & Leisure,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",https://www.onetonline.org/link/summary/11-9072.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-1013.00,First-Line Supervisors of Gambling Services Workers,https://www.onetonline.org/link/summary/39-1013.00
+"Hospitality, Events, & Tourism",Travel & Leisure,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",https://www.onetonline.org/link/summary/37-1012.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-3012.00,Gambling and Sports Book Writers and Runners,https://www.onetonline.org/link/summary/39-3012.00
+"Hospitality, Events, & Tourism",Travel & Leisure,43-3041.00,Gambling Cage Workers,https://www.onetonline.org/link/summary/43-3041.00
+"Hospitality, Events, & Tourism",Travel & Leisure,41-2012.00,Gambling Change Persons and Booth Cashiers,https://www.onetonline.org/link/summary/41-2012.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-3011.00,Gambling Dealers,https://www.onetonline.org/link/summary/39-3011.00
+"Hospitality, Events, & Tourism",Travel & Leisure,11-9071.00,Gambling Managers,https://www.onetonline.org/link/summary/11-9071.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-3019.00,"Gambling Service Workers, All Other",https://www.onetonline.org/link/summary/39-3019.00
+"Hospitality, Events, & Tourism",Travel & Leisure,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",https://www.onetonline.org/link/summary/37-2011.00
+"Hospitality, Events, & Tourism",Travel & Leisure,37-3011.00,Landscaping and Groundskeeping Workers,https://www.onetonline.org/link/summary/37-3011.00
+"Hospitality, Events, & Tourism",Travel & Leisure,25-4013.00,Museum Technicians and Conservators,https://www.onetonline.org/link/summary/25-4013.00
+"Hospitality, Events, & Tourism",Travel & Leisure,53-6061.00,Passenger Attendants,https://www.onetonline.org/link/summary/53-6061.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-9032.00,Recreation Workers,https://www.onetonline.org/link/summary/39-9032.00
+"Hospitality, Events, & Tourism",Travel & Leisure,43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks,https://www.onetonline.org/link/summary/43-4181.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-7011.00,Tour Guides and Escorts,https://www.onetonline.org/link/summary/39-7011.00
+"Hospitality, Events, & Tourism",Travel & Leisure,41-3041.00,Travel Agents,https://www.onetonline.org/link/summary/41-3041.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-7012.00,Travel Guides,https://www.onetonline.org/link/summary/39-7012.00
+"Hospitality, Events, & Tourism",Travel & Leisure,37-3013.00,Tree Trimmers and Pruners,https://www.onetonline.org/link/summary/37-3013.00
+"Hospitality, Events, & Tourism",Travel & Leisure,39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",https://www.onetonline.org/link/summary/39-3031.00
+"Hospitality, Events, & Tourism; Healthcare & Human Services; Public Service & Safety; Management & Entrepreneurship","Culinary & Food Services; Personal Care Services; Local, State, & Federal Services; Entrepreneurship & Small Business",35-2012.00,"Cooks, Institution and Cafeteria",https://www.onetonline.org/link/summary/35-2012.00
+"Hospitality, Events, & Tourism; Management & Entrepreneurship",Culinary & Food Services; Entrepreneurship & Small Business,35-1011.00,Chefs and Head Cooks,https://www.onetonline.org/link/summary/35-1011.00
+"Hospitality, Events, & Tourism; Management & Entrepreneurship",Culinary & Food Services; Entrepreneurship & Small Business,35-2013.00,"Cooks, Private Household",https://www.onetonline.org/link/summary/35-2013.00
+Financial Services,Accounting,13-2011.00,Accountants and Auditors,https://www.onetonline.org/link/summary/13-2011.00
+Financial Services,Accounting,43-3011.00,Bill and Account Collectors,https://www.onetonline.org/link/summary/43-3011.00
+Financial Services,Accounting,43-3021.00,Billing and Posting Clerks,https://www.onetonline.org/link/summary/43-3021.00
+Financial Services,Accounting,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",https://www.onetonline.org/link/summary/43-3031.00
+Financial Services,Accounting,43-9111.00,Statistical Assistants,https://www.onetonline.org/link/summary/43-9111.00
+Financial Services,Accounting,43-3071.00,Tellers,https://www.onetonline.org/link/summary/43-3071.00
+Financial Services,Accounting; Financial Strategy & Investments,13-2052.00,Personal Financial Advisors,https://www.onetonline.org/link/summary/13-2052.00
+Financial Services,Banking & Credit,13-2041.00,Credit Analysts,https://www.onetonline.org/link/summary/13-2041.00
+Financial Services,Banking & Credit,43-4041.00,"Credit Authorizers, Checkers, and Clerks",https://www.onetonline.org/link/summary/43-4041.00
+Financial Services,Banking & Credit,13-2071.00,Credit Counselors,https://www.onetonline.org/link/summary/13-2071.00
+Financial Services,Banking & Credit,13-2061.00,Financial Examiners,https://www.onetonline.org/link/summary/13-2061.00
+Financial Services,Banking & Credit,43-4131.00,Loan Interviewers and Clerks,https://www.onetonline.org/link/summary/43-4131.00
+Financial Services,Banking & Credit,13-2072.00,Loan Officers,https://www.onetonline.org/link/summary/13-2072.00
+Financial Services,Banking & Credit,43-4141.00,New Accounts Clerks,https://www.onetonline.org/link/summary/43-4141.00
+Financial Services,Financial Strategy & Investments,43-4011.00,Brokerage Clerks,https://www.onetonline.org/link/summary/43-4011.00
+Financial Services,Financial Strategy & Investments,43-4021.00,Correspondence Clerks,https://www.onetonline.org/link/summary/43-4021.00
+Financial Services,Financial Strategy & Investments,43-3099.00,"Financial Clerks, All Other",https://www.onetonline.org/link/summary/43-3099.00
+Financial Services,Financial Strategy & Investments,13-2099.01,Financial Quantitative Analysts,https://www.onetonline.org/link/summary/13-2099.01
+Financial Services,Financial Strategy & Investments,13-2054.00,Financial Risk Specialists,https://www.onetonline.org/link/summary/13-2054.00
+Financial Services,Financial Strategy & Investments,13-2099.00,"Financial Specialists, All Other",https://www.onetonline.org/link/summary/13-2099.00
+Financial Services,Financial Strategy & Investments,13-2099.04,"Fraud Examiners, Investigators and Analysts",https://www.onetonline.org/link/summary/13-2099.04
+Financial Services,Financial Strategy & Investments,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",https://www.onetonline.org/link/summary/41-3031.00
+Financial Services,Financial Strategy & Investments,13-2082.00,Tax Preparers,https://www.onetonline.org/link/summary/13-2082.00
+Financial Services,Financial Strategy & Investments; Insurance,13-2051.00,Financial and Investment Analysts,https://www.onetonline.org/link/summary/13-2051.00
+Financial Services,Insurance,15-2011.00,Actuaries,https://www.onetonline.org/link/summary/15-2011.00
+Financial Services,Insurance,13-1031.00,"Claims Adjusters, Examiners, and Investigators",https://www.onetonline.org/link/summary/13-1031.00
+Financial Services,Insurance,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",https://www.onetonline.org/link/summary/13-1141.00
+Financial Services,Insurance,13-1032.00,"Insurance Appraisers, Auto Damage",https://www.onetonline.org/link/summary/13-1032.00
+Financial Services,Insurance,43-9041.00,Insurance Claims and Policy Processing Clerks,https://www.onetonline.org/link/summary/43-9041.00
+Financial Services,Insurance,41-3021.00,Insurance Sales Agents,https://www.onetonline.org/link/summary/41-3021.00
+Financial Services,Insurance,13-2053.00,Insurance Underwriters,https://www.onetonline.org/link/summary/13-2053.00
+Financial Services,Insurance,23-2093.00,"Title Examiners, Abstractors, and Searchers",https://www.onetonline.org/link/summary/23-2093.00
+Financial Services,Real Estate,13-2023.00,Appraisers and Assessors of Real Estate,https://www.onetonline.org/link/summary/13-2023.00
+Financial Services,Real Estate,13-2022.00,Appraisers of Personal and Business Property,https://www.onetonline.org/link/summary/13-2022.00
+Financial Services,Real Estate,11-9141.00,"Property, Real Estate, and Community Association Managers",https://www.onetonline.org/link/summary/11-9141.00
+Financial Services,Real Estate,41-9021.00,Real Estate Brokers,https://www.onetonline.org/link/summary/41-9021.00
+Financial Services,Real Estate,41-9022.00,Real Estate Sales Agents,https://www.onetonline.org/link/summary/41-9022.00
+Financial Services; Healthcare & Human Services; Energy & Natural Resources; Management & Entrepreneurship,Financial Strategy & Investments; Insurance; Biotechnology Research & Development; Ecological Research & Development; Business Information Management,15-2099.00,"Mathematical Science Occupations, All Other",https://www.onetonline.org/link/summary/15-2099.00
+Financial Services; Public Service & Safety; Energy & Natural Resources; Management & Entrepreneurship,"Insurance; Local, State, & Federal Services; Public Safety; Environmental Protection; Resource Extraction; Regulation",13-1041.00,Compliance Officers,https://www.onetonline.org/link/summary/13-1041.00
+Financial Services; Digital Technology; Marketing & Sales,"Financial Strategy & Investments; Data Science & AI; Market Research, Analytics, & Ethics",15-2051.01,Business Intelligence Analysts,https://www.onetonline.org/link/summary/15-2051.01
+Financial Services; Digital Technology; Marketing & Sales,"Financial Strategy & Investments; Data Science & AI; Market Research, Analytics, & Ethics",15-2051.00,Data Scientists,https://www.onetonline.org/link/summary/15-2051.00
+Education,Early Childhood Development,39-9011.00,Childcare Workers,https://www.onetonline.org/link/summary/39-9011.00
+Education,Early Childhood Development,39-9011.01,Nannies,https://www.onetonline.org/link/summary/39-9011.01
+Education,"Early Childhood Development; Teaching, Training, & Facilitation",25-2011.00,"Preschool Teachers, Except Special Education",https://www.onetonline.org/link/summary/25-2011.00
+Education,"Early Childhood Development; Teaching, Training, & Facilitation",25-9049.00,"Teaching Assistants, All Other",https://www.onetonline.org/link/summary/25-9049.00
+Education,"Early Childhood Development; Teaching, Training, & Facilitation",25-9042.00,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",https://www.onetonline.org/link/summary/25-9042.00
+Education,"Early Childhood Development; Teaching, Training, & Facilitation",25-9043.00,"Teaching Assistants, Special Education",https://www.onetonline.org/link/summary/25-9043.00
+Education,Education Administration & Leadership,11-9032.00,"Education Administrators, Kindergarten through Secondary",https://www.onetonline.org/link/summary/11-9032.00
+Education,"Education Administration & Leadership; Teaching, Training, & Facilitation",11-9033.00,"Education Administrators, Postsecondary",https://www.onetonline.org/link/summary/11-9033.00
+Education,Learner Support & Community Engagement,25-9099.00,"Educational Instruction and Library Workers, All Other",https://www.onetonline.org/link/summary/25-9099.00
+Education,Learner Support & Community Engagement,25-4022.00,Librarians and Media Collections Specialists,https://www.onetonline.org/link/summary/25-4022.00
+Education,Learner Support & Community Engagement,43-4121.00,"Library Assistants, Clerical",https://www.onetonline.org/link/summary/43-4121.00
+Education,Learner Support & Community Engagement,25-4031.00,Library Technicians,https://www.onetonline.org/link/summary/25-4031.00
+Education,Learner Support & Community Engagement,39-9041.00,Residential Advisors,https://www.onetonline.org/link/summary/39-9041.00
+Education,Learner Support & Community Engagement,19-3034.00,School Psychologists,https://www.onetonline.org/link/summary/19-3034.00
+Education,"Learner Support & Community Engagement; Teaching, Training, & Facilitation",25-2059.01,Adapted Physical Education Specialists,https://www.onetonline.org/link/summary/25-2059.01
+Education,"Learner Support & Community Engagement; Teaching, Training, & Facilitation",25-2059.00,"Special Education Teachers, All Other",https://www.onetonline.org/link/summary/25-2059.00
+Education,"Learner Support & Community Engagement; Teaching, Training, & Facilitation",25-2056.00,"Special Education Teachers, Elementary School",https://www.onetonline.org/link/summary/25-2056.00
+Education,"Learner Support & Community Engagement; Teaching, Training, & Facilitation",25-2055.00,"Special Education Teachers, Kindergarten",https://www.onetonline.org/link/summary/25-2055.00
+Education,"Learner Support & Community Engagement; Teaching, Training, & Facilitation",25-2057.00,"Special Education Teachers, Middle School",https://www.onetonline.org/link/summary/25-2057.00
+Education,"Learner Support & Community Engagement; Teaching, Training, & Facilitation",25-2051.00,"Special Education Teachers, Preschool",https://www.onetonline.org/link/summary/25-2051.00
+Education,"Learner Support & Community Engagement; Teaching, Training, & Facilitation",25-2058.00,"Special Education Teachers, Secondary School",https://www.onetonline.org/link/summary/25-2058.00
+Education,"Teaching, Training, & Facilitation",25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",https://www.onetonline.org/link/summary/25-3011.00
+Education,"Teaching, Training, & Facilitation",25-1041.00,"Agricultural Sciences Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1041.00
+Education,"Teaching, Training, & Facilitation",25-1061.00,"Anthropology and Archeology Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1061.00
+Education,"Teaching, Training, & Facilitation",25-1031.00,"Architecture Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1031.00
+Education,"Teaching, Training, & Facilitation",25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1062.00
+Education,"Teaching, Training, & Facilitation",25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1121.00
+Education,"Teaching, Training, & Facilitation",25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1051.00
+Education,"Teaching, Training, & Facilitation",25-1042.00,"Biological Science Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1042.00
+Education,"Teaching, Training, & Facilitation",25-1011.00,"Business Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1011.00
+Education,"Teaching, Training, & Facilitation",25-2023.00,"Career/Technical Education Teachers, Middle School",https://www.onetonline.org/link/summary/25-2023.00
+Education,"Teaching, Training, & Facilitation",25-1194.00,"Career/Technical Education Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1194.00
+Education,"Teaching, Training, & Facilitation",25-2032.00,"Career/Technical Education Teachers, Secondary School",https://www.onetonline.org/link/summary/25-2032.00
+Education,"Teaching, Training, & Facilitation",25-1052.00,"Chemistry Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1052.00
+Education,"Teaching, Training, & Facilitation",25-1122.00,"Communications Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1122.00
+Education,"Teaching, Training, & Facilitation",25-1021.00,"Computer Science Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1021.00
+Education,"Teaching, Training, & Facilitation",25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1111.00
+Education,"Teaching, Training, & Facilitation",25-1063.00,"Economics Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1063.00
+Education,"Teaching, Training, & Facilitation",25-1081.00,"Education Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1081.00
+Education,"Teaching, Training, & Facilitation",25-2021.00,"Elementary School Teachers, Except Special Education",https://www.onetonline.org/link/summary/25-2021.00
+Education,"Teaching, Training, & Facilitation",25-1032.00,"Engineering Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1032.00
+Education,"Teaching, Training, & Facilitation",25-1123.00,"English Language and Literature Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1123.00
+Education,"Teaching, Training, & Facilitation",25-1053.00,"Environmental Science Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1053.00
+Education,"Teaching, Training, & Facilitation",25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1192.00
+Education,"Teaching, Training, & Facilitation",25-9021.00,Farm and Home Management Educators,https://www.onetonline.org/link/summary/25-9021.00
+Education,"Teaching, Training, & Facilitation",25-1124.00,"Foreign Language and Literature Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1124.00
+Education,"Teaching, Training, & Facilitation",25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1043.00
+Education,"Teaching, Training, & Facilitation",25-1064.00,"Geography Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1064.00
+Education,"Teaching, Training, & Facilitation",25-1071.00,"Health Specialties Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1071.00
+Education,"Teaching, Training, & Facilitation",25-1125.00,"History Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1125.00
+Education,"Teaching, Training, & Facilitation",25-9031.00,Instructional Coordinators,https://www.onetonline.org/link/summary/25-9031.00
+Education,"Teaching, Training, & Facilitation",25-2012.00,"Kindergarten Teachers, Except Special Education",https://www.onetonline.org/link/summary/25-2012.00
+Education,"Teaching, Training, & Facilitation",25-1112.00,"Law Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1112.00
+Education,"Teaching, Training, & Facilitation",25-1082.00,"Library Science Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1082.00
+Education,"Teaching, Training, & Facilitation",19-4099.00,"Life, Physical, and Social Science Technicians, All Other",https://www.onetonline.org/link/summary/19-4099.00
+Education,"Teaching, Training, & Facilitation",25-1022.00,"Mathematical Science Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1022.00
+Education,"Teaching, Training, & Facilitation",25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education",https://www.onetonline.org/link/summary/25-2022.00
+Education,"Teaching, Training, & Facilitation",25-1072.00,"Nursing Instructors and Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1072.00
+Education,"Teaching, Training, & Facilitation",25-1126.00,"Philosophy and Religion Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1126.00
+Education,"Teaching, Training, & Facilitation",25-1054.00,"Physics Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1054.00
+Education,"Teaching, Training, & Facilitation",25-1065.00,"Political Science Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1065.00
+Education,"Teaching, Training, & Facilitation",25-1199.00,"Postsecondary Teachers, All Other",https://www.onetonline.org/link/summary/25-1199.00
+Education,"Teaching, Training, & Facilitation",25-1066.00,"Psychology Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1066.00
+Education,"Teaching, Training, & Facilitation",25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1193.00
+Education,"Teaching, Training, & Facilitation",25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education",https://www.onetonline.org/link/summary/25-2031.00
+Education,"Teaching, Training, & Facilitation",25-3021.00,Self-Enrichment Teachers,https://www.onetonline.org/link/summary/25-3021.00
+Education,"Teaching, Training, & Facilitation",25-1069.00,"Social Sciences Teachers, Postsecondary, All Other",https://www.onetonline.org/link/summary/25-1069.00
+Education,"Teaching, Training, & Facilitation",25-1113.00,"Social Work Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1113.00
+Education,"Teaching, Training, & Facilitation",25-1067.00,"Sociology Teachers, Postsecondary",https://www.onetonline.org/link/summary/25-1067.00
+Education,"Teaching, Training, & Facilitation",25-3031.00,"Substitute Teachers, Short-Term",https://www.onetonline.org/link/summary/25-3031.00
+Education,"Teaching, Training, & Facilitation",25-3099.00,"Teachers and Instructors, All Other",https://www.onetonline.org/link/summary/25-3099.00
+Education,"Teaching, Training, & Facilitation",25-9044.00,"Teaching Assistants, Postsecondary",https://www.onetonline.org/link/summary/25-9044.00
+Education,"Teaching, Training, & Facilitation",25-3041.00,Tutors,https://www.onetonline.org/link/summary/25-3041.00
+Education; Healthcare & Human Services,Early Childhood Development; Community & Social Services,11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",https://www.onetonline.org/link/summary/11-9031.00
+Education; Healthcare & Human Services,Learner Support & Community Engagement; Community & Social Services,21-1021.00,"Child, Family, and School Social Workers",https://www.onetonline.org/link/summary/21-1021.00
+Education; Healthcare & Human Services,Learner Support & Community Engagement; Community & Social Services,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",https://www.onetonline.org/link/summary/21-1012.00
+Education; Healthcare & Human Services,"Teaching, Training, & Facilitation; Health Data & Administration; Physical Health",19-3093.00,Historians,https://www.onetonline.org/link/summary/19-3093.00
+Education; Healthcare & Human Services; Public Service & Safety,"Early Childhood Development; Community & Social Services; Local, State, & Federal Services",21-1099.00,"Community and Social Service Specialists, All Other",https://www.onetonline.org/link/summary/21-1099.00
+Education; Healthcare & Human Services; Public Service & Safety,"Teaching, Training, & Facilitation; Biotechnology Research & Development; Physical Health; Local, State, & Federal Services",19-3091.00,Anthropologists and Archeologists,https://www.onetonline.org/link/summary/19-3091.00
+Education; Healthcare & Human Services; Public Service & Safety,"Teaching, Training, & Facilitation; Physical Health; Local, State, & Federal Services",19-3092.00,Geographers,https://www.onetonline.org/link/summary/19-3092.00
+Education; Healthcare & Human Services; Public Service & Safety; Energy & Natural Resources,"Education Administration & Leadership; Teaching, Training, & Facilitation; Behavioral & Mental Health; Biotechnology Research & Development; Health Data & Administration; Physical Health; Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development; Environmental Protection",19-3099.00,"Social Scientists and Related Workers, All Other",https://www.onetonline.org/link/summary/19-3099.00
+Education; Healthcare & Human Services; Public Service & Safety; Energy & Natural Resources,"Education Administration & Leadership; Biotechnology Research & Development; Local, State, & Federal Services; Ecological Research & Development",19-3022.00,Survey Researchers,https://www.onetonline.org/link/summary/19-3022.00
+Education; Public Service & Safety,"Education Administration & Leadership; Local, State, & Federal Services",11-9039.00,"Education Administrators, All Other",https://www.onetonline.org/link/summary/11-9039.00
+Education; Public Service & Safety,"Learner Support & Community Engagement; Teaching, Training, & Facilitation; Judicial Systems",27-3091.00,Interpreters and Translators,https://www.onetonline.org/link/summary/27-3091.00
+Education; Public Service & Safety,"Learner Support & Community Engagement; Local, State, & Federal Services",25-4011.00,Archivists,https://www.onetonline.org/link/summary/25-4011.00
+Education; Public Service & Safety,"Learner Support & Community Engagement; Local, State, & Federal Services",43-4199.00,"Information and Record Clerks, All Other",https://www.onetonline.org/link/summary/43-4199.00
+Education; Public Service & Safety; Management & Entrepreneurship,"Education Administration & Leadership; Local, State, & Federal Services; Business Information Management; Entrepreneurship & Small Business",13-1111.00,Management Analysts,https://www.onetonline.org/link/summary/13-1111.00
+Healthcare & Human Services,Behavioral & Mental Health,29-1129.01,Art Therapists,https://www.onetonline.org/link/summary/29-1129.01
+Healthcare & Human Services,Behavioral & Mental Health,19-3033.00,Clinical and Counseling Psychologists,https://www.onetonline.org/link/summary/19-3033.00
+Healthcare & Human Services,Behavioral & Mental Health,19-3039.03,Clinical Neuropsychologists,https://www.onetonline.org/link/summary/19-3039.03
+Healthcare & Human Services,Behavioral & Mental Health,21-1019.00,"Counselors, All Other",https://www.onetonline.org/link/summary/21-1019.00
+Healthcare & Human Services,Behavioral & Mental Health,21-1013.00,Marriage and Family Therapists,https://www.onetonline.org/link/summary/21-1013.00
+Healthcare & Human Services,Behavioral & Mental Health,21-1014.00,Mental Health Counselors,https://www.onetonline.org/link/summary/21-1014.00
+Healthcare & Human Services,Behavioral & Mental Health,29-1129.02,Music Therapists,https://www.onetonline.org/link/summary/29-1129.02
+Healthcare & Human Services,Behavioral & Mental Health,19-3039.02,Neuropsychologists,https://www.onetonline.org/link/summary/19-3039.02
+Healthcare & Human Services,Behavioral & Mental Health,31-2012.00,Occupational Therapy Aides,https://www.onetonline.org/link/summary/31-2012.00
+Healthcare & Human Services,Behavioral & Mental Health,19-3039.00,"Psychologists, All Other",https://www.onetonline.org/link/summary/19-3039.00
+Healthcare & Human Services,Behavioral & Mental Health,29-1125.00,Recreational Therapists,https://www.onetonline.org/link/summary/29-1125.00
+Healthcare & Human Services,Behavioral & Mental Health,21-1015.00,Rehabilitation Counselors,https://www.onetonline.org/link/summary/21-1015.00
+Healthcare & Human Services,Behavioral & Mental Health,21-1011.00,Substance Abuse and Behavioral Disorder Counselors,https://www.onetonline.org/link/summary/21-1011.00
+Healthcare & Human Services,Behavioral & Mental Health,29-1129.00,"Therapists, All Other",https://www.onetonline.org/link/summary/29-1129.00
+Healthcare & Human Services,Biotechnology Research & Development,19-4021.00,Biological Technicians,https://www.onetonline.org/link/summary/19-4021.00
+Healthcare & Human Services,Biotechnology Research & Development,19-1042.00,"Medical Scientists, Except Epidemiologists",https://www.onetonline.org/link/summary/19-1042.00
+Healthcare & Human Services,Community & Social Services,21-2011.00,Clergy,https://www.onetonline.org/link/summary/21-2011.00
+Healthcare & Human Services,Community & Social Services,21-2021.00,"Directors, Religious Activities and Education",https://www.onetonline.org/link/summary/21-2021.00
+Healthcare & Human Services,Community & Social Services,21-1091.00,Health Education Specialists,https://www.onetonline.org/link/summary/21-1091.00
+Healthcare & Human Services,Community & Social Services,21-1022.00,Healthcare Social Workers,https://www.onetonline.org/link/summary/21-1022.00
+Healthcare & Human Services,Community & Social Services,43-4111.00,"Interviewers, Except Eligibility and Loan",https://www.onetonline.org/link/summary/43-4111.00
+Healthcare & Human Services,Community & Social Services,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",https://www.onetonline.org/link/summary/29-1122.01
+Healthcare & Human Services,Community & Social Services,21-1023.00,Mental Health and Substance Abuse Social Workers,https://www.onetonline.org/link/summary/21-1023.00
+Healthcare & Human Services,Community & Social Services,29-1122.00,Occupational Therapists,https://www.onetonline.org/link/summary/29-1122.00
+Healthcare & Human Services,Community & Social Services,21-2099.00,"Religious Workers, All Other",https://www.onetonline.org/link/summary/21-2099.00
+Healthcare & Human Services,Community & Social Services,21-1093.00,Social and Human Service Assistants,https://www.onetonline.org/link/summary/21-1093.00
+Healthcare & Human Services,Community & Social Services,21-1029.00,"Social Workers, All Other",https://www.onetonline.org/link/summary/21-1029.00
+Healthcare & Human Services,Health Data & Administration,29-9021.00,Health Information Technologists and Medical Registrars,https://www.onetonline.org/link/summary/29-9021.00
+Healthcare & Human Services,Health Data & Administration,11-9111.00,Medical and Health Services Managers,https://www.onetonline.org/link/summary/11-9111.00
+Healthcare & Human Services,Health Data & Administration,31-9092.00,Medical Assistants,https://www.onetonline.org/link/summary/31-9092.00
+Healthcare & Human Services,Health Data & Administration,29-2072.00,Medical Records Specialists,https://www.onetonline.org/link/summary/29-2072.00
+Healthcare & Human Services,Health Data & Administration,43-6013.00,Medical Secretaries and Administrative Assistants,https://www.onetonline.org/link/summary/43-6013.00
+Healthcare & Human Services,Health Data & Administration,31-9094.00,Medical Transcriptionists,https://www.onetonline.org/link/summary/31-9094.00
+Healthcare & Human Services,Health Data & Administration,43-2011.00,"Switchboard Operators, Including Answering Service",https://www.onetonline.org/link/summary/43-2011.00
+Healthcare & Human Services,Personal Care Services,39-5011.00,Barbers,https://www.onetonline.org/link/summary/39-5011.00
+Healthcare & Human Services,Personal Care Services,39-9031.00,Exercise Trainers and Group Fitness Instructors,https://www.onetonline.org/link/summary/39-9031.00
+Healthcare & Human Services,Personal Care Services,39-1022.00,First-Line Supervisors of Personal Service Workers,https://www.onetonline.org/link/summary/39-1022.00
+Healthcare & Human Services,Personal Care Services,35-3041.00,"Food Servers, Nonrestaurant",https://www.onetonline.org/link/summary/35-3041.00
+Healthcare & Human Services,Personal Care Services,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",https://www.onetonline.org/link/summary/39-5012.00
+Healthcare & Human Services,Personal Care Services,31-1121.00,Home Health Aides,https://www.onetonline.org/link/summary/31-1121.00
+Healthcare & Human Services,Personal Care Services,39-5091.00,"Makeup Artists, Theatrical and Performance",https://www.onetonline.org/link/summary/39-5091.00
+Healthcare & Human Services,Personal Care Services,39-5092.00,Manicurists and Pedicurists,https://www.onetonline.org/link/summary/39-5092.00
+Healthcare & Human Services,Personal Care Services,31-9011.00,Massage Therapists,https://www.onetonline.org/link/summary/31-9011.00
+Healthcare & Human Services,Personal Care Services,31-1122.00,Personal Care Aides,https://www.onetonline.org/link/summary/31-1122.00
+Healthcare & Human Services,Personal Care Services,39-9099.00,"Personal Care and Service Workers, All Other",https://www.onetonline.org/link/summary/39-9099.00
+Healthcare & Human Services,Personal Care Services,39-5093.00,Shampooers,https://www.onetonline.org/link/summary/39-5093.00
+Healthcare & Human Services,Personal Care Services,39-5094.00,Skincare Specialists,https://www.onetonline.org/link/summary/39-5094.00
+Healthcare & Human Services,Personal Care Services,29-1127.00,Speech-Language Pathologists,https://www.onetonline.org/link/summary/29-1127.00
+Healthcare & Human Services,Personal Care Services; Physical Health,29-2051.00,Dietetic Technicians,https://www.onetonline.org/link/summary/29-2051.00
+Healthcare & Human Services,Personal Care Services; Physical Health,29-1031.00,Dietitians and Nutritionists,https://www.onetonline.org/link/summary/29-1031.00
+Healthcare & Human Services,Personal Care Services; Physical Health,31-9099.02,Endoscopy Technicians,https://www.onetonline.org/link/summary/31-9099.02
+Healthcare & Human Services,Personal Care Services; Physical Health,31-9099.00,"Healthcare Support Workers, All Other",https://www.onetonline.org/link/summary/31-9099.00
+Healthcare & Human Services,Personal Care Services; Physical Health,31-9099.01,Speech-Language Pathology Assistants,https://www.onetonline.org/link/summary/31-9099.01
+Healthcare & Human Services,Physical Health,29-1291.00,Acupuncturists,https://www.onetonline.org/link/summary/29-1291.00
+Healthcare & Human Services,Physical Health,29-1141.01,Acute Care Nurses,https://www.onetonline.org/link/summary/29-1141.01
+Healthcare & Human Services,Physical Health,29-1141.02,Advanced Practice Psychiatric Nurses,https://www.onetonline.org/link/summary/29-1141.02
+Healthcare & Human Services,Physical Health,29-1229.01,Allergists and Immunologists,https://www.onetonline.org/link/summary/29-1229.01
+Healthcare & Human Services,Physical Health,29-1071.01,Anesthesiologist Assistants,https://www.onetonline.org/link/summary/29-1071.01
+Healthcare & Human Services,Physical Health,29-1211.00,Anesthesiologists,https://www.onetonline.org/link/summary/29-1211.00
+Healthcare & Human Services,Physical Health,29-1181.00,Audiologists,https://www.onetonline.org/link/summary/29-1181.00
+Healthcare & Human Services,Physical Health,29-1212.00,Cardiologists,https://www.onetonline.org/link/summary/29-1212.00
+Healthcare & Human Services,Physical Health,29-2031.00,Cardiovascular Technologists and Technicians,https://www.onetonline.org/link/summary/29-2031.00
+Healthcare & Human Services,Physical Health,29-1011.00,Chiropractors,https://www.onetonline.org/link/summary/29-1011.00
+Healthcare & Human Services,Physical Health,29-1141.04,Clinical Nurse Specialists,https://www.onetonline.org/link/summary/29-1141.04
+Healthcare & Human Services,Physical Health,39-4012.00,Crematory Operators,https://www.onetonline.org/link/summary/39-4012.00
+Healthcare & Human Services,Physical Health,29-1141.03,Critical Care Nurses,https://www.onetonline.org/link/summary/29-1141.03
+Healthcare & Human Services,Physical Health,29-2011.01,Cytogenetic Technologists,https://www.onetonline.org/link/summary/29-2011.01
+Healthcare & Human Services,Physical Health,29-2011.02,Cytotechnologists,https://www.onetonline.org/link/summary/29-2011.02
+Healthcare & Human Services,Physical Health,31-9091.00,Dental Assistants,https://www.onetonline.org/link/summary/31-9091.00
+Healthcare & Human Services,Physical Health,29-1292.00,Dental Hygienists,https://www.onetonline.org/link/summary/29-1292.00
+Healthcare & Human Services,Physical Health,51-9081.00,Dental Laboratory Technicians,https://www.onetonline.org/link/summary/51-9081.00
+Healthcare & Human Services,Physical Health,29-1029.00,"Dentists, All Other Specialists",https://www.onetonline.org/link/summary/29-1029.00
+Healthcare & Human Services,Physical Health,29-1021.00,"Dentists, General",https://www.onetonline.org/link/summary/29-1021.00
+Healthcare & Human Services,Physical Health,29-1213.00,Dermatologists,https://www.onetonline.org/link/summary/29-1213.00
+Healthcare & Human Services,Physical Health,29-2032.00,Diagnostic Medical Sonographers,https://www.onetonline.org/link/summary/29-2032.00
+Healthcare & Human Services,Physical Health,39-4011.00,Embalmers,https://www.onetonline.org/link/summary/39-4011.00
+Healthcare & Human Services,Physical Health,29-2042.00,Emergency Medical Technicians,https://www.onetonline.org/link/summary/29-2042.00
+Healthcare & Human Services,Physical Health,29-1214.00,Emergency Medicine Physicians,https://www.onetonline.org/link/summary/29-1214.00
+Healthcare & Human Services,Physical Health,29-1128.00,Exercise Physiologists,https://www.onetonline.org/link/summary/29-1128.00
+Healthcare & Human Services,Physical Health,29-1215.00,Family Medicine Physicians,https://www.onetonline.org/link/summary/29-1215.00
+Healthcare & Human Services,Physical Health,39-4021.00,Funeral Attendants,https://www.onetonline.org/link/summary/39-4021.00
+Healthcare & Human Services,Physical Health,29-1216.00,General Internal Medicine Physicians,https://www.onetonline.org/link/summary/29-1216.00
+Healthcare & Human Services,Physical Health,29-9092.00,Genetic Counselors,https://www.onetonline.org/link/summary/29-9092.00
+Healthcare & Human Services,Physical Health,29-2099.00,"Health Technologists and Technicians, All Other",https://www.onetonline.org/link/summary/29-2099.00
+Healthcare & Human Services,Physical Health,29-1299.00,"Healthcare Diagnosing or Treating Practitioners, All Other",https://www.onetonline.org/link/summary/29-1299.00
+Healthcare & Human Services,Physical Health,29-9099.00,"Healthcare Practitioners and Technical Workers, All Other",https://www.onetonline.org/link/summary/29-9099.00
+Healthcare & Human Services,Physical Health,29-2092.00,Hearing Aid Specialists,https://www.onetonline.org/link/summary/29-2092.00
+Healthcare & Human Services,Physical Health,29-2012.01,Histology Technicians,https://www.onetonline.org/link/summary/29-2012.01
+Healthcare & Human Services,Physical Health,29-2011.04,Histotechnologists,https://www.onetonline.org/link/summary/29-2011.04
+Healthcare & Human Services,Physical Health,29-1229.02,Hospitalists,https://www.onetonline.org/link/summary/29-1229.02
+Healthcare & Human Services,Physical Health,29-2061.00,Licensed Practical and Licensed Vocational Nurses,https://www.onetonline.org/link/summary/29-2061.00
+Healthcare & Human Services,Physical Health,29-2035.00,Magnetic Resonance Imaging Technologists,https://www.onetonline.org/link/summary/29-2035.00
+Healthcare & Human Services,Physical Health,29-2012.00,Medical and Clinical Laboratory Technicians,https://www.onetonline.org/link/summary/29-2012.00
+Healthcare & Human Services,Physical Health,29-2011.00,Medical and Clinical Laboratory Technologists,https://www.onetonline.org/link/summary/29-2011.00
+Healthcare & Human Services,Physical Health,51-9082.00,Medical Appliance Technicians,https://www.onetonline.org/link/summary/51-9082.00
+Healthcare & Human Services,Physical Health,29-2036.00,Medical Dosimetrists,https://www.onetonline.org/link/summary/29-2036.00
+Healthcare & Human Services,Physical Health,31-9093.00,Medical Equipment Preparers,https://www.onetonline.org/link/summary/31-9093.00
+Healthcare & Human Services,Physical Health,29-9099.01,Midwives,https://www.onetonline.org/link/summary/29-9099.01
+Healthcare & Human Services,Physical Health,39-4031.00,"Morticians, Undertakers, and Funeral Arrangers",https://www.onetonline.org/link/summary/39-4031.00
+Healthcare & Human Services,Physical Health,29-1299.01,Naturopathic Physicians,https://www.onetonline.org/link/summary/29-1299.01
+Healthcare & Human Services,Physical Health,29-2099.01,Neurodiagnostic Technologists,https://www.onetonline.org/link/summary/29-2099.01
+Healthcare & Human Services,Physical Health,29-1217.00,Neurologists,https://www.onetonline.org/link/summary/29-1217.00
+Healthcare & Human Services,Physical Health,29-2033.00,Nuclear Medicine Technologists,https://www.onetonline.org/link/summary/29-2033.00
+Healthcare & Human Services,Physical Health,29-1151.00,Nurse Anesthetists,https://www.onetonline.org/link/summary/29-1151.00
+Healthcare & Human Services,Physical Health,29-1161.00,Nurse Midwives,https://www.onetonline.org/link/summary/29-1161.00
+Healthcare & Human Services,Physical Health,29-1171.00,Nurse Practitioners,https://www.onetonline.org/link/summary/29-1171.00
+Healthcare & Human Services,Physical Health,31-1131.00,Nursing Assistants,https://www.onetonline.org/link/summary/31-1131.00
+Healthcare & Human Services,Physical Health,29-1218.00,Obstetricians and Gynecologists,https://www.onetonline.org/link/summary/29-1218.00
+Healthcare & Human Services,Physical Health,31-2011.00,Occupational Therapy Assistants,https://www.onetonline.org/link/summary/31-2011.00
+Healthcare & Human Services,Physical Health,51-9083.00,Ophthalmic Laboratory Technicians,https://www.onetonline.org/link/summary/51-9083.00
+Healthcare & Human Services,Physical Health,29-2057.00,Ophthalmic Medical Technicians,https://www.onetonline.org/link/summary/29-2057.00
+Healthcare & Human Services,Physical Health,29-2099.05,Ophthalmic Medical Technologists,https://www.onetonline.org/link/summary/29-2099.05
+Healthcare & Human Services,Physical Health,29-1241.00,"Ophthalmologists, Except Pediatric",https://www.onetonline.org/link/summary/29-1241.00
+Healthcare & Human Services,Physical Health,29-2081.00,"Opticians, Dispensing",https://www.onetonline.org/link/summary/29-2081.00
+Healthcare & Human Services,Physical Health,29-1041.00,Optometrists,https://www.onetonline.org/link/summary/29-1041.00
+Healthcare & Human Services,Physical Health,29-1022.00,Oral and Maxillofacial Surgeons,https://www.onetonline.org/link/summary/29-1022.00
+Healthcare & Human Services,Physical Health,31-1132.00,Orderlies,https://www.onetonline.org/link/summary/31-1132.00
+Healthcare & Human Services,Physical Health,29-1023.00,Orthodontists,https://www.onetonline.org/link/summary/29-1023.00
+Healthcare & Human Services,Physical Health,29-1242.00,"Orthopedic Surgeons, Except Pediatric",https://www.onetonline.org/link/summary/29-1242.00
+Healthcare & Human Services,Physical Health,29-1299.02,Orthoptists,https://www.onetonline.org/link/summary/29-1299.02
+Healthcare & Human Services,Physical Health,29-2091.00,Orthotists and Prosthetists,https://www.onetonline.org/link/summary/29-2091.00
+Healthcare & Human Services,Physical Health,29-2043.00,Paramedics,https://www.onetonline.org/link/summary/29-2043.00
+Healthcare & Human Services,Physical Health,29-2099.08,Patient Representatives,https://www.onetonline.org/link/summary/29-2099.08
+Healthcare & Human Services,Physical Health,29-1243.00,Pediatric Surgeons,https://www.onetonline.org/link/summary/29-1243.00
+Healthcare & Human Services,Physical Health,29-1221.00,"Pediatricians, General",https://www.onetonline.org/link/summary/29-1221.00
+Healthcare & Human Services,Physical Health,29-1051.00,Pharmacists,https://www.onetonline.org/link/summary/29-1051.00
+Healthcare & Human Services,Physical Health,31-9095.00,Pharmacy Aides,https://www.onetonline.org/link/summary/31-9095.00
+Healthcare & Human Services,Physical Health,29-2052.00,Pharmacy Technicians,https://www.onetonline.org/link/summary/29-2052.00
+Healthcare & Human Services,Physical Health,31-9097.00,Phlebotomists,https://www.onetonline.org/link/summary/31-9097.00
+Healthcare & Human Services,Physical Health,29-1229.04,Physical Medicine and Rehabilitation Physicians,https://www.onetonline.org/link/summary/29-1229.04
+Healthcare & Human Services,Physical Health,31-2022.00,Physical Therapist Aides,https://www.onetonline.org/link/summary/31-2022.00
+Healthcare & Human Services,Physical Health,31-2021.00,Physical Therapist Assistants,https://www.onetonline.org/link/summary/31-2021.00
+Healthcare & Human Services,Physical Health,29-1123.00,Physical Therapists,https://www.onetonline.org/link/summary/29-1123.00
+Healthcare & Human Services,Physical Health,29-1071.00,Physician Assistants,https://www.onetonline.org/link/summary/29-1071.00
+Healthcare & Human Services,Physical Health,29-1229.00,"Physicians, All Other",https://www.onetonline.org/link/summary/29-1229.00
+Healthcare & Human Services,Physical Health,29-1222.00,"Physicians, Pathologists",https://www.onetonline.org/link/summary/29-1222.00
+Healthcare & Human Services,Physical Health,29-1081.00,Podiatrists,https://www.onetonline.org/link/summary/29-1081.00
+Healthcare & Human Services,Physical Health,29-1229.05,Preventive Medicine Physicians,https://www.onetonline.org/link/summary/29-1229.05
+Healthcare & Human Services,Physical Health,29-1024.00,Prosthodontists,https://www.onetonline.org/link/summary/29-1024.00
+Healthcare & Human Services,Physical Health,31-1133.00,Psychiatric Aides,https://www.onetonline.org/link/summary/31-1133.00
+Healthcare & Human Services,Physical Health,29-2053.00,Psychiatric Technicians,https://www.onetonline.org/link/summary/29-2053.00
+Healthcare & Human Services,Physical Health,29-1223.00,Psychiatrists,https://www.onetonline.org/link/summary/29-1223.00
+Healthcare & Human Services,Physical Health,29-1124.00,Radiation Therapists,https://www.onetonline.org/link/summary/29-1124.00
+Healthcare & Human Services,Physical Health,29-2034.00,Radiologic Technologists and Technicians,https://www.onetonline.org/link/summary/29-2034.00
+Healthcare & Human Services,Physical Health,29-1224.00,Radiologists,https://www.onetonline.org/link/summary/29-1224.00
+Healthcare & Human Services,Physical Health,29-1141.00,Registered Nurses,https://www.onetonline.org/link/summary/29-1141.00
+Healthcare & Human Services,Physical Health,29-1126.00,Respiratory Therapists,https://www.onetonline.org/link/summary/29-1126.00
+Healthcare & Human Services,Physical Health,29-1229.06,Sports Medicine Physicians,https://www.onetonline.org/link/summary/29-1229.06
+Healthcare & Human Services,Physical Health,29-1249.00,"Surgeons, All Other",https://www.onetonline.org/link/summary/29-1249.00
+Healthcare & Human Services,Physical Health,29-9093.00,Surgical Assistants,https://www.onetonline.org/link/summary/29-9093.00
+Healthcare & Human Services,Physical Health,29-2055.00,Surgical Technologists,https://www.onetonline.org/link/summary/29-2055.00
+Healthcare & Human Services,Physical Health,29-1229.03,Urologists,https://www.onetonline.org/link/summary/29-1229.03
+Healthcare & Human Services; Public Service & Safety,"Behavioral & Mental Health; Local, State, & Federal Services",19-4061.00,Social Science Research Assistants,https://www.onetonline.org/link/summary/19-4061.00
+Healthcare & Human Services; Public Service & Safety,"Community & Social Services; Local, State, & Federal Services",21-1094.00,Community Health Workers,https://www.onetonline.org/link/summary/21-1094.00
+Healthcare & Human Services; Public Service & Safety,"Community & Social Services; Local, State, & Federal Services",11-9151.00,Social and Community Service Managers,https://www.onetonline.org/link/summary/11-9151.00
+Healthcare & Human Services; Public Service & Safety; Energy & Natural Resources,"Behavioral & Mental Health; Biotechnology Research & Development; Physical Health; Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development",19-1099.00,"Life Scientists, All Other",https://www.onetonline.org/link/summary/19-1099.00
+Healthcare & Human Services; Public Service & Safety; Digital Technology; Management & Entrepreneurship,"Biotechnology Research & Development; Local, State, & Federal Services; Data Science & AI; Business Information Management",15-2041.01,Biostatisticians,https://www.onetonline.org/link/summary/15-2041.01
+Healthcare & Human Services; Agriculture,Biotechnology Research & Development; Animal Systems; Plant Systems,19-1029.01,Bioinformatics Scientists,https://www.onetonline.org/link/summary/19-1029.01
+Healthcare & Human Services; Agriculture,Biotechnology Research & Development; Animal Systems; Plant Systems,19-1029.04,Biologists,https://www.onetonline.org/link/summary/19-1029.04
+Healthcare & Human Services; Agriculture,Biotechnology Research & Development; Animal Systems; Plant Systems,19-1029.03,Geneticists,https://www.onetonline.org/link/summary/19-1029.03
+Healthcare & Human Services; Agriculture,Biotechnology Research & Development; Animal Systems; Plant Systems; Water Systems,19-1029.02,Molecular and Cellular Biologists,https://www.onetonline.org/link/summary/19-1029.02
+Healthcare & Human Services; Agriculture,Health Data & Administration; Animal Systems,31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers,https://www.onetonline.org/link/summary/31-9096.00
+Healthcare & Human Services; Agriculture,Health Data & Administration; Animal Systems,29-2056.00,Veterinary Technologists and Technicians,https://www.onetonline.org/link/summary/29-2056.00
+Healthcare & Human Services; Agriculture; Energy & Natural Resources,Biotechnology Research & Development; Animal Systems; Plant Systems; Water Systems; Conservation & Land Management; Ecological Research & Development; Environmental Protection,19-1029.00,"Biological Scientists, All Other",https://www.onetonline.org/link/summary/19-1029.00
+Healthcare & Human Services; Digital Technology,Health Data & Administration; IT Support & Services,15-1232.00,Computer User Support Specialists,https://www.onetonline.org/link/summary/15-1232.00
+Healthcare & Human Services; Management & Entrepreneurship,Biotechnology Research & Development; Business Information Management,15-2099.01,Bioinformatics Technicians,https://www.onetonline.org/link/summary/15-2099.01
+Healthcare & Human Services; Management & Entrepreneurship,Physical Health; Entrepreneurship & Small Business,11-9171.00,Funeral Home Managers,https://www.onetonline.org/link/summary/11-9171.00
+Public Service & Safety,Emergency Response,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,https://www.onetonline.org/link/summary/33-1021.00
+Public Service & Safety,Emergency Response,43-2021.00,Telephone Operators,https://www.onetonline.org/link/summary/43-2021.00
+Public Service & Safety,Emergency Response; Military & National Security,11-9161.00,Emergency Management Directors,https://www.onetonline.org/link/summary/11-9161.00
+Public Service & Safety,Emergency Response; Public Safety,33-3051.04,Customs and Border Protection Officers,https://www.onetonline.org/link/summary/33-3051.04
+Public Service & Safety,Emergency Response; Public Safety,33-3051.00,Police and Sheriff's Patrol Officers,https://www.onetonline.org/link/summary/33-3051.00
+Public Service & Safety,Judicial Systems,23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",https://www.onetonline.org/link/summary/23-1021.00
+Public Service & Safety,Judicial Systems,23-1022.00,"Arbitrators, Mediators, and Conciliators",https://www.onetonline.org/link/summary/23-1022.00
+Public Service & Safety,Judicial Systems,27-3092.00,Court Reporters and Simultaneous Captioners,https://www.onetonline.org/link/summary/27-3092.00
+Public Service & Safety,Judicial Systems,19-4092.00,Forensic Science Technicians,https://www.onetonline.org/link/summary/19-4092.00
+Public Service & Safety,Judicial Systems,23-1023.00,"Judges, Magistrate Judges, and Magistrates",https://www.onetonline.org/link/summary/23-1023.00
+Public Service & Safety,Judicial Systems,23-1012.00,Judicial Law Clerks,https://www.onetonline.org/link/summary/23-1012.00
+Public Service & Safety,Judicial Systems,23-1011.00,Lawyers,https://www.onetonline.org/link/summary/23-1011.00
+Public Service & Safety,Judicial Systems,43-6012.00,Legal Secretaries and Administrative Assistants,https://www.onetonline.org/link/summary/43-6012.00
+Public Service & Safety,Judicial Systems,23-2099.00,"Legal Support Workers, All Other",https://www.onetonline.org/link/summary/23-2099.00
+Public Service & Safety,Judicial Systems,23-2011.00,Paralegals and Legal Assistants,https://www.onetonline.org/link/summary/23-2011.00
+Public Service & Safety,"Local, State, & Federal Services",13-2031.00,Budget Analysts,https://www.onetonline.org/link/summary/13-2031.00
+Public Service & Safety,"Local, State, & Federal Services",43-4031.00,"Court, Municipal, and License Clerks",https://www.onetonline.org/link/summary/43-4031.00
+Public Service & Safety,"Local, State, & Federal Services",43-4061.00,"Eligibility Interviewers, Government Programs",https://www.onetonline.org/link/summary/43-4061.00
+Public Service & Safety,"Local, State, & Federal Services",19-1041.00,Epidemiologists,https://www.onetonline.org/link/summary/19-1041.00
+Public Service & Safety,"Local, State, & Federal Services",43-4071.00,File Clerks,https://www.onetonline.org/link/summary/43-4071.00
+Public Service & Safety,"Local, State, & Federal Services",11-1031.00,Legislators,https://www.onetonline.org/link/summary/11-1031.00
+Public Service & Safety,"Local, State, & Federal Services",43-5041.00,"Meter Readers, Utilities",https://www.onetonline.org/link/summary/43-5041.00
+Public Service & Safety,"Local, State, & Federal Services",43-5051.00,Postal Service Clerks,https://www.onetonline.org/link/summary/43-5051.00
+Public Service & Safety,"Local, State, & Federal Services",43-5052.00,Postal Service Mail Carriers,https://www.onetonline.org/link/summary/43-5052.00
+Public Service & Safety,"Local, State, & Federal Services",43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",https://www.onetonline.org/link/summary/43-5053.00
+Public Service & Safety,"Local, State, & Federal Services",11-9131.00,Postmasters and Mail Superintendents,https://www.onetonline.org/link/summary/11-9131.00
+Public Service & Safety,"Local, State, & Federal Services",13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",https://www.onetonline.org/link/summary/13-2081.00
+Public Service & Safety,"Local, State, & Federal Services",19-3099.01,Transportation Planners,https://www.onetonline.org/link/summary/19-3099.01
+Public Service & Safety,"Local, State, & Federal Services; Military & National Security",19-2011.00,Astronomers,https://www.onetonline.org/link/summary/19-2011.00
+Public Service & Safety,"Local, State, & Federal Services; Military & National Security",19-2021.00,Atmospheric and Space Scientists,https://www.onetonline.org/link/summary/19-2021.00
+Public Service & Safety,"Local, State, & Federal Services; Military & National Security; Public Safety",33-3021.00,Detectives and Criminal Investigators,https://www.onetonline.org/link/summary/33-3021.00
+Public Service & Safety,"Local, State, & Federal Services; Military & National Security; Public Safety",33-1012.00,First-Line Supervisors of Police and Detectives,https://www.onetonline.org/link/summary/33-1012.00
+Public Service & Safety,"Local, State, & Federal Services; Military & National Security; Public Safety",33-1099.00,"First-Line Supervisors of Protective Service Workers, All Other",https://www.onetonline.org/link/summary/33-1099.00
+Public Service & Safety,"Local, State, & Federal Services; Military & National Security; Public Safety",33-3021.06,Intelligence Analysts,https://www.onetonline.org/link/summary/33-3021.06
+Public Service & Safety,"Local, State, & Federal Services; Military & National Security; Public Safety",33-3021.02,Police Identification and Records Officers,https://www.onetonline.org/link/summary/33-3021.02
+Public Service & Safety,Military & National Security; Public Safety,33-1091.00,First-Line Supervisors of Security Workers,https://www.onetonline.org/link/summary/33-1091.00
+Public Service & Safety,Public Safety,33-3011.00,Bailiffs,https://www.onetonline.org/link/summary/33-3011.00
+Public Service & Safety,Public Safety,37-2019.00,"Building Cleaning Workers, All Other",https://www.onetonline.org/link/summary/37-2019.00
+Public Service & Safety,Public Safety,33-3012.00,Correctional Officers and Jailers,https://www.onetonline.org/link/summary/33-3012.00
+Public Service & Safety,Public Safety,33-9091.00,Crossing Guards and Flaggers,https://www.onetonline.org/link/summary/33-9091.00
+Public Service & Safety,Public Safety,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",https://www.onetonline.org/link/summary/43-5032.00
+Public Service & Safety,Public Safety,33-2021.00,Fire Inspectors and Investigators,https://www.onetonline.org/link/summary/33-2021.00
+Public Service & Safety,Public Safety,33-1011.00,First-Line Supervisors of Correctional Officers,https://www.onetonline.org/link/summary/33-1011.00
+Public Service & Safety,Public Safety,33-9031.00,Gambling Surveillance Officers and Gambling Investigators,https://www.onetonline.org/link/summary/33-9031.00
+Public Service & Safety,Public Safety,37-3019.00,"Grounds Maintenance Workers, All Other",https://www.onetonline.org/link/summary/37-3019.00
+Public Service & Safety,Public Safety,33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",https://www.onetonline.org/link/summary/33-9092.00
+Public Service & Safety,Public Safety,33-3041.00,Parking Enforcement Workers,https://www.onetonline.org/link/summary/33-3041.00
+Public Service & Safety,Public Safety,33-9021.00,Private Detectives and Investigators,https://www.onetonline.org/link/summary/33-9021.00
+Public Service & Safety,Public Safety,21-1092.00,Probation Officers and Correctional Treatment Specialists,https://www.onetonline.org/link/summary/21-1092.00
+Public Service & Safety,Public Safety,33-9099.00,"Protective Service Workers, All Other",https://www.onetonline.org/link/summary/33-9099.00
+Public Service & Safety,Public Safety,43-5031.00,Public Safety Telecommunicators,https://www.onetonline.org/link/summary/43-5031.00
+Public Service & Safety,Public Safety,33-9099.02,Retail Loss Prevention Specialists,https://www.onetonline.org/link/summary/33-9099.02
+Public Service & Safety,Public Safety,33-9094.00,School Bus Monitors,https://www.onetonline.org/link/summary/33-9094.00
+Public Service & Safety,Public Safety,33-9032.00,Security Guards,https://www.onetonline.org/link/summary/33-9032.00
+Public Service & Safety,Public Safety,33-3052.00,Transit and Railroad Police,https://www.onetonline.org/link/summary/33-3052.00
+Public Service & Safety,Public Safety,33-9093.00,Transportation Security Screeners,https://www.onetonline.org/link/summary/33-9093.00
+Public Service & Safety; Agriculture; Management & Entrepreneurship,"Local, State, & Federal Services; Agribusiness; Business Information Management; Leadership & Operations",19-3011.00,Economists,https://www.onetonline.org/link/summary/19-3011.00
+Public Service & Safety; Agriculture; Management & Entrepreneurship,"Local, State, & Federal Services; Agribusiness; Business Information Management; Leadership & Operations",19-3011.01,Environmental Economists,https://www.onetonline.org/link/summary/19-3011.01
+Public Service & Safety; Energy & Natural Resources,Emergency Response; Environmental Protection,33-2011.00,Firefighters,https://www.onetonline.org/link/summary/33-2011.00
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development",19-2041.02,Environmental Restoration Planners,https://www.onetonline.org/link/summary/19-2041.02
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development",19-2041.03,Industrial Ecologists,https://www.onetonline.org/link/summary/19-2041.03
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development; Environmental Protection",19-1031.00,Conservation Scientists,https://www.onetonline.org/link/summary/19-1031.00
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development; Environmental Protection",19-1031.03,Park Naturalists,https://www.onetonline.org/link/summary/19-1031.03
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Conservation & Land Management; Ecological Research & Development; Environmental Protection",19-1031.02,Range Managers,https://www.onetonline.org/link/summary/19-1031.02
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Ecological Research & Development",19-2041.01,Climate Change Policy Analysts,https://www.onetonline.org/link/summary/19-2041.01
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Ecological Research & Development",19-4042.00,"Environmental Science and Protection Technicians, Including Health",https://www.onetonline.org/link/summary/19-4042.00
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Ecological Research & Development; Resource Extraction",19-4043.00,"Geological Technicians, Except Hydrologic Technicians",https://www.onetonline.org/link/summary/19-4043.00
+Public Service & Safety; Energy & Natural Resources,"Local, State, & Federal Services; Environmental Protection",33-3031.00,Fish and Game Wardens,https://www.onetonline.org/link/summary/33-3031.00
+Public Service & Safety; Energy & Natural Resources,Public Safety; Conservation & Land Management,33-2022.00,Forest Fire Inspectors and Prevention Specialists,https://www.onetonline.org/link/summary/33-2022.00
+Public Service & Safety; Energy & Natural Resources; Management & Entrepreneurship,"Local, State, & Federal Services; Public Safety; Environmental Protection; Resource Extraction; Regulation",13-1041.01,Environmental Compliance Inspectors,https://www.onetonline.org/link/summary/13-1041.01
+Public Service & Safety; Energy & Natural Resources; Management & Entrepreneurship,"Local, State, & Federal Services; Public Safety; Environmental Protection; Regulation",13-1041.04,Government Property Inspectors and Investigators,https://www.onetonline.org/link/summary/13-1041.04
+Public Service & Safety; Energy & Natural Resources; Management & Entrepreneurship,"Local, State, & Federal Services; Conservation & Land Management; Entrepreneurship & Small Business; Leadership & Operations",11-3013.00,Facilities Managers,https://www.onetonline.org/link/summary/11-3013.00
+Public Service & Safety; Energy & Natural Resources; Management & Entrepreneurship,"Local, State, & Federal Services; Conservation & Land Management; Entrepreneurship & Small Business; Leadership & Operations",11-3013.01,Security Managers,https://www.onetonline.org/link/summary/11-3013.01
+Public Service & Safety; Energy & Natural Resources; Management & Entrepreneurship,"Local, State, & Federal Services; Environmental Protection; Resource Extraction; Regulation",13-1041.07,Regulatory Affairs Specialists,https://www.onetonline.org/link/summary/13-1041.07
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.07,Blockchain Engineers,https://www.onetonline.org/link/summary/15-1299.07
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.00,"Computer Occupations, All Other",https://www.onetonline.org/link/summary/15-1299.00
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.08,Computer Systems Engineers/Architects,https://www.onetonline.org/link/summary/15-1299.08
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.06,Digital Forensics Analysts,https://www.onetonline.org/link/summary/15-1299.06
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.03,Document Management Specialists,https://www.onetonline.org/link/summary/15-1299.03
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.02,Geographic Information Systems Technologists and Technicians,https://www.onetonline.org/link/summary/15-1299.02
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.05,Information Security Engineers,https://www.onetonline.org/link/summary/15-1299.05
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.09,Information Technology Project Managers,https://www.onetonline.org/link/summary/15-1299.09
+Public Service & Safety; Digital Technology,Military & National Security; Data Science & AI; IT Support & Services,15-1299.04,Penetration Testers,https://www.onetonline.org/link/summary/15-1299.04
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Military & National Security; Entrepreneurship & Small Business; Leadership & Operations",11-9199.02,Compliance Managers,https://www.onetonline.org/link/summary/11-9199.02
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Military & National Security; Entrepreneurship & Small Business; Leadership & Operations",11-9199.08,Loss Prevention Managers,https://www.onetonline.org/link/summary/11-9199.08
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Military & National Security; Entrepreneurship & Small Business; Leadership & Operations; Regulation",11-9199.01,Regulatory Affairs Managers,https://www.onetonline.org/link/summary/11-9199.01
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Military & National Security; Leadership & Operations",19-3094.00,Political Scientists,https://www.onetonline.org/link/summary/19-3094.00
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Public Safety; Regulation",13-1041.08,Customs Brokers,https://www.onetonline.org/link/summary/13-1041.08
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Entrepreneurship & Small Business; Leadership & Operations",11-9199.11,Brownfield Redevelopment Specialists and Site Managers,https://www.onetonline.org/link/summary/11-9199.11
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Entrepreneurship & Small Business; Leadership & Operations",11-3121.00,Human Resources Managers,https://www.onetonline.org/link/summary/11-3121.00
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Entrepreneurship & Small Business; Leadership & Operations",11-3131.00,Training and Development Managers,https://www.onetonline.org/link/summary/11-3131.00
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Entrepreneurship & Small Business; Leadership & Operations",11-9199.10,Wind Energy Development Managers,https://www.onetonline.org/link/summary/11-9199.10
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Entrepreneurship & Small Business; Leadership & Operations",11-9199.09,Wind Energy Operations Managers,https://www.onetonline.org/link/summary/11-9199.09
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Regulation",13-1041.06,Coroners,https://www.onetonline.org/link/summary/13-1041.06
+Public Service & Safety; Management & Entrepreneurship,"Local, State, & Federal Services; Regulation",13-1041.03,Equal Opportunity Representatives and Officers,https://www.onetonline.org/link/summary/13-1041.03
+Public Service & Safety; Marketing & Sales,"Local, State, & Federal Services; Market Research, Analytics, & Ethics",19-3041.00,Sociologists,https://www.onetonline.org/link/summary/19-3041.00
+Agriculture,Agribusiness; Animal Systems; Food Science & Processing; Plant Systems; Water Systems,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",https://www.onetonline.org/link/summary/11-9013.00
+Agriculture,Agricultural Technology & Automation,17-2021.00,Agricultural Engineers,https://www.onetonline.org/link/summary/17-2021.00
+Agriculture,Agricultural Technology & Automation,45-2091.00,Agricultural Equipment Operators,https://www.onetonline.org/link/summary/45-2091.00
+Agriculture,Agricultural Technology & Automation,45-2099.00,"Agricultural Workers, All Other",https://www.onetonline.org/link/summary/45-2099.00
+Agriculture,Agricultural Technology & Automation,13-1074.00,Farm Labor Contractors,https://www.onetonline.org/link/summary/13-1074.00
+Agriculture,Agricultural Technology & Automation,45-2041.00,"Graders and Sorters, Agricultural Products",https://www.onetonline.org/link/summary/45-2041.00
+Agriculture,Agricultural Technology & Automation; Water Systems,49-3041.00,Farm Equipment Mechanics and Service Technicians,https://www.onetonline.org/link/summary/49-3041.00
+Agriculture,Animal Systems,45-2021.00,Animal Breeders,https://www.onetonline.org/link/summary/45-2021.00
+Agriculture,Animal Systems,39-2021.00,Animal Caretakers,https://www.onetonline.org/link/summary/39-2021.00
+Agriculture,Animal Systems,33-9011.00,Animal Control Workers,https://www.onetonline.org/link/summary/33-9011.00
+Agriculture,Animal Systems,39-2011.00,Animal Trainers,https://www.onetonline.org/link/summary/39-2011.00
+Agriculture,Animal Systems,29-1131.00,Veterinarians,https://www.onetonline.org/link/summary/29-1131.00
+Agriculture,Animal Systems; Food Science & Processing,19-1011.00,Animal Scientists,https://www.onetonline.org/link/summary/19-1011.00
+Agriculture,Animal Systems; Food Science & Processing; Plant Systems,19-4012.00,Agricultural Technicians,https://www.onetonline.org/link/summary/19-4012.00
+Agriculture,Animal Systems; Water Systems,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",https://www.onetonline.org/link/summary/45-2093.00
+Agriculture,Food Science & Processing,45-2011.00,Agricultural Inspectors,https://www.onetonline.org/link/summary/45-2011.00
+Agriculture,Food Science & Processing,51-3021.00,Butchers and Meat Cutters,https://www.onetonline.org/link/summary/51-3021.00
+Agriculture,Food Science & Processing,19-4013.00,Food Science Technicians,https://www.onetonline.org/link/summary/19-4013.00
+Agriculture,Food Science & Processing,19-1012.00,Food Scientists and Technologists,https://www.onetonline.org/link/summary/19-1012.00
+Agriculture,Food Science & Processing,51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",https://www.onetonline.org/link/summary/51-3022.00
+Agriculture,Food Science & Processing,51-3023.00,Slaughterers and Meat Packers,https://www.onetonline.org/link/summary/51-3023.00
+Agriculture,Food Science & Processing; Plant Systems,19-4012.01,Precision Agriculture Technicians,https://www.onetonline.org/link/summary/19-4012.01
+Agriculture,Plant Systems,45-4021.00,Fallers,https://www.onetonline.org/link/summary/45-4021.00
+Agriculture,Plant Systems,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",https://www.onetonline.org/link/summary/45-2092.00
+Agriculture,Plant Systems,45-4011.00,Forest and Conservation Workers,https://www.onetonline.org/link/summary/45-4011.00
+Agriculture,Plant Systems,45-4023.00,Log Graders and Scalers,https://www.onetonline.org/link/summary/45-4023.00
+Agriculture,Plant Systems,45-4029.00,"Logging Workers, All Other",https://www.onetonline.org/link/summary/45-4029.00
+Agriculture,Plant Systems,37-2021.00,Pest Control Workers,https://www.onetonline.org/link/summary/37-2021.00
+Agriculture,Plant Systems,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",https://www.onetonline.org/link/summary/37-3012.00
+Agriculture,Water Systems,45-3031.00,Fishing and Hunting Workers,https://www.onetonline.org/link/summary/45-3031.00
+Agriculture; Energy & Natural Resources,Agribusiness; Animal Systems; Food Science & Processing; Plant Systems; Water Systems; Ecological Research & Development,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",https://www.onetonline.org/link/summary/45-1011.00
+Agriculture; Energy & Natural Resources,Plant Systems; Conservation & Land Management; Ecological Research & Development,19-4071.00,Forest and Conservation Technicians,https://www.onetonline.org/link/summary/19-4071.00
+Agriculture; Energy & Natural Resources,Plant Systems; Ecological Research & Development,19-1022.00,Microbiologists,https://www.onetonline.org/link/summary/19-1022.00
+Agriculture; Energy & Natural Resources,Plant Systems; Ecological Research & Development,19-1013.00,Soil and Plant Scientists,https://www.onetonline.org/link/summary/19-1013.00
+Agriculture; Energy & Natural Resources,Water Systems; Conservation & Land Management; Ecological Research & Development; Environmental Protection; Resource Extraction,19-4044.00,Hydrologic Technicians,https://www.onetonline.org/link/summary/19-4044.00
+Agriculture; Energy & Natural Resources,Water Systems; Conservation & Land Management; Ecological Research & Development; Resource Extraction,19-2043.00,Hydrologists,https://www.onetonline.org/link/summary/19-2043.00
+Energy & Natural Resources,Clean & Alternative Energy,51-8011.00,Nuclear Power Reactor Operators,https://www.onetonline.org/link/summary/51-8011.00
+Energy & Natural Resources,Clean & Alternative Energy,51-8012.00,Power Distributors and Dispatchers,https://www.onetonline.org/link/summary/51-8012.00
+Energy & Natural Resources,Clean & Alternative Energy; Ecological Research & Development,17-2161.00,Nuclear Engineers,https://www.onetonline.org/link/summary/17-2161.00
+Energy & Natural Resources,Clean & Alternative Energy; Utilities,51-8013.03,Biomass Plant Technicians,https://www.onetonline.org/link/summary/51-8013.03
+Energy & Natural Resources,Clean & Alternative Energy; Utilities,51-8013.04,Hydroelectric Plant Technicians,https://www.onetonline.org/link/summary/51-8013.04
+Energy & Natural Resources,Clean & Alternative Energy; Utilities,51-8013.00,Power Plant Operators,https://www.onetonline.org/link/summary/51-8013.00
+Energy & Natural Resources,Clean & Alternative Energy; Utilities,49-9081.00,Wind Turbine Service Technicians,https://www.onetonline.org/link/summary/49-9081.00
+Energy & Natural Resources,Conservation & Land Management; Ecological Research & Development,19-2099.00,"Physical Scientists, All Other",https://www.onetonline.org/link/summary/19-2099.00
+Energy & Natural Resources,Conservation & Land Management; Ecological Research & Development,19-1023.00,Zoologists and Wildlife Biologists,https://www.onetonline.org/link/summary/19-1023.00
+Energy & Natural Resources,Conservation & Land Management; Utilities,17-3031.00,Surveying and Mapping Technicians,https://www.onetonline.org/link/summary/17-3031.00
+Energy & Natural Resources,Ecological Research & Development; Utilities,17-2081.00,Environmental Engineers,https://www.onetonline.org/link/summary/17-2081.00
+Energy & Natural Resources,Resource Extraction,47-5011.00,"Derrick Operators, Oil and Gas",https://www.onetonline.org/link/summary/47-5011.00
+Energy & Natural Resources,Resource Extraction,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",https://www.onetonline.org/link/summary/19-2042.00
+Energy & Natural Resources,Resource Extraction,47-5081.00,Helpers--Extraction Workers,https://www.onetonline.org/link/summary/47-5081.00
+Energy & Natural Resources,Resource Extraction,47-5044.00,"Loading and Moving Machine Operators, Underground Mining",https://www.onetonline.org/link/summary/47-5044.00
+Energy & Natural Resources,Resource Extraction,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",https://www.onetonline.org/link/summary/17-2151.00
+Energy & Natural Resources,Resource Extraction,17-2171.00,Petroleum Engineers,https://www.onetonline.org/link/summary/17-2171.00
+Energy & Natural Resources,Resource Extraction,49-9096.00,Riggers,https://www.onetonline.org/link/summary/49-9096.00
+Energy & Natural Resources,Resource Extraction,47-5051.00,"Rock Splitters, Quarry",https://www.onetonline.org/link/summary/47-5051.00
+Energy & Natural Resources,Resource Extraction,47-5043.00,"Roof Bolters, Mining",https://www.onetonline.org/link/summary/47-5043.00
+Energy & Natural Resources,Resource Extraction,47-5012.00,"Rotary Drill Operators, Oil and Gas",https://www.onetonline.org/link/summary/47-5012.00
+Energy & Natural Resources,Resource Extraction,47-5071.00,"Roustabouts, Oil and Gas",https://www.onetonline.org/link/summary/47-5071.00
+Energy & Natural Resources,Resource Extraction,47-5013.00,"Service Unit Operators, Oil and Gas",https://www.onetonline.org/link/summary/47-5013.00
+Energy & Natural Resources,Resource Extraction,53-7073.00,Wellhead Pumpers,https://www.onetonline.org/link/summary/53-7073.00
+Energy & Natural Resources,Utilities,51-8099.01,Biofuels Processing Technicians,https://www.onetonline.org/link/summary/51-8099.01
+Energy & Natural Resources,Utilities,51-2021.00,"Coil Winders, Tapers, and Finishers",https://www.onetonline.org/link/summary/51-2021.00
+Energy & Natural Resources,Utilities,43-2099.00,"Communications Equipment Operators, All Other",https://www.onetonline.org/link/summary/43-2099.00
+Energy & Natural Resources,Utilities,49-9051.00,Electrical Power-Line Installers and Repairers,https://www.onetonline.org/link/summary/49-9051.00
+Energy & Natural Resources,Utilities,17-2072.00,"Electronics Engineers, Except Computer",https://www.onetonline.org/link/summary/17-2072.00
+Energy & Natural Resources,Utilities,51-8092.00,Gas Plant Operators,https://www.onetonline.org/link/summary/51-8092.00
+Energy & Natural Resources,Utilities,49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics,https://www.onetonline.org/link/summary/49-3053.00
+Energy & Natural Resources,Utilities,51-8093.00,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",https://www.onetonline.org/link/summary/51-8093.00
+Energy & Natural Resources,Utilities,51-8099.00,"Plant and System Operators, All Other",https://www.onetonline.org/link/summary/51-8099.00
+Energy & Natural Resources,Utilities,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",https://www.onetonline.org/link/summary/49-2021.00
+Energy & Natural Resources,Utilities,53-7062.04,Recycling and Reclamation Workers,https://www.onetonline.org/link/summary/53-7062.04
+Energy & Natural Resources,Utilities,53-7081.00,Refuse and Recyclable Material Collectors,https://www.onetonline.org/link/summary/53-7081.00
+Energy & Natural Resources,Utilities,47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners,https://www.onetonline.org/link/summary/47-4071.00
+Energy & Natural Resources,Utilities,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",https://www.onetonline.org/link/summary/49-2022.00
+Energy & Natural Resources,Utilities,49-9052.00,Telecommunications Line Installers and Repairers,https://www.onetonline.org/link/summary/49-9052.00
+Energy & Natural Resources,Utilities,51-8031.00,Water and Wastewater Treatment Plant and System Operators,https://www.onetonline.org/link/summary/51-8031.00
+Energy & Natural Resources; Digital Technology,Conservation & Land Management; Ecological Research & Development; Unmanned Vehicle Technology,19-2099.01,Remote Sensing Scientists and Technologists,https://www.onetonline.org/link/summary/19-2099.01
+Energy & Natural Resources; Digital Technology,Conservation & Land Management; Ecological Research & Development; Unmanned Vehicle Technology,19-4099.03,Remote Sensing Technicians,https://www.onetonline.org/link/summary/19-4099.03
+Energy & Natural Resources; Management & Entrepreneurship,Conservation & Land Management; Entrepreneurship & Small Business; Leadership & Operations,11-1021.00,General and Operations Managers,https://www.onetonline.org/link/summary/11-1021.00
+Digital Technology,Data Science & AI,15-2051.02,Clinical Data Managers,https://www.onetonline.org/link/summary/15-2051.02
+Digital Technology,Data Science & AI; IT Support & Services,15-1299.01,Web Administrators,https://www.onetonline.org/link/summary/15-1299.01
+Digital Technology,Data Science & AI; Network Systems & Cybersecurity,15-1211.00,Computer Systems Analysts,https://www.onetonline.org/link/summary/15-1211.00
+Digital Technology,Data Science & AI; Network Systems & Cybersecurity,15-1211.01,Health Informatics Specialists,https://www.onetonline.org/link/summary/15-1211.01
+Digital Technology,Data Science & AI; Web & Cloud,15-1221.00,Computer and Information Research Scientists,https://www.onetonline.org/link/summary/15-1221.00
+Digital Technology,IT Support & Services,17-2061.00,Computer Hardware Engineers,https://www.onetonline.org/link/summary/17-2061.00
+Digital Technology,IT Support & Services; Network Systems & Cybersecurity; Software Solutions; Web & Cloud,11-3021.00,Computer and Information Systems Managers,https://www.onetonline.org/link/summary/11-3021.00
+Digital Technology,IT Support & Services; Software Solutions,15-1253.00,Software Quality Assurance Analysts and Testers,https://www.onetonline.org/link/summary/15-1253.00
+Digital Technology,Network Systems & Cybersecurity,15-1212.00,Information Security Analysts,https://www.onetonline.org/link/summary/15-1212.00
+Digital Technology,Network Systems & Cybersecurity,15-1244.00,Network and Computer Systems Administrators,https://www.onetonline.org/link/summary/15-1244.00
+Digital Technology,Network Systems & Cybersecurity; Software Solutions; Web & Cloud,15-1251.00,Computer Programmers,https://www.onetonline.org/link/summary/15-1251.00
+Digital Technology,Network Systems & Cybersecurity; Web & Cloud,15-1241.00,Computer Network Architects,https://www.onetonline.org/link/summary/15-1241.00
+Digital Technology,Network Systems & Cybersecurity; Web & Cloud,15-1231.00,Computer Network Support Specialists,https://www.onetonline.org/link/summary/15-1231.00
+Digital Technology,Network Systems & Cybersecurity; Web & Cloud,15-1241.01,Telecommunications Engineering Specialists,https://www.onetonline.org/link/summary/15-1241.01
+Digital Technology,Software Solutions,15-1242.00,Database Administrators,https://www.onetonline.org/link/summary/15-1242.00
+Digital Technology,Software Solutions; Web & Cloud,15-1243.01,Data Warehousing Specialists,https://www.onetonline.org/link/summary/15-1243.01
+Digital Technology,Software Solutions; Web & Cloud,15-1243.00,Database Architects,https://www.onetonline.org/link/summary/15-1243.00
+Management & Entrepreneurship,Business Information Management,15-2031.00,Operations Research Analysts,https://www.onetonline.org/link/summary/15-2031.00
+Management & Entrepreneurship,Business Information Management; Entrepreneurship & Small Business; Leadership & Operations,13-1199.04,Business Continuity Planners,https://www.onetonline.org/link/summary/13-1199.04
+Management & Entrepreneurship,Business Information Management; Entrepreneurship & Small Business; Leadership & Operations,13-1199.00,"Business Operations Specialists, All Other",https://www.onetonline.org/link/summary/13-1199.00
+Management & Entrepreneurship,Business Information Management; Entrepreneurship & Small Business; Leadership & Operations,13-1199.06,Online Merchants,https://www.onetonline.org/link/summary/13-1199.06
+Management & Entrepreneurship,Business Information Management; Entrepreneurship & Small Business; Leadership & Operations,13-1199.07,Security Management Specialists,https://www.onetonline.org/link/summary/13-1199.07
+Management & Entrepreneurship,Business Information Management; Entrepreneurship & Small Business; Leadership & Operations,13-1199.05,Sustainability Specialists,https://www.onetonline.org/link/summary/13-1199.05
+Management & Entrepreneurship,Business Information Management; Regulation,11-3031.00,Financial Managers,https://www.onetonline.org/link/summary/11-3031.00
+Management & Entrepreneurship,Business Information Management; Regulation,11-3031.03,Investment Fund Managers,https://www.onetonline.org/link/summary/11-3031.03
+Management & Entrepreneurship,Business Information Management; Regulation,11-3031.01,Treasurers and Controllers,https://www.onetonline.org/link/summary/11-3031.01
+Management & Entrepreneurship,Entrepreneurship & Small Business,11-9179.01,Fitness and Wellness Coordinators,https://www.onetonline.org/link/summary/11-9179.01
+Management & Entrepreneurship,Entrepreneurship & Small Business,11-9179.02,Spa Managers,https://www.onetonline.org/link/summary/11-9179.02
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,11-3012.00,Administrative Services Managers,https://www.onetonline.org/link/summary/11-3012.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,11-1011.00,Chief Executives,https://www.onetonline.org/link/summary/11-1011.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,11-1011.03,Chief Sustainability Officers,https://www.onetonline.org/link/summary/11-1011.03
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,11-3111.00,Compensation and Benefits Managers,https://www.onetonline.org/link/summary/11-3111.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,https://www.onetonline.org/link/summary/43-1011.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,13-1071.00,Human Resources Specialists,https://www.onetonline.org/link/summary/13-1071.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,43-3051.00,Payroll and Timekeeping Clerks,https://www.onetonline.org/link/summary/43-3051.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,11-2032.00,Public Relations Managers,https://www.onetonline.org/link/summary/11-2032.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Leadership & Operations,27-3031.00,Public Relations Specialists,https://www.onetonline.org/link/summary/27-3031.00
+Management & Entrepreneurship,Entrepreneurship & Small Business; Project Management,13-1082.00,Project Management Specialists,https://www.onetonline.org/link/summary/13-1082.00
+Management & Entrepreneurship,Leadership & Operations,43-9031.00,Desktop Publishers,https://www.onetonline.org/link/summary/43-9031.00
+Management & Entrepreneurship,Leadership & Operations,43-6011.00,Executive Secretaries and Executive Administrative Assistants,https://www.onetonline.org/link/summary/43-6011.00
+Management & Entrepreneurship,Leadership & Operations,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",https://www.onetonline.org/link/summary/43-4161.00
+Management & Entrepreneurship,Leadership & Operations,19-3032.00,Industrial-Organizational Psychologists,https://www.onetonline.org/link/summary/19-3032.00
+Management & Entrepreneurship,Leadership & Operations,13-1075.00,Labor Relations Specialists,https://www.onetonline.org/link/summary/13-1075.00
+Management & Entrepreneurship,Leadership & Operations,43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service",https://www.onetonline.org/link/summary/43-9051.00
+Management & Entrepreneurship,Leadership & Operations,43-9199.00,"Office and Administrative Support Workers, All Other",https://www.onetonline.org/link/summary/43-9199.00
+Management & Entrepreneurship,Leadership & Operations,43-9061.00,"Office Clerks, General",https://www.onetonline.org/link/summary/43-9061.00
+Management & Entrepreneurship,Leadership & Operations,43-9071.00,"Office Machine Operators, Except Computer",https://www.onetonline.org/link/summary/43-9071.00
+Management & Entrepreneurship,Leadership & Operations,43-4151.00,Order Clerks,https://www.onetonline.org/link/summary/43-4151.00
+Management & Entrepreneurship,Leadership & Operations,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",https://www.onetonline.org/link/summary/43-6014.00
+Management & Entrepreneurship,Leadership & Operations,13-1151.00,Training and Development Specialists,https://www.onetonline.org/link/summary/13-1151.00
+Management & Entrepreneurship,Leadership & Operations,43-9022.00,Word Processors and Typists,https://www.onetonline.org/link/summary/43-9022.00
+Management & Entrepreneurship,Regulation,17-2111.02,Fire-Prevention and Protection Engineers,https://www.onetonline.org/link/summary/17-2111.02
+Management & Entrepreneurship,Regulation,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",https://www.onetonline.org/link/summary/17-2111.00
+Marketing & Sales,"Market Research, Analytics, & Ethics",13-1161.00,Market Research Analysts and Marketing Specialists,https://www.onetonline.org/link/summary/13-1161.00
+Marketing & Sales,"Market Research, Analytics, & Ethics",13-1161.01,Search Marketing Strategists,https://www.onetonline.org/link/summary/13-1161.01
+Marketing & Sales,Marketing & Advertising,11-2011.00,Advertising and Promotions Managers,https://www.onetonline.org/link/summary/11-2011.00
+Marketing & Sales,Marketing & Advertising,41-9011.00,Demonstrators and Product Promoters,https://www.onetonline.org/link/summary/41-9011.00
+Marketing & Sales,Marketing & Advertising,11-2021.00,Marketing Managers,https://www.onetonline.org/link/summary/11-2021.00
+Marketing & Sales,Retail & Customer Experience,41-2011.00,Cashiers,https://www.onetonline.org/link/summary/41-2011.00
+Marketing & Sales,Retail & Customer Experience,43-4051.00,Customer Service Representatives,https://www.onetonline.org/link/summary/43-4051.00
+Marketing & Sales,Retail & Customer Experience,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,https://www.onetonline.org/link/summary/41-1012.00
+Marketing & Sales,Retail & Customer Experience,41-1011.00,First-Line Supervisors of Retail Sales Workers,https://www.onetonline.org/link/summary/41-1011.00
+Marketing & Sales,Retail & Customer Experience,27-1023.00,Floral Designers,https://www.onetonline.org/link/summary/27-1023.00
+Marketing & Sales,Retail & Customer Experience,41-2022.00,Parts Salespersons,https://www.onetonline.org/link/summary/41-2022.00
+Marketing & Sales,Retail & Customer Experience,41-2031.00,Retail Salespersons,https://www.onetonline.org/link/summary/41-2031.00
+Marketing & Sales,Retail & Customer Experience,41-9099.00,"Sales and Related Workers, All Other",https://www.onetonline.org/link/summary/41-9099.00
+Marketing & Sales,Retail & Customer Experience,11-2022.00,Sales Managers,https://www.onetonline.org/link/summary/11-2022.00
+Marketing & Sales,Strategic Sales,41-3011.00,Advertising Sales Agents,https://www.onetonline.org/link/summary/41-3011.00
+Marketing & Sales,Strategic Sales,41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",https://www.onetonline.org/link/summary/41-9091.00
+Marketing & Sales,Strategic Sales,41-9031.00,Sales Engineers,https://www.onetonline.org/link/summary/41-9031.00
+Marketing & Sales,Strategic Sales,41-3091.00,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",https://www.onetonline.org/link/summary/41-3091.00
+Marketing & Sales,Strategic Sales,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",https://www.onetonline.org/link/summary/41-4012.00
+Marketing & Sales,Strategic Sales,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",https://www.onetonline.org/link/summary/41-4011.00
+Marketing & Sales,Strategic Sales,41-4011.07,Solar Sales Representatives and Assessors,https://www.onetonline.org/link/summary/41-4011.07
+Marketing & Sales,Strategic Sales,41-9041.00,Telemarketers,https://www.onetonline.org/link/summary/41-9041.00
