@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+pandas_datareader
+pandas-ta
+scikit-learn
+torch
+statsmodels
+pypfopt
