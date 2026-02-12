@@ -2,6 +2,10 @@ import requests
 import sqlite3
 import sys
 import time
+import html
+from io import BytesIO
+import pytesseract
+from PIL import Image
 
 BASE_URL = "https://www.reddit.com"
 HEADERS = {
@@ -10,6 +14,47 @@ HEADERS = {
 
 CHUNK_SIZE = 100  # Max posts per request
 SLEEP_BETWEEN_REQUESTS = 2  # Num seconds
+
+def get_image_url(p):
+
+    # Regular image
+    post_hint = (p.get("post_hint") or "").lower()
+    url = p.get("url_overridden_by_dest") or p.get("url") or ""
+
+    if post_hint == "image" and url:
+        return url
+
+    # Gallery
+    if p.get("is_gallery") and p.get("media_metadata"):
+        media = p["media_metadata"]
+        for item in media.values(): # Loop over each image
+            if isinstance(item, dict):
+                s = item.get("s") # Get source
+                if isinstance(s, dict):
+                    u = s.get("u") # Get URL
+                    if u:
+                        return html.unescape(u) # Change back to normal characters
+
+    # Preview
+    preview = p.get("preview") or {}
+    images = preview.get("images") or []
+
+    if images and isinstance(images[0], dict): # Only cares about main image
+        source = images[0].get("source") or {}
+        preview_url = source.get("url")
+        if preview_url:
+            return html.unescape(preview_url)
+    return ""
+
+def ocr_image(image_url, *, headers):
+
+    try:
+        resp = requests.get(image_url, headers=headers, timeout=20) # Downloads image
+        resp.raise_for_status()
+        img = Image.open(BytesIO(resp.content)) # Opens image
+        return (pytesseract.image_to_string(img) or "").strip()
+    except Exception:
+        return ""
 
 def clear_db(db_name="reddit.db"):
     conn = sqlite3.connect(db_name)
@@ -25,7 +70,7 @@ def get_posts(subreddit, total_posts):
     backoff = 2 # Start with 2 seconds
 
     while len(posts) < total_posts:
-        url = f"{BASE_URL}/r/{subreddit}/.json?limit={CHUNK_SIZE}"
+        url = f"{BASE_URL}/r/{subreddit}/.json?limit={CHUNK_SIZE}" # json avoids ads
         if after:
             url += f"&after={after}"  # Get more posts
 
@@ -47,14 +92,22 @@ def get_posts(subreddit, total_posts):
             if p["id"] in post_ids:
                 continue  # Skip duplicates
             post_ids.add(p["id"])
+
+            image_url = get_image_url(p)
+            ocr_text = "" # Default to empty string
+            if image_url: # Run only if image URL is found
+                ocr_text = ocr_image(image_url, headers=HEADERS)
+
             posts.append(
                 {
                     "id": p["id"],
                     "title": p["title"].strip(),
                     "author": p["author"],
-                    "score": p["score"],
+                    "score": p["score"], # Upvotes minus downvotes
                     "url": p["url"],
                     "comments": p["num_comments"],
+                    "image_url": image_url,
+                    "ocr_text": ocr_text,
                 }
             )
             if len(posts) >= total_posts:
@@ -82,20 +135,24 @@ def save_to_db(posts, db_name="reddit.db"):
         author TEXT,
         score INTEGER,
         url TEXT,
-        comments INTEGER
+        comments INTEGER,
+        image_url TEXT,
+        ocr_text TEXT
     )
     """)
 
     for post in posts:
         cursor.execute("""
-        INSERT OR IGNORE INTO posts VALUES (?, ?, ?, ?, ?, ?)
+        INSERT OR IGNORE INTO posts VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             post["id"],
             post["title"],
             post["author"],
             post["score"],
             post["url"],
-            post["comments"]
+            post["comments"],
+            post.get("image_url", ""),
+            post.get("ocr_text", ""),
         ))
 
     conn.commit()
