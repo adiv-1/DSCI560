@@ -1,11 +1,14 @@
 import requests
-import sqlite3
 import sys
 import time
 import html
+import os
+import hashlib
+from datetime import datetime, timezone
 from io import BytesIO
 import pytesseract
 from PIL import Image
+import mysql.connector
 
 BASE_URL = "https://www.reddit.com"
 HEADERS = {
@@ -14,6 +17,32 @@ HEADERS = {
 
 CHUNK_SIZE = 100  # Max posts per request
 SLEEP_BETWEEN_REQUESTS = 2  # Num seconds
+MASK_SALT = "DSCI560_lab5" # Prefix for hashing
+
+def get_mysql_connection():
+    return mysql.connector.connect(
+        host="localhost",
+        user="Powerpuff_girls560",
+        password="adityaemilyevan",
+        database="reddit",
+        port=3306
+    )
+
+def clear_db(db_name="reddit.db"):
+    conn = get_mysql_connection()
+    cursor = conn.cursor()
+    cursor.execute("DROP TABLE IF EXISTS posts")
+    conn.commit()
+    cursor.close()
+    conn.close()
+
+def mask_username(username):
+    # Use hashing to maintain consistency
+    user = (username or "").strip()
+    if not user or user == "[deleted]":
+        return "[deleted]"
+    hash_value = hashlib.sha256((MASK_SALT + user).encode("utf-8")).hexdigest()[:10]
+    return f"user_{hash_value}"
 
 def get_image_url(p):
 
@@ -56,12 +85,22 @@ def ocr_image(image_url, *, headers):
     except Exception:
         return ""
 
-def clear_db(db_name="reddit.db"):
-    conn = sqlite3.connect(db_name)
-    cursor = conn.cursor()
-    cursor.execute("DROP TABLE IF EXISTS posts")  # Drops existing content in reddit.db
-    conn.commit()
-    conn.close()
+def preprocessing(p):
+    created_utc = int(p.get("created_utc") or 0)
+    created_iso = (
+        datetime.fromtimestamp(created_utc, tz=timezone.utc).isoformat() # Convert to human readable format
+        if created_utc
+        else ""
+    )
+    image_url = get_image_url(p)
+    ocr_text = ocr_image(image_url, headers=HEADERS) if image_url else ""
+    return {
+        "author_masked": mask_username(p.get("author") or ""),
+        "created_utc": created_utc,
+        "created_iso": created_iso,
+        "image_url": image_url,
+        "ocr_text": ocr_text,
+    }
 
 def get_posts(subreddit, total_posts):
     posts = []
@@ -93,21 +132,19 @@ def get_posts(subreddit, total_posts):
                 continue  # Skip duplicates
             post_ids.add(p["id"])
 
-            image_url = get_image_url(p)
-            ocr_text = "" # Default to empty string
-            if image_url: # Run only if image URL is found
-                ocr_text = ocr_image(image_url, headers=HEADERS)
-
+            processed = preprocessing(p)
             posts.append(
                 {
                     "id": p["id"],
                     "title": p["title"].strip(),
-                    "author": p["author"],
+                    "author_masked": processed["author_masked"],
+                    "created_utc": processed["created_utc"],
+                    "created_iso": processed["created_iso"],
                     "score": p["score"], # Upvotes minus downvotes
                     "url": p["url"],
                     "comments": p["num_comments"],
-                    "image_url": image_url,
-                    "ocr_text": ocr_text,
+                    "image_url": processed["image_url"],
+                    "ocr_text": processed["ocr_text"],
                 }
             )
             if len(posts) >= total_posts:
@@ -124,38 +161,52 @@ def get_posts(subreddit, total_posts):
     return posts
 
 def save_to_db(posts, db_name="reddit.db"):
-    conn = sqlite3.connect(db_name)
+
+    conn = get_mysql_connection()
     cursor = conn.cursor()
 
-    # Use TEXT instead of CHAR for variable length
-    cursor.execute("""
-    CREATE TABLE IF NOT EXISTS posts (
-        id TEXT PRIMARY KEY,
-        title TEXT,
-        author TEXT,
-        score INTEGER,
-        url TEXT,
-        comments INTEGER,
-        image_url TEXT,
-        ocr_text TEXT
+    cursor.execute(
+        """
+        CREATE TABLE IF NOT EXISTS posts (
+            id VARCHAR(20) PRIMARY KEY,
+            title TEXT,
+            author_masked VARCHAR(64),
+            created_utc INT,
+            created_iso VARCHAR(40),
+            score INT,
+            url TEXT,
+            comments INT,
+            image_url TEXT,
+            ocr_text LONGTEXT
+        ) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci
+        """
     )
-    """)
 
-    for post in posts:
-        cursor.execute("""
-        INSERT OR IGNORE INTO posts VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        """, (
-            post["id"],
-            post["title"],
-            post["author"],
-            post["score"],
-            post["url"],
-            post["comments"],
-            post.get("image_url", ""),
-            post.get("ocr_text", ""),
-        ))
+    cursor.executemany(
+        """
+        INSERT IGNORE INTO posts
+        (id, title, author_masked, created_utc, created_iso, score, url, comments, image_url, ocr_text)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        """,
+        [
+            (
+                post["id"],
+                post["title"],
+                post["author_masked"],
+                int(post.get("created_utc", 0) or 0),
+                post.get("created_iso", ""),
+                int(post.get("score", 0) or 0),
+                post.get("url", ""),
+                int(post.get("comments", 0) or 0),
+                post.get("image_url", ""),
+                post.get("ocr_text", ""),
+            )
+            for post in posts
+        ],
+    )
 
     conn.commit()
+    cursor.close()
     conn.close()
 
 if __name__ == "__main__":
@@ -169,11 +220,11 @@ if __name__ == "__main__":
     else:
         num_posts = int(sys.argv[1])
 
-    # Clear database before starting
+    # Clear table before starting
     clear_db("reddit.db")
 
     subreddit_name = "tech"
     posts = get_posts(subreddit_name, num_posts)
-    save_to_db(posts)
+    save_to_db(posts, "reddit.db")
 
     print(f"Scraping complete: Stored {len(posts)} posts")
