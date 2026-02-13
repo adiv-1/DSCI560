@@ -1,7 +1,8 @@
 import sys
 import time
+from datetime import datetime
 
-from preprocessing import build_document, mask_author, convert_timestamp
+from preprocessing import build_document, mask_author
 from db import (
     init_table,
     insert_post,
@@ -21,13 +22,22 @@ SUBREDDIT = "careerguidance"
 MAX_POSTS = 10000
 
 
-def get_scraper(scraper_type):
-    if scraper_type == "selenium":
-        from selenium_scraper import fetch_posts_selenium as fetch_posts
-        print("Using Selenium scraper.")
-    else:
-        from scraper import fetch_posts
-        print("Using JSON scraper.")
+def convert_timestamp(ts):
+    """
+    Handles both epoch int and ISO datetime string.
+    """
+    if isinstance(ts, int):
+        return datetime.fromtimestamp(ts)
+
+    try:
+        return datetime.fromisoformat(ts.replace("Z", "+00:00"))
+    except Exception:
+        return datetime.utcnow()
+
+
+def get_scraper():
+    from scraper import fetch_posts
+    print("Using old.reddit scraper.")
     return fetch_posts
 
 
@@ -42,13 +52,33 @@ def run_once(fetch_posts_func, subreddit, total_posts):
     for i, p in enumerate(raw_posts):
         doc = build_document(p)
 
+        # Normalize score
+        try:
+            score = int(p.get("score", 0))
+        except:
+            score = 0
+
+        # Normalize comments (e.g. "23 comments")
+        comments_raw = p.get("comments", "0")
+        try:
+            comments = int(comments_raw.split()[0])
+        except:
+            comments = 0
+
+        # Normalize timestamp
+        created_raw = p.get("created_utc")
+        if created_raw:
+            created_at = convert_timestamp(created_raw)
+        else:
+            created_at = convert_timestamp(int(time.time()))
+
         insert_post((
             p["id"],
             doc,
             mask_author(p.get("author")),
-            p.get("score", 0),
-            p.get("num_comments", 0),
-            convert_timestamp(p.get("created_utc", int(time.time())))
+            score,
+            comments,
+            created_at
         ))
 
         docs.append(doc)
@@ -98,14 +128,13 @@ def run_once(fetch_posts_func, subreddit, total_posts):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python main.py <interval_seconds> <posts_per_cycle> [json|selenium]")
+        print("Usage: python main.py <interval_seconds> <posts_per_cycle>")
         sys.exit(1)
 
     interval = int(sys.argv[1])
     posts_per_cycle = int(sys.argv[2])
-    scraper_type = sys.argv[3].lower() if len(sys.argv) > 3 else "json"
 
-    fetch_posts_func = get_scraper(scraper_type)
+    fetch_posts_func = get_scraper()
 
     init_table()
 
