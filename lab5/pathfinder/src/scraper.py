@@ -1,170 +1,149 @@
 import requests
 import time
-import random
+import hashlib
+from datetime import datetime, timezone
+from io import BytesIO
+from typing import List, Dict, Optional
+
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
-from ocr import extract_ocr_text
+from PIL import Image
+import pytesseract
+
 
 BASE_URL = "https://old.reddit.com"
+USER_AGENT = "DSCI560-Lab5-Bot/1.0"
+HEADERS = {"User-Agent": USER_AGENT}
 
-IMAGE_EXTENSIONS = (".png", ".jpg", ".jpeg")
-
-# Multiple sort endpoints
-SORT_URLS = [
-    "/new/",
-    "/hot/",
-    "/top/?t=day",
-    "/top/?t=week",
-    "/top/?t=month",
-    "/top/?t=year",
-    "/top/?t=all",
-    "/controversial/?t=all"
-]
-
-# Rotating user agents
-USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/119.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/118.0.0.0 Safari/537.36"
-]
+REQUEST_TIMEOUT = 15
+SLEEP_BETWEEN_REQUESTS = 2
+MASK_SALT = "DSCI560_lab5"
+MAX_IMAGE_SIZE = 5 * 1024 * 1024
 
 
-def create_session():
-    session = requests.Session()
-    session.headers.update({
-        "User-Agent": random.choice(USER_AGENTS),
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Connection": "keep-alive"
-    })
-    return session
+def mask_username(username: Optional[str]) -> str:
+    user = (username or "").strip()
+    if not user or user == "[deleted]":
+        return "[deleted]"
+    return "user_" + hashlib.sha256((MASK_SALT + user).encode()).hexdigest()[:10]
 
 
-def fetch_posts(subreddit, total_posts):
-    posts = []
-    seen_ids = set()
-    session = create_session()
+def _extract_ocr_text(image_url: str) -> str:
+    if not image_url:
+        return ""
+    try:
+        resp = requests.get(image_url, headers=HEADERS, timeout=10)
+        resp.raise_for_status()
 
-    for sort_path in SORT_URLS:
+        if "image" not in resp.headers.get("Content-Type", "").lower():
+            return ""
 
-        if len(posts) >= total_posts:
+        if len(resp.content) > MAX_IMAGE_SIZE:
+            return ""
+
+        img = Image.open(BytesIO(resp.content)).convert("L")
+        return pytesseract.image_to_string(img, lang="eng").strip()
+    except Exception:
+        return ""
+
+
+def _parse_post(div, subreddit: str) -> Dict:
+    post_id = div.get("data-fullname", "").replace("t3_", "")
+
+    title_tag = div.find("a", class_="title")
+    title = title_tag.text.strip() if title_tag else ""
+
+    author_tag = div.find("a", class_="author")
+    author = author_tag.text.strip() if author_tag else "[deleted]"
+
+    score_tag = div.find("div", class_="score unvoted")
+    score_text = score_tag.text if score_tag else "0"
+    try:
+        score = int(score_text.replace(" points", "").replace(" point", "").replace("k", "000"))
+    except:
+        score = 0
+
+    comments_tag = div.find("a", string=lambda x: x and "comment" in x.lower())
+    comments = 0
+    if comments_tag:
+        try:
+            comments = int(comments_tag.text.split()[0])
+        except:
+            comments = 0
+
+    time_tag = div.find("time")
+    created_iso = time_tag["datetime"] if time_tag and time_tag.has_attr("datetime") else ""
+    try:
+        created_dt = datetime.fromisoformat(created_iso.replace("Z", "+00:00"))
+        created_utc = int(created_dt.timestamp())
+    except:
+        created_utc = 0
+        created_dt = datetime.now(timezone.utc)
+
+    image_url = ""
+    link_tag = div.find("a", class_="thumbnail")
+    if link_tag and link_tag.get("href"):
+        image_url = link_tag["href"]
+
+    ocr_text = _extract_ocr_text(image_url) if image_url else ""
+
+    return {
+        "subreddit": subreddit,
+        "id": post_id,
+        "title": title,
+        "selftext": "",  # old.reddit list view does not include body
+        "author": author,
+        "author_masked": mask_username(author),
+        "created_utc": created_utc,
+        "created_iso": created_dt.isoformat(),
+        "score": score,
+        "num_comments": comments,
+        "url": title_tag["href"] if title_tag and title_tag.get("href") else "",
+        "image_url": image_url,
+        "ocr_text": ocr_text
+    }
+
+
+def fetch_posts(subreddit: str, total_posts: int) -> List[Dict]:
+
+    posts: List[Dict] = []
+    after = None
+
+    while len(posts) < total_posts:
+
+        url = f"{BASE_URL}/r/{subreddit}/new/"
+        if after:
+            url += f"?after={after}"
+
+        response = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        if response.status_code != 200:
             break
 
-        print(f"\nScraping sort: {sort_path}")
+        soup = BeautifulSoup(response.text, "html.parser")
 
-        url = f"{BASE_URL}/r/{subreddit}{sort_path}"
+        post_divs = soup.find_all("div", class_="thing")
 
-        while url and len(posts) < total_posts:
+        if not post_divs:
+            break
 
-            try:
-                response = session.get(url, timeout=20)
-
-                if response.status_code == 429:
-                    sleep_time = random.uniform(30, 60)
-                    print(f"Rate limited. Sleeping {sleep_time:.1f} seconds...")
-                    time.sleep(sleep_time)
-                    continue
-
-                response.raise_for_status()
-
-            except Exception as e:
-                print(f"Request error: {e}")
+        for div in post_divs:
+            if len(posts) >= total_posts:
                 break
 
-            # Detect block / captcha page
-            if "captcha" in response.text.lower() or "blocked" in response.text.lower():
-                sleep_time = random.uniform(60, 120)
-                print(f"Blocked by Reddit. Sleeping {sleep_time:.1f} seconds...")
-                time.sleep(sleep_time)
+            if div.get("data-promoted") == "true":
                 continue
 
-            soup = BeautifulSoup(response.text, "html.parser")
-            things = soup.find_all("div", class_="thing")
+            parsed = _parse_post(div, subreddit)
 
-            if not things:
-                print("No posts found on page. Moving to next sort.")
-                break
+            if parsed["id"]:
+                posts.append(parsed)
 
-            for thing in things:
+        next_button = soup.find("span", class_="next-button")
+        if next_button and next_button.find("a"):
+            next_link = next_button.find("a")["href"]
+            after = next_link.split("after=")[-1] if "after=" in next_link else None
+        else:
+            break
 
-                post_id = thing.get("data-id")
-                if not post_id or post_id in seen_ids:
-                    continue
+        time.sleep(SLEEP_BETWEEN_REQUESTS)
 
-                # Skip promoted posts
-                if thing.get("data-promoted") == "true":
-                    continue
-
-                seen_ids.add(post_id)
-
-                # Title
-                title_tag = thing.find("a", class_="title")
-                title = title_tag.text.strip() if title_tag else ""
-
-                # Author
-                author_tag = thing.find("a", class_="author")
-                author = author_tag.text.strip() if author_tag else "[deleted]"
-
-                # Score
-                score_tag = thing.find("div", class_="score unvoted")
-                score_raw = score_tag.get("title") if score_tag and score_tag.get("title") else "0"
-                try:
-                    score = int(score_raw)
-                except:
-                    score = 0
-
-                # Comments
-                comments_tag = thing.find("a", string=lambda s: s and "comment" in s.lower())
-                comments_text = comments_tag.text.strip() if comments_tag else "0 comments"
-
-                # Timestamp
-                time_tag = thing.find("time")
-                created_utc = time_tag.get("datetime") if time_tag else None
-
-                # Permalink
-                permalink = thing.get("data-permalink")
-                full_link = urljoin(BASE_URL, permalink) if permalink else ""
-
-                # OCR
-                image_url = thing.get("data-url", "")
-                ocr_text = ""
-
-                if image_url and image_url.lower().endswith(IMAGE_EXTENSIONS):
-                    print(f"OCR: {image_url}")
-                    try:
-                        ocr_text = extract_ocr_text(image_url)
-                    except Exception as e:
-                        print(f"OCR failed: {e}")
-
-                post_data = {
-                    "id": post_id,
-                    "title": title,
-                    "author": author,
-                    "score": score,
-                    "comments": comments_text,
-                    "created_utc": created_utc,
-                    "permalink": full_link,
-                    "url": image_url,
-                    "ocr_text": ocr_text
-                }
-
-                posts.append(post_data)
-
-                if len(posts) >= total_posts:
-                    break
-
-            print(f"Collected {len(posts)} posts so far...")
-
-            # Pagination
-            next_button = soup.find("span", class_="next-button")
-            if next_button and next_button.find("a"):
-                url = next_button.find("a")["href"]
-            else:
-                url = None
-
-            # Human-like delay
-            sleep_time = random.uniform(3, 6)
-            time.sleep(sleep_time)
-
-    print(f"\nFinished. Total collected: {len(posts)}")
     return posts

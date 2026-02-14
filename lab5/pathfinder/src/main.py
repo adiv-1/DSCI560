@@ -1,6 +1,6 @@
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 
 from preprocessing import build_document, mask_author
 from db import (
@@ -17,17 +17,19 @@ from embedding_cluster import (
     extract_cluster_keywords
 )
 
-# Default subreddit
-SUBREDDIT = "careerguidance"
-MAX_POSTS = 10000
+
+SUBREDDITS = [
+    "careerguidance",
+    "jobs",
+    "cscareerquestions",
+    "resume",
+    "career"
+]
 
 
 def convert_timestamp(ts):
-    """
-    Handles both epoch int and ISO datetime string.
-    """
     if isinstance(ts, int):
-        return datetime.fromtimestamp(ts)
+        return datetime.fromtimestamp(ts, tz=timezone.utc)
 
     try:
         return datetime.fromisoformat(ts.replace("Z", "+00:00"))
@@ -37,11 +39,12 @@ def convert_timestamp(ts):
 
 def get_scraper():
     from scraper import fetch_posts
-    print("Using old.reddit scraper.")
+    print("Using JSON scraper.")
     return fetch_posts
 
 
 def run_once(fetch_posts_func, subreddit, total_posts):
+
     print(f"\nFetching {total_posts} posts from r/{subreddit}...")
     raw_posts = fetch_posts_func(subreddit, total_posts)
     print(f"Fetched {len(raw_posts)} posts")
@@ -50,27 +53,14 @@ def run_once(fetch_posts_func, subreddit, total_posts):
     post_ids = []
 
     for i, p in enumerate(raw_posts):
+
         doc = build_document(p)
 
-        # Normalize score
-        try:
-            score = int(p.get("score", 0))
-        except:
-            score = 0
+        score = int(p.get("score", 0))
+        comments = int(p.get("num_comments", 0))
 
-        # Normalize comments (e.g. "23 comments")
-        comments_raw = p.get("comments", "0")
-        try:
-            comments = int(comments_raw.split()[0])
-        except:
-            comments = 0
-
-        # Normalize timestamp
         created_raw = p.get("created_utc")
-        if created_raw:
-            created_at = convert_timestamp(created_raw)
-        else:
-            created_at = convert_timestamp(int(time.time()))
+        created_at = convert_timestamp(created_raw) if created_raw else datetime.utcnow()
 
         insert_post((
             p["id"],
@@ -88,7 +78,7 @@ def run_once(fetch_posts_func, subreddit, total_posts):
             print(f"Saved {i + 1} posts...")
 
     if not docs:
-        print("No documents fetched. Skipping this cycle.")
+        print("No documents fetched. Skipping.")
         return
 
     print("Generating embeddings...")
@@ -120,6 +110,7 @@ def run_once(fetch_posts_func, subreddit, total_posts):
     cursor = conn.cursor()
     cursor.execute("SELECT COUNT(*) FROM posts")
     total_rows = cursor.fetchone()[0]
+    cursor.close()
     conn.close()
 
     print(f"\nTotal rows currently in database: {total_rows}")
@@ -127,32 +118,20 @@ def run_once(fetch_posts_func, subreddit, total_posts):
 
 
 if __name__ == "__main__":
+
     if len(sys.argv) < 3:
-        print("Usage: python main.py <interval_seconds> <posts_per_cycle>")
+        print("Usage: python main.py <interval_seconds> <posts_per_subreddit>")
         sys.exit(1)
 
     interval = int(sys.argv[1])
-    posts_per_cycle = int(sys.argv[2])
+    posts_per_subreddit = int(sys.argv[2])
 
     fetch_posts_func = get_scraper()
-
     init_table()
 
-    while True:
-        conn = get_connection()
-        cursor = conn.cursor()
-        cursor.execute("SELECT COUNT(*) FROM posts")
-        total_rows = cursor.fetchone()[0]
-        conn.close()
-
-        if total_rows >= MAX_POSTS:
-            print(f"\nReached {MAX_POSTS} posts. Stopping execution.")
-            break
-
-        remaining = MAX_POSTS - total_rows
-        batch_size = min(posts_per_cycle, remaining)
-
-        run_once(fetch_posts_func, SUBREDDIT, batch_size)
-
-        print(f"Sleeping for {interval} seconds...")
+    for subreddit in SUBREDDITS:
+        run_once(fetch_posts_func, subreddit, posts_per_subreddit)
+        print(f"\nSleeping for {interval} seconds...\n")
         time.sleep(interval)
+
+    print("\nFinished scraping all subreddits.")

@@ -6,22 +6,16 @@ import json
 DB_CONFIG = {
     "host": "localhost",
     "user": "reddit_user",
-    "password": "your_password",   # ← Replace with your actual password
+    "password": "your_password",  # replace
     "database": "reddit_db"
 }
 
 
 def get_connection():
-    """
-    Create and return a new MySQL connection.
-    """
     return mysql.connector.connect(**DB_CONFIG)
 
 
 def init_table():
-    """
-    Create posts table if it does not exist.
-    """
     conn = get_connection()
     cursor = conn.cursor()
 
@@ -34,18 +28,20 @@ def init_table():
             comments INT,
             created_at DATETIME,
             embedding JSON,
-            cluster_id INT
+            cluster_id INT,
+            INDEX idx_cluster (cluster_id)
         )
     """)
 
     conn.commit()
+    cursor.close()
     conn.close()
 
 
 def insert_post(data_tuple):
     """
-    Insert a new post.
-    Uses INSERT IGNORE to prevent duplicates.
+    data_tuple:
+    (id, cleaned_text, masked_author, score, comments, created_at)
     """
     conn = get_connection()
     cursor = conn.cursor()
@@ -57,13 +53,11 @@ def insert_post(data_tuple):
     """, data_tuple)
 
     conn.commit()
+    cursor.close()
     conn.close()
 
 
 def update_embedding(post_id, embedding):
-    """
-    Update embedding for a given post.
-    """
     conn = get_connection()
     cursor = conn.cursor()
 
@@ -74,13 +68,11 @@ def update_embedding(post_id, embedding):
     """, (json.dumps(embedding), post_id))
 
     conn.commit()
+    cursor.close()
     conn.close()
 
 
 def update_cluster(post_id, cluster_id):
-    """
-    Update cluster ID for a given post.
-    """
     conn = get_connection()
     cursor = conn.cursor()
 
@@ -91,4 +83,42 @@ def update_cluster(post_id, cluster_id):
     """, (cluster_id, post_id))
 
     conn.commit()
+    cursor.close()
     conn.close()
+
+
+def fetch_all_posts():
+    """
+    Returns list of (id, cleaned_text)
+    """
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT id, cleaned_text FROM posts")
+    rows = cursor.fetchall()
+
+    cursor.close()
+    conn.close()
+
+    return rows
+
+
+def fetch_posts_by_cluster(cluster_id):
+    """
+    Returns all posts in a given cluster.
+    """
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        SELECT id, cleaned_text
+        FROM posts
+        WHERE cluster_id = %s
+    """, (cluster_id,))
+
+    rows = cursor.fetchall()
+
+    cursor.close()
+    conn.close()
+
+    return rows

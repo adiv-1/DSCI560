@@ -3,35 +3,40 @@ from io import BytesIO
 from PIL import Image
 import pytesseract
 
-
 HEADERS = {
-    "User-Agent": "dsci560_lab5_script"
+    "User-Agent": "DSCI560-Lab5-Bot/1.0"
 }
+
+MAX_IMAGE_SIZE = 5 * 1024 * 1024  # 5MB
 
 
 def extract_ocr_text(image_url):
-    """
-    Downloads an image and extracts text using Tesseract OCR.
-    Returns extracted text or empty string on failure.
-    """
-
     if not image_url:
         return ""
 
     try:
-        response = requests.get(image_url, headers=HEADERS, timeout=10)
+        response = requests.get(
+            image_url,
+            headers=HEADERS,
+            timeout=10,
+            allow_redirects=True
+        )
         response.raise_for_status()
 
-        img = Image.open(BytesIO(response.content))
+        # Validate content type
+        content_type = response.headers.get("Content-Type", "").lower()
+        if "image" not in content_type:
+            return ""
 
-        # Convert to RGB (important for some image formats)
-        img = img.convert("RGB")
+        # Prevent very large images
+        if len(response.content) > MAX_IMAGE_SIZE:
+            return ""
 
-        text = pytesseract.image_to_string(img)
+        img = Image.open(BytesIO(response.content)).convert("L")
+
+        text = pytesseract.image_to_string(img, lang="eng")
 
         return text.strip()
 
-    except Exception as e:
-        # Fail silently (important so scraper doesn't crash)
-        print(f"OCR failed for {image_url}: {e}")
+    except Exception:
         return ""

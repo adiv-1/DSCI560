@@ -1,53 +1,49 @@
 import re
-from datetime import datetime
+import hashlib
+from datetime import datetime, timezone
+
+MASK_SALT = "DSCI560_lab5"
 
 
 def clean_text(text):
     if not text:
         return ""
-
-    # Remove HTML tags
-    text = re.sub(r"<.*?>", " ", text)
-
-    # Remove URLs
+    text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"http\S+|www\S+", " ", text)
-
-    # Remove non-alphanumeric characters
     text = re.sub(r"[^a-zA-Z0-9\s]", " ", text)
-
-    # Normalize whitespace
     text = re.sub(r"\s+", " ", text)
 
     return text.strip().lower()
 
 
 def mask_author(author):
-    if not author:
-        return "user_unknown"
+    author = (author or "").strip()
 
-    return f"user_{abs(hash(author)) % 100000}"
+    if not author or author == "[deleted]":
+        return "[deleted]"
+
+    hashed = hashlib.sha256(
+        (MASK_SALT + author).encode("utf-8")
+    ).hexdigest()
+
+    return f"user_{hashed[:10]}"
 
 
 def convert_timestamp(ts):
+    if isinstance(ts, int):
+        return datetime.fromtimestamp(ts, tz=timezone.utc)
+
     try:
-        return datetime.fromtimestamp(ts)
+        return datetime.fromisoformat(
+            ts.replace("Z", "+00:00")
+        ).astimezone(timezone.utc)
     except Exception:
         return None
 
 
 def build_document(post):
-    """
-    Builds the full text document used for embeddings.
-    Includes:
-        - Cleaned title
-        - Cleaned body
-        - Cleaned OCR text (if exists)
-    """
-
     title = clean_text(post.get("title", ""))
     body = clean_text(post.get("selftext", ""))
     ocr_text = clean_text(post.get("ocr_text", ""))
 
-    full_text = f"{title} {body} {ocr_text}".strip()
-
-    return full_text
+    return f"{title} {body} {ocr_text}".strip()

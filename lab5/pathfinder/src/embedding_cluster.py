@@ -4,42 +4,43 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 
 
-# Load embedding model once (important for performance)
+# Load embedding model once globally
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
 def generate_embeddings(texts):
-    """
-    Generate sentence embeddings for a list of documents.
-    """
     if not texts:
         return np.array([])
 
-    return model.encode(texts, show_progress_bar=False)
+    embeddings = model.encode(texts, show_progress_bar=False)
+    embeddings = np.array(embeddings)
+
+    # Normalize embeddings (improves KMeans behavior)
+    norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
+    norms[norms == 0] = 1
+    embeddings = embeddings / norms
+
+    return embeddings
 
 
 def cluster_embeddings(embeddings, k=5):
-    """
-    Cluster embeddings using KMeans.
-    Returns:
-        labels (cluster assignments)
-        fitted KMeans model
-    """
-    if len(embeddings) == 0:
+    if embeddings is None or len(embeddings) == 0:
         return np.array([]), None
 
-    kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
+    k = min(k, len(embeddings))
+
+    kmeans = KMeans(
+        n_clusters=k,
+        random_state=42,
+        n_init=10
+    )
+
     labels = kmeans.fit_predict(embeddings)
 
     return labels, kmeans
 
 
 def closest_to_centroids(embeddings, labels, kmeans):
-    """
-    Find the document closest to each cluster centroid.
-    Returns:
-        Dictionary: {cluster_id: index_of_representative_doc}
-    """
     if kmeans is None or len(embeddings) == 0:
         return {}
 
@@ -50,7 +51,7 @@ def closest_to_centroids(embeddings, labels, kmeans):
         cluster_points = np.where(labels == cluster_id)[0]
 
         if len(cluster_points) == 0:
-            continue  # Safety guard for empty clusters
+            continue
 
         cluster_embeddings = embeddings[cluster_points]
 
@@ -66,15 +67,11 @@ def closest_to_centroids(embeddings, labels, kmeans):
 
 
 def extract_cluster_keywords(docs, labels, top_n=10):
-    """
-    Extract top TF-IDF keywords per cluster.
-    Returns:
-        Dictionary: {cluster_id: [keyword1, keyword2, ...]}
-    """
-    if not docs:
+    if not docs or len(labels) == 0:
         return {}
 
-    cluster_keywords = {}
+    if len(docs) < 2:
+        return {0: []}
 
     vectorizer = TfidfVectorizer(
         stop_words="english",
@@ -84,6 +81,7 @@ def extract_cluster_keywords(docs, labels, top_n=10):
     tfidf_matrix = vectorizer.fit_transform(docs)
     feature_names = np.array(vectorizer.get_feature_names_out())
 
+    cluster_keywords = {}
     unique_clusters = np.unique(labels)
 
     for cluster_id in unique_clusters:
@@ -93,13 +91,14 @@ def extract_cluster_keywords(docs, labels, top_n=10):
             continue
 
         cluster_tfidf = tfidf_matrix[cluster_indices]
-
-        mean_tfidf = cluster_tfidf.mean(axis=0)
-        mean_tfidf = np.asarray(mean_tfidf).flatten()
+        mean_tfidf = np.asarray(
+            cluster_tfidf.mean(axis=0)
+        ).flatten()
 
         top_indices = mean_tfidf.argsort()[-top_n:][::-1]
-        top_keywords = feature_names[top_indices]
 
-        cluster_keywords[cluster_id] = top_keywords.tolist()
+        cluster_keywords[int(cluster_id)] = (
+            feature_names[top_indices].tolist()
+        )
 
     return cluster_keywords
